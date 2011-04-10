@@ -1,0 +1,46 @@
+== Frequently Asked Questions ==
+*What is the purpose of this project?*
+
+There are [http://wikiindex.org thousands of wikis] in the Internet. Everyday a few of them are lost, due to lack of backups. People download tons of films and music. Wikis, most of them published under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame.
+
+*What do [http://code.google.com/p/wikiteam/downloads/list?can=1 all these backups] contain?*
+
+These backups contain the text of the wikis and/or their images. Passwords or user accounts related information are *NOT* included. Read about the license of these materials below.
+
+*What is the license of the texts and the files contained in the backups?*
+
+Every wiki has its own license.
+
+Usually, wikis use free licenses like [http://creativecommons.org Creative Commons] or [http://en.wikipedia.org/wiki/GNU_Free_Documentation_License GFDL], but some wikis may have non-free content. For an exact answer, you must visit the wiki site and check the license (probably, at the bottom of the wiki page).
+
+The licenses of the images are a bit more complex. Every image may have a different license. Again, check the wiki and/or every _.desc_ file inside the '_images_' directory in the backup. If the uploader did it correctly, the '_.desc_' file must contain the author, date, and license details of the image.
+
+*I am a wiki administrator with server access. How can I backup my wiki?*
+
+You can use [http://www.mediawiki.org/wiki/Manual:DumpBackup.php dumpBackup.php], a script available in every MediaWiki installation.
+
+*I am a wiki user. How can I backup a single article?*
+
+You can use [http://meta.wikimedia.org/wiki/Help:Export Special:Export]. There is an [http://www.mediawiki.org/wiki/Manual:Parameters_to_Special:Export advanced guide] too.
+
+*I am a wiki user. How can I backup the entire wiki?*
+
+You can use [http://meta.wikimedia.org/wiki/Help:Export Special:Export] over all the pages. Or use a [http://code.google.com/p/wikiteam/source/checkout WikiTeam] tool.
+
+*What is that .7z format? Why do you use it?*
+
+7z is a compressed archive file format. I use it because it is free (GPL) and it has a high compression ratio. [http://en.wikipedia.org/wiki/7z Read about it] in Wikipedia. There are software for [http://www.7-zip.org Windows] and [http://p7zip.sourceforge.net GNU/Linux] (_sudo apt-get install p7zip_).
+
+*How can I import a XML dump?*
+
+Use the [http://www.mediawiki.org/wiki/Manual:ImportDump.php importDump.php]. Read [http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps Manual:Importing XML dumps].
+
+*I would like to help you. How can I do it?*
+
+You can help [http://code.google.com/p/wikiteam/adminIssues reporting broken links, bugs, new wikis or making suggestions]. Thanks.
+
+*Can I download a Wikipedia backup?*
+
+Yes, you can. Follow this link [http://dumps.wikimedia.org http://dumps.wikimedia.org]. Read [http://en.wikipedia.org/wiki/User:Emijrp/Wikipedia_Archive this guide] too.
+
+Some other projects publish their backups too (although most of them publish only text, no images): [http://en.citizendium.org/wiki/CZ:Downloads Citizendium], [http://www.omegawiki.org/Development OmegaWiki], [http://wiki.osdev.org/OSDev_Wiki:About OSDev], [http://wiki-stats.wikia.com Wikia], [http://www.wikivoyage.org/general/Wikivoyage_General:XML_dumps Wikivoyage].
