@@ -1,0 +1,3 @@
+How to use WikiTools? Here we explain it.
+
+Remember you always can see the inline help with _--help_ parameter.
