@@ -32,6 +32,10 @@ If API is not available, then use this:
 
 ...
 
-*How can I know the patht o API or index.php?*
+*How can I know the path of the API or index.php?*
 
 ...
+
+*Can I resume a dump?*
+
+Yes, you can. Use the parameter _--path_ to indicate where is the incomplete dump. The script will resume it.
