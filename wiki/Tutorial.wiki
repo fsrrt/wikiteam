@@ -1,4 +1,4 @@
-How to use the dumpgenerator? Here we explain it.
+How to use the dump generator? Here we explain it.
 
 Remember you always can see the inline help with _--help_ parameter.
 
@@ -11,10 +11,10 @@ There are XML dumps and image dumps.
 If you have server access, use this http://www.mediawiki.org/wiki/Manual:DumpBackup.php
 
 If you have no server access, then use our dump generator. If the wiki you want to backup has API, use this:
-  * python dumpgenerator.py --api=http://yourdomain.com/path/to/api.php --xml
+  * _python dumpgenerator.py --api=http://yourdomain.com/path/to/api.php --xml_
 
 If API is not available, then use this:
-  * python dumpgenerator.py --index=http://yourdomain.com/path/to/index.php --xml
+  * _python dumpgenerator.py --index=http://yourdomain.com/path/to/index.php --xml_
 
 *How can I make an images backup?*
 
