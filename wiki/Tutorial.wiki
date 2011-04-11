@@ -1,3 +1,25 @@
 How to use WikiTools? Here we explain it.
 
 Remember you always can see the inline help with _--help_ parameter.
+
+*What kind of backups there are?*
+
+There are XML dumps and image dumps.
+
+*How can I make a XML backup?*
+
+If you have server access, use this http://www.mediawiki.org/wiki/Manual:DumpBackup.php
+
+If you have no server access, then use WikiTools. If the wiki you want to backup has API, use this:
+  * python dumpgenerator.py --api=http://yourdomain.com/path/to/api.php --xml
+
+If API is not available, then use this:
+  * python dumpgenerator.py --index=http://yourdomain.com/path/to/index.php --xml
+
+*How can I make an images backup?*
+
+...
+
+*How can I make both?*
+
+...
