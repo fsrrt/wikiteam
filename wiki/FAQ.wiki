@@ -43,6 +43,6 @@ You can help [http://code.google.com/p/wikiteam/adminIssues reporting broken lin
 
 Yes, you can. Wikimedia Foundation publishes dumps from time to time, so you don't need to use our tools. Follow this link [http://dumps.wikimedia.org http://dumps.wikimedia.org]. Read [http://en.wikipedia.org/wiki/User:Emijrp/Wikipedia_Archive this guide] too.
 
-Some other projects publish their backups too (although most of them publish only text, no images): [http://en.citizendium.org/wiki/CZ:Downloads Citizendium], [http://www.omegawiki.org/Development OmegaWiki], [http://wiki.osdev.org/OSDev_Wiki:About OSDev], [http://wiki-stats.wikia.com Wikia], [http://www.wikivoyage.org/general/Wikivoyage_General:XML_dumps Wikivoyage].
+Some other projects publish their backups too (although most of them publish only text, no images): [http://en.citizendium.org/wiki/CZ:Downloads Citizendium], [http://www.omegawiki.org/Development OmegaWiki], [http://wiki.osdev.org/OSDev_Wiki:About OSDev], [http://wiki-stats.wikia.com Wikia], [http://dumps.wikifur.com WikiFur], [http://www.wikivoyage.org/general/Wikivoyage_General:XML_dumps Wikivoyage].
 
 If a project publishes dumps, you don't have to use our tools. Simply download the dumps they offer.
