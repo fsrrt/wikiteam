@@ -19,10 +19,10 @@ There are XML dumps and image dumps.
 If you have server access, use this http://www.mediawiki.org/wiki/Manual:DumpBackup.php
 
 If you have no server access, then use our dump generator. If the wiki you want to backup has API, use this:
-  * _python dumpgenerator.py --api=http://yourdomain.com/path/to/api.php --xml_
+  * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --xml_
 
 If API is not available, then use this:
-  * _python dumpgenerator.py --index=http://yourdomain.com/path/to/index.php --xml_
+  * _python dumpgenerator.py --index=http://wikidomain.com/path/to/index.php --xml_
 
 *How can I make an images backup?*
 
@@ -39,3 +39,4 @@ If API is not available, then use this:
 *Can I resume a dump?*
 
 Yes, you can. Use the parameter _--path_ to indicate where is the incomplete dump. The script will resume it.
+  * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --xml --images --path=dumpdirectory_
