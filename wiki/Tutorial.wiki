@@ -31,3 +31,7 @@ If API is not available, then use this:
 *How can I make both?*
 
 ...
+
+*How can I know the patht o API or index.php?*
+
+...
