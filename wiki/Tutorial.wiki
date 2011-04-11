@@ -2,9 +2,17 @@ How to use the dump generator? Here we explain it.
 
 Remember you always can see the inline help with _--help_ parameter.
 
-*What kind of backups there are?*
+*What kind of backups exist?*
 
 There are XML dumps and image dumps.
+
+*What does a XML dump contain?*
+
+...
+
+*What does an image dump contain?*
+
+...
 
 *How can I make a XML backup?*
 
