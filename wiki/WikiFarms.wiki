@@ -8,3 +8,5 @@ List of wikifarms:
 Offline:
   * ScribbleWiki
   * elwiki.com
+
+Do you know more wikifarms? Please, leave a comment.
