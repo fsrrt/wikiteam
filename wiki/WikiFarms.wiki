@@ -1,12 +1,13 @@
 List of wikifarms:
-  * Wikia
   * EditThis
+  * elwiki.com (offline)
+  * Wikia
+  * Wiki-sitesite
   * Wikkii
-  * Wiki-site
+  * ScriWiki
   * TropicalWikis
 
-Offline:
-  * ScribbleWiki
-  * elwiki.com
+Not MediaWiki:
+  * Wik.is (offline)
 
 Do you know more wikifarms? Please, leave a comment.
