@@ -5,7 +5,7 @@ List of wikifarms:
   * ScribbleWiki
   * TropicalWikis
   * Wikia
-  * Wiki-sitesite
+  * Wiki-site
   * Wikkii
 
 Not MediaWiki:
