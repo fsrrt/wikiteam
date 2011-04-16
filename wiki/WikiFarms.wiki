@@ -11,4 +11,8 @@ List of wikifarms:
 Not MediaWiki:
   * Wik.is (offline)
 
+For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk%2Flistsofwikis look here].
+
+----
+
 Do you know more wikifarms? Please, leave a comment.
