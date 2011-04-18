@@ -45,7 +45,7 @@ Simply use _--xml_ and _--images_ at the same time.
 
 *How can I know the path of the API or index.php?*
 
-Go to the wiki Main Page, click on "History" tab. You will see an URL with this format: www.example.com/.../index.php?title=...
+Go to the wiki Main Page, click on "History" tab. You will see an URL with this format: _http://www.example.com/.../index.php?title=..._
 
 If you want the API URL, remove all from index.php, and replace it with api.php.
 
@@ -58,4 +58,4 @@ Yes, you can. Use the parameters _--resume_ and _--path_ to indicate where is th
 
 *I want to import a XML/image dump, how can I do it?*
 
-Read http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps and http://www.mediawiki.org/wiki/Manual:ImportImages.php
+Read http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps and http://www.mediawiki.org/wiki/Manual:ImportImages.php.
