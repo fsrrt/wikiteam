@@ -4,15 +4,17 @@ Remember you always can see the inline help with _--help_ parameter.
 
 *What kind of backups exist?*
 
-There are XML dumps and image dumps.
+There are XML dumps (current and history) and image dumps.
 
 *What does a XML dump contain?*
 
-...
+A XML dump contains the metadata of the edits (author, date, comment) and the text (wikitext).
+
+A XML dump may be "current" or "history". First one contains only the last edit for every page. Second one contains the full history.
 
 *What does an image dump contain?*
 
-...
+An image dump contain all the images available in a wiki, plus their descriptions.
 
 *How can I make a XML backup?*
 
@@ -26,17 +28,34 @@ If API is not available, then use this:
 
 *How can I make an images backup?*
 
-...
+If you have server access, copy the image directory (see LocalSettings.php details).
+
+If you have no server access, the use the same method in the question above, but replace --xml by --images.
+
+If the wiki you want to backup has API, use this:
+  * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --images_
+
+If API is not available, then use this:
+  * _python dumpgenerator.py --index=http://wikidomain.com/path/to/index.php --images_
+
 
 *How can I make both?*
 
-...
+Simply use _--xml_ and _--images_ at the same time.
 
 *How can I know the path of the API or index.php?*
 
-...
+Go to the wiki Main Page, click on "History" tab. You will see an URL with this format: www.example.com/.../index.php?title=...
+
+If you want the API URL, remove all from index.php, and replace it with api.php.
+
+If you want the index.php URL, remove only from the '?' symbol.
 
 *Can I resume a dump?*
 
 Yes, you can. Use the parameter _--path_ to indicate where is the incomplete dump. The script will resume it.
   * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --xml --images --path=dumpdirectory_
+
+*I want to import a XML/image dump, how can I do it?*
+
+Read http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps and http://www.mediawiki.org/wiki/Manual:ImportImages.php
