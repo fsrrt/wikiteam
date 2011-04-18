@@ -30,7 +30,7 @@ If API is not available, then use this:
 
 If you have server access, copy the image directory (see LocalSettings.php details).
 
-If you have no server access, the use the same method in the question above, but replace --xml by --images.
+If you have no server access, the use the same method in the question above, but replace _--xml_ by _--images_.
 
 If the wiki you want to backup has API, use this:
   * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --images_
@@ -53,8 +53,8 @@ If you want the index.php URL, remove only from the '?' symbol.
 
 *Can I resume a dump?*
 
-Yes, you can. Use the parameter _--path_ to indicate where is the incomplete dump. The script will resume it.
-  * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --xml --images --path=dumpdirectory_
+Yes, you can. Use the parameters _--resume__ and _--path_ to indicate where is the incomplete dump. The script will resume it.
+  * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --xml --images --resume --path=dumpdirectory_
 
 *I want to import a XML/image dump, how can I do it?*
 
