@@ -53,7 +53,7 @@ If you want the index.php URL, remove only from the '?' symbol.
 
 *Can I resume a dump?*
 
-Yes, you can. Use the parameters _--resume__ and _--path_ to indicate where is the incomplete dump. The script will resume it.
+Yes, you can. Use the parameters _--resume_ and _--path_ to indicate where is the incomplete dump. The script will resume it.
   * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --xml --images --resume --path=dumpdirectory_
 
 *I want to import a XML/image dump, how can I do it?*
