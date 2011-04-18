@@ -47,7 +47,7 @@ Simply use _--xml_ and _--images_ at the same time.
 
 Go to the wiki Main Page, click on "History" tab. You will see an URL with this format: _http://www.example.com/.../index.php?title=..._
 
-If you want the API URL, remove all from index.php, and replace it with api.php.
+If you want the API URL, remove all from _index.php_, and replace it with _api.php_. If you see a webpage with the API documentation, then, you did it fine. Otherwise, API can be located in other path or you did it wrong.
 
 If you want the index.php URL, remove only from the '?' symbol.
 
