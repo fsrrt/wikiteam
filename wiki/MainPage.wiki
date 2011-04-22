@@ -4,8 +4,10 @@ There are [http://wikiindex.org thousands of wikis] in the Internet. Everyday so
 
 == News ==
 The last current events!
-  * 22/04/2011: Archiving Citizendium, RationalWiki and DeletionPedia.
-  * April 2011: Archiving Wikanda wikis (the Andalusian encyclopedia): Almeríapedia, Cádizpedia, Córdobapedia, Granadapedia, Huelvapedia, Jaenpedia, Málagapedia and Sevillapedia.
+  * 2011-04-22: Archiving Citizendium, !RationalWiki and !DeletionPedia.
+  * 2011-04-10: Start archiving Wikanda wikis (the Andalusian encyclopedia), Almeríapedia, Cádizpedia, Córdobapedia, Granadapedia, Huelvapedia, Jaenpedia, Málagapedia and Sevillapedia.
+  * 2011-04-10: [http://code.google.com/p/wikiteam/downloads/detail?name=wikiindexorg-20110409-history.xml.7z First backup] is uploaded. It contains [http://wikiindex.org WikiIndex] wiki.
+  * 2011-04-05: First commit.
 For a more detailed action log, see http://code.google.com/p/wikiteam/updates/list
 
 == What can you do? ==
@@ -14,10 +16,10 @@ For a more detailed action log, see http://code.google.com/p/wikiteam/updates/li
   * Read our [Tutorial] and backup your favorite wiki!
   * Download some [http://code.google.com/p/wikiteam/downloads/list?can=1 backups] of wikis
   * [http://code.google.com/p/wikiteam/issues/list Report a bug or request a feature]
-  * Use the backups to research how wiki communities evolve
+  * Use the backups to [Research research] how wiki communities evolve
 
 == Research ==
-Are you a researcher? If you have conducted any research about wikis using our software or the backups we made available, we would be glad to hear from your experience. [Research Contact us].
+Are you a researcher? If you have conducted any [Research research] about wikis using our software or the backups we made available, we would be glad to hear from your experience. [Research Contact us].
 
 == Licenses ==
 This project contain a lot of material. *Be careful with the licenses*.
