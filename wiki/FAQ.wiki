@@ -15,7 +15,7 @@ Usually, wikis use free licenses like [http://creativecommons.org Creative Commo
 
 The licenses of the images are a bit more complex. Every image may have a different license. Again, check the wiki and/or every _.desc_ file inside the '_images_' directory in the backup. If the uploader did it correctly, the '_.desc_' file must contain the author, date, and license details of the image.
 
-*I am a wiki administrator with server access. How can I backup my wiki?*
+*I am a wiki administrator with shell access. How can I backup my wiki?*
 
 You can use [http://www.mediawiki.org/wiki/Manual:DumpBackup.php dumpBackup.php], a script available in every MediaWiki installation.
 
