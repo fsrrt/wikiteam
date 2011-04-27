@@ -3,7 +3,8 @@
 There are [http://wikiindex.org thousands of wikis] in the Internet. Everyday some of them are no longer publicly available and, due to lack of [http://code.google.com/p/wikiteam/downloads/list?can=1 backups], lost. Many people download tons of media files (music, books, etc) from the Internet, implementing a kind of distributed backup. Wikis, most of them under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame that we would like to solve.
 
 == News ==
-The last current events!
+The last *current events*!
+  * 2011-04-28: Archived [http://osl.uca.es/wikis/ OSLUCA wikis]: WikiUNIX, !WikiHaskell, WikiRA, WikiCE, !Wikijuegos, !WikiFormación.
   * 2011-04-22: Archiving Citizendium, !RationalWiki and !DeletionPedia.
   * 2011-04-10: Start archiving Wikanda wikis (the Andalusian encyclopedia), Almeríapedia, Cádizpedia, Córdobapedia, Granadapedia, Huelvapedia, Jaenpedia, Málagapedia and Sevillapedia.
   * 2011-04-10: [http://code.google.com/p/wikiteam/downloads/detail?name=wikiindexorg-20110409-history.xml.7z First backup] is uploaded. It contains [http://wikiindex.org WikiIndex] wiki.
@@ -11,6 +12,7 @@ The last current events!
 For a more detailed action log, see http://code.google.com/p/wikiteam/updates/list
 
 == What can you do? ==
+You can do *a lot of* things:
   * Read our [FAQ]
   * Download our [http://code.google.com/p/wikiteam/source/checkout scripts and software]
   * Read our [Tutorial] and backup your favorite wiki!
@@ -19,7 +21,7 @@ For a more detailed action log, see http://code.google.com/p/wikiteam/updates/li
   * Use the backups to [Research research] how wiki communities evolve
 
 == Research ==
-Are you a researcher? If you have conducted any [Research research] about wikis using our software or the backups we made available, we would be glad to hear from your experience. [Research Contact us].
+Are you a *researcher*? If you have conducted any [Research research] about wikis using our software or the backups we made available, we would be glad to hear from your experience. [Research Contact us].
 
 == Licenses ==
 This project contain a lot of material. *Be careful with the licenses*.
@@ -27,10 +29,10 @@ This project contain a lot of material. *Be careful with the licenses*.
   * Every [http://code.google.com/p/wikiteam/downloads/list?can=1 backup] of every wiki has its own license. Visit the site of the wiki and search for the license of the texts and images. Read more in our [FAQ]
 
 == Note ==
-Due to lack of space, we do not offer image dumps in Google Code. The dumps only include the texts of the wikis. Although you can run the script and generate your own backup which would contain all the texts and images.
+Due to lack of space, we do not offer image dumps in Google Code. *The dumps only include the texts of the wikis.* Although you can run the script and generate your own backup which would contain all the texts and images.
 
 == Contact ==
-If you want to contact with the WikiTeam community, you can do it:
+If you want to *contact with the WikiTeam community*, you can do it:
   * http://code.google.com/p/wikiteam/issues/list For bug reports, new features requests, notices about new wikis to backup
   * http://groups.google.com/group/wikiteam-discuss General discussion about WikiTeam tools
   * http://groups.google.com/group/wikiteam-developers Developers discussion about bugs, patches, features, etc
@@ -44,3 +46,9 @@ Also, every wiki page (http://code.google.com/p/wikiteam/w/list) allows to send 
   * http://archiveteam.org/index.php?title=Wikiteam
   * http://wikiheaven.blogspot.com
   * http://meta.wikimedia.org/wiki/WikiTeam
+
+
+<table width=99%>
+<tr><td align=center>
+|| << [http://statmediawiki.forja.rediris.es/ StatMediaWiki] || *!WikiRing* || [http://code.google.com/p/avbot/ AVBOT] >> ||
+</td></tr></table>
