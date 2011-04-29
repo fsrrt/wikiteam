@@ -42,6 +42,10 @@ If API is not available, then use this:
 
 Simply use _--xml_ and _--images_ at the same time.
 
+*Which method is better, API or index.php?*
+
+API is better. Use index.php only when API fails or is not available.
+
 *How can I know the path of the API or index.php?*
 
 Go to the wiki Main Page, click on "History" tab. You will see an URL with this format: _http://www.example.com/.../index.php?title=..._
@@ -52,7 +56,7 @@ If you want the index.php URL, remove only from the '?' symbol.
 
 *Can I resume a dump?*
 
-Yes, you can. Use the parameters _--resume_ and _--path_ to indicate where is the incomplete dump. The script will resume it.
+Yes, you can. Use the parameters _--resume_ and _--path_ to indicate where the incomplete dump is. The script will resume it.
   * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --xml --images --resume --path=dumpdirectory_
 
 *I want to import a XML/image dump, how can I do it?*
