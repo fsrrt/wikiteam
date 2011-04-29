@@ -30,7 +30,7 @@ If API is not available, then use this:
 
 If you have shell access, copy the image directory (see your !LocalSettings.php for details).
 
-If you have no shell access, the use the same method in the question above, but replace _--xml_ by _--images_.
+If you have no shell access, then use the same method in the question above, but replace _--xml_ with _--images_.
 
 If the wiki you want to backup has API, use this:
   * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --images_
@@ -38,8 +38,7 @@ If the wiki you want to backup has API, use this:
 If API is not available, then use this:
   * _python dumpgenerator.py --index=http://wikidomain.com/path/to/index.php --images_
 
-
-*How can I make both?*
+*How can I back up XML and images?*
 
 Simply use _--xml_ and _--images_ at the same time.
 
