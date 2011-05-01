@@ -1,0 +1,6 @@
+  * 2011-04-29: ersi sent us a backup generated with our dumps generator. The wiki archived is !BitCoin.it in English. Thanks!
+  * 2011-04-28: Archived [http://osl.uca.es/wikis/ OSLUCA wikis]: WikiUNIX, !WikiHaskell, WikiRA, WikiCE, Wikijuegos, !WikiFormación.
+  * 2011-04-22: Archiving Citizendium, !RationalWiki and !DeletionPedia.
+  * 2011-04-10: Start archiving Wikanda wikis (the Andalusian encyclopedia), Almeríapedia, Cádizpedia, Córdobapedia, Granadapedia, Huelvapedia, Jaenpedia, Málagapedia and Sevillapedia.
+  * 2011-04-10: [http://code.google.com/p/wikiteam/downloads/detail?name=wikiindexorg-20110409-history.xml.7z First backup] is uploaded. It contains [http://wikiindex.org WikiIndex] wiki.
+  * 2011-04-05: First commit.
