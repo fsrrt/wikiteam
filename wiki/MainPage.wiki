@@ -6,20 +6,12 @@ There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_
 The last *news*!
   * 2011-06-11: We find a [http://maps.google.com/maps/ms?ie=UTF8&t=h&msa=0&msid=115570622864617231547.00044e461c185a89b6d71&ll=49.095452,14.677734&spn=39.93254,79.013672&z=4 great map] about wikis around Europe. Time for archiving all of them! Subscribe you to the [http://groups.google.com/group/wikiteam-discuss mailing list] and offer you to archive all wikis in a country. Thanks!
   * 2011-05-05: Finally, all the texts of [http://code.google.com/p/wikiteam/downloads/list?can=2&q=wikanda Andalusian Encyclopedia Wikanda] have been archived.
-  * 2011-05-04: The In Memoriam wiki was a former Wikimedia project on the September 11, 2001 attacks. A [http://code.google.com/p/wikiteam/downloads/detail?name=sep11wiki.7z backup from 2007] have been [http://dumps.wikimedia.org/sep11wiki/20071116/ found].
-  * 2011-04-29: ersi sent us a backup generated with our dumps generator. The wiki archived is !BitCoin.it in English. Thanks!
-  * 2011-04-28: Archived [http://osl.uca.es/wikis/ OSLUCA wikis]: WikiUNIX, !WikiHaskell, WikiRA, WikiCE, Wikijuegos, !WikiFormación.
-  * 2011-04-22: Archiving Citizendium, !RationalWiki and !DeletionPedia.
-  * 2011-04-10: Start archiving Wikanda wikis (the Andalusian encyclopedia), Almeríapedia, Cádizpedia, Córdobapedia, Granadapedia, Huelvapedia, Jaenpedia, Málagapedia and Sevillapedia.
-  * 2011-04-10: [http://code.google.com/p/wikiteam/downloads/detail?name=wikiindexorg-20110409-history.xml.7z First backup] is uploaded. It contains [http://wikiindex.org WikiIndex] wiki.
-  * 2011-04-05: First commit.
 Read [News older news]. For a more detailed action log, see http://code.google.com/p/wikiteam/updates/list
 
 == What can you do? ==
 You can do *a lot of* things:
   * Read our [FAQ]
-  * Download our [http://code.google.com/p/wikiteam/source/checkout scripts and software]
-  * Read our [Tutorial] and backup your favorite wiki. Send us a copy of the backup if you want!
+  * Download our [http://code.google.com/p/wikiteam/source/checkout scripts and software], read our [Tutorial] and backup your favorite wiki. Send us a copy of the backup if you want!
   * Download some [http://code.google.com/p/wikiteam/downloads/list?can=1 backups] of wikis
   * [http://code.google.com/p/wikiteam/issues/list Report a bug or request a feature]
   * Use the backups to [Research research] how wiki communities evolve
