@@ -1,9 +1,10 @@
 == We archive wikis, from Wikipedia to tiniest wikis ==
 
-There are [http://wikiindex.org thousands of wikis] in the Internet. Everyday some of them are no longer publicly available and, due to lack of [http://code.google.com/p/wikiteam/downloads/list?can=1 backups], lost. Many people download tons of media files (music, books, etc) from the Internet, implementing a kind of distributed backup. Wikis, most of them under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame that we would like to solve.
+There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/en of] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/multilingual wikis] in the Internet. Everyday some of them are no longer publicly available and, due to lack of [http://code.google.com/p/wikiteam/downloads/list?can=1 backups], lost. Many people download tons of media files (music, books, etc) from the Internet, implementing a kind of distributed backup. Wikis, most of them under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame that we would like to solve.
 
 == Current events ==
 The last *news*!
+  * 2011-06-11: We find a [http://maps.google.com/maps/ms?ie=UTF8&t=h&msa=0&msid=115570622864617231547.00044e461c185a89b6d71&ll=49.095452,14.677734&spn=39.93254,79.013672&z=4 great map] about wikis around Europe. Time for archiving all of them! Subscribe you to the [http://groups.google.com/group/wikiteam-discuss mailing list] and offer you to archive all wikis in a country. Thanks!
   * 2011-05-05: Finally, all the texts of [http://code.google.com/p/wikiteam/downloads/list?can=2&q=wikanda Andalusian Encyclopedia Wikanda] have been archived.
   * 2011-05-04: The In Memoriam wiki was a former Wikimedia project on the September 11, 2001 attacks. A [http://code.google.com/p/wikiteam/downloads/detail?name=sep11wiki.7z backup from 2007] have been [http://dumps.wikimedia.org/sep11wiki/20071116/ found].
   * 2011-04-29: ersi sent us a backup generated with our dumps generator. The wiki archived is !BitCoin.it in English. Thanks!
@@ -27,6 +28,14 @@ You can do *a lot of* things:
 == Research ==
 Are you a *researcher*? If you have conducted any [Research research] about wikis using our software or the backups we made available, we would be glad to hear from your experience. [Research Contact us].
 
+== People using WikiTeam tools ==
+If you use WikiTeam tools to back up wikis and you host the files, contact us, we will be glad to add a link here:
+  * http://mirrors.sdboyd56.com/WikiTeam/index.html
+
+== WikiTeam in the news, blogs, etc ==
+  * [http://softlibre.barrapunto.com/article.pl?sid=11/05/10/070201 WikiTeam: un repositorio de wikis] (Barrapunto, 2011-05-10) ([http://www.webcitation.org/5zBcLaGm4 webcite])
+  * [http://siondream.com/blog/proyectos/pfc/iberogre-wiki/backups-de-wikis-con-wikiteam/ Backups de wikis con WikiTeam] (IberOgre, 2011-06-04) ([http://www.webcitation.org/5zBcEMuCG webcite])
+
 == Licenses ==
 This project contain a lot of material. *Be careful with the licenses*.
   * The [http://code.google.com/p/wikiteam/source/checkout source code] is GPL v3
@@ -40,6 +49,7 @@ If you want to *contact with the WikiTeam community*, you can do it:
   * For bug reports, new features requests, notices about new wikis to backup: http://code.google.com/p/wikiteam/issues/list
   * General discussion about WikiTeam tools and help for new users: http://groups.google.com/group/wikiteam-discuss
   * Developers discussion about bugs, patches, features: http://groups.google.com/group/wikiteam-developers
+  * There is a social IRC channel in Efnet: irc://efnet/wikiteam
 
 Also, [http://code.google.com/p/wikiteam/w/list every wiki page] allows to send comments.
 
