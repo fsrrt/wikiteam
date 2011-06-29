@@ -44,7 +44,9 @@ If API is not available, then use this:
 
 *How can I back up XML and images?*
 
-Just use _--xml_ and _--images_ at the same time.
+Just use _--xml_ and _--images_ at the same time:
+
+* _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --xml --images_
 
 *Which method is better, API or index.php?*
 
