@@ -25,7 +25,7 @@ You can use [http://meta.wikimedia.org/wiki/Help:Export Special:Export]. There i
 
 *I am a wiki user. How can I backup the entire wiki?*
 
-You can use [http://meta.wikimedia.org/wiki/Help:Export Special:Export] over all the pages. Or use a [http://code.google.com/p/wikiteam/source/checkout WikiTeam] tool.
+You can use [http://meta.wikimedia.org/wiki/Help:Export Special:Export] over all the pages. Or use a [http://code.google.com/p/wikiteam/source/checkout WikiTeam] tool (dumpgenerator.py).
 
 *What is that .7z format? Why do you use it?*
 
