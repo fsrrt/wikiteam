@@ -4,6 +4,7 @@ There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_
 
 == Current events ==
 The last *news*!
+  * 2011-06-28: WikiTeam publishes a [http://groups.google.com/group/wikiteam-discuss/browse_thread/thread/9a4e6dc193f599eb script to download Wikipedia dumps] in an easy way
   * 2011-06-26: Boris sent us a new backup of http://knowino.org. Thanks! You can do the same!
   * 2011-06-11: We find a [http://maps.google.com/maps/ms?ie=UTF8&t=h&msa=0&msid=115570622864617231547.00044e461c185a89b6d71&ll=49.095452,14.677734&spn=39.93254,79.013672&z=4 great map] about wikis around Europe. Time for archiving all of them! Subscribe you to the [http://groups.google.com/group/wikiteam-discuss mailing list] and offer you to archive all wikis in a country. Thanks!
   * 2011-05-05: Finally, all the texts of [http://code.google.com/p/wikiteam/downloads/list?can=2&q=wikanda Andalusian Encyclopedia Wikanda] have been archived.
