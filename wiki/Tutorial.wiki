@@ -46,7 +46,7 @@ If API is not available, then use this:
 
 Just use _--xml_ and _--images_ at the same time:
 
-* _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --xml --images_
+  * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --xml --images_
 
 *Which method is better, API or index.php?*
 
@@ -62,7 +62,7 @@ If you want the index.php URL, remove only from the '?' symbol.
 
 *Can I resume a dump?*
 
-Yes, you can. Use the parameters _--resume_ and _--path_ to indicate where the incomplete dump is. The script will resume it.
+Of course, you can. Use the parameters _--resume_ and _--path_ to indicate where the incomplete dump is. The script will resume it.
   * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --xml --images --resume --path=dumpdirectory_
 
 *I want to import a XML/image dump, how can I do it?*
