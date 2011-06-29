@@ -1,8 +1,10 @@
 How to use the dump generator? Here we explain it.
 
+*We use [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py], available at the [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk repository].*
+
 Remember you always can see the inline help with _--help_ parameter.
 
-*We use [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py], available at the [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk repository].*
+----
 
 *What kind of backups exist?*
 
