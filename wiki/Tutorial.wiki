@@ -44,7 +44,7 @@ If API is not available, then use this:
 
 *How can I back up XML and images?*
 
-Simply use _--xml_ and _--images_ at the same time.
+Just use _--xml_ and _--images_ at the same time.
 
 *Which method is better, API or index.php?*
 
