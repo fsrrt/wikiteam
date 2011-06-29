@@ -4,6 +4,8 @@ How to use the dump generator? Here we explain it.
 
 Remember you always can see the inline help with _--help_ parameter.
 
+If you have questions, you can send a message to our [http://groups.google.com/group/wikiteam-discuss mailing list]. Be bold!
+
 ----
 
 *What kind of backups exist?*
