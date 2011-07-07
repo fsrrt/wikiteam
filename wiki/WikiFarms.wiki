@@ -1,12 +1,12 @@
 List of wikifarms:
-  * EditThis.info
+  * EditThis.info: http://editthis.info
   * elwiki.com (offline)
-  * Referata (Semantic MediaWiki)
+  * Referata (Semantic MediaWiki): http://www.referata.com
   * ScribbleWiki (offline)
-  * TropicalWikis
-  * Wikia
-  * Wiki-site.com
-  * Wikkii
+  * TropicalWikis: http://tropicalwikis.com
+  * Wikia: http://www.wikia.com
+  * Wiki-site.com: http://wiki-site.com
+  * Wikkii: http://wikkii.com
 
 Not MediaWiki:
   * Wik.is (offline)
