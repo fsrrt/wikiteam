@@ -1,4 +1,4 @@
-List of wikifarms:
+== List of wikifarms ==
   * EditThis.info: http://editthis.info
   * elwiki.com (offline)
   * Referata (Semantic MediaWiki): http://www.referata.com
@@ -8,7 +8,7 @@ List of wikifarms:
   * Wiki-site.com: http://wiki-site.com
   * Wikkii: http://wikkii.com
 
-Not MediaWiki:
+=== Not MediaWiki ===
   * Wik.is (offline)
 
 For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk%2Flistsofwikis look here]. If you now about a wiki which is missing in the lists, please, leave a comment.
