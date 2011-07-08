@@ -3,6 +3,7 @@
   * elwiki.com (offline)
   * Referata (Semantic MediaWiki): http://www.referata.com
   * ScribbleWiki (offline)
+  * ShoutWiki: http://www.shoutwiki.com
   * TropicalWikis: http://tropicalwikis.com
   * Wikia: http://www.wikia.com +100,000 wikis
   * Wiki-site.com: http://wiki-site.com
