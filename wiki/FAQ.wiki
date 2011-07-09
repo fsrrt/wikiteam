@@ -39,10 +39,12 @@ Use the [http://www.mediawiki.org/wiki/Manual:ImportDump.php importDump.php]. Re
 
 You can help [http://code.google.com/p/wikiteam/adminIssues reporting broken links, bugs, new wikis or making suggestions]. Thanks.
 
-*Can I download a Wikipedia backup?*
+*Can I download a Wikipedia/Wikia backup?*
 
-Yes, you can. Wikimedia Foundation publishes dumps from time to time, so you don't need to use our tools. Follow this link [http://dumps.wikimedia.org http://dumps.wikimedia.org]. Read [http://en.wikipedia.org/wiki/User:Emijrp/Wikipedia_Archive this guide] too.
+Yes, you can. Wikimedia Foundation publishes dumps from time to time, so you don't need to use our tools. Follow this link [http://dumps.wikimedia.org http://dumps.wikimedia.org]. Read [http://en.wikipedia.org/wiki/User:Emijrp/Wikipedia_Archive this guide] too (it includes details about Wikipedia offline readers).
 
 Some other projects publish their backups too (although most of them publish only text, no images): [http://en.citizendium.org/wiki/CZ:Downloads Citizendium], [http://en.gentoo-wiki.com/wiki/Gentoo_Linux_Wiki:Backup Gentoo Linux Wiki], [http://www.omegawiki.org/Development OmegaWiki], [http://wiki.osdev.org/OSDev_Wiki:About OSDev], [http://wiki-stats.wikia.com Wikia], [http://dumps.wikifur.com WikiFur], [http://www.wikivoyage.org/general/Wikivoyage_General:XML_dumps Wikivoyage].
 
-If a project publishes dumps, you don't have to use our tools. Simply download the dumps they offer.
+*New!* We have developed Wikipedia/Wikia download managers. See [http://code.google.com/p/wikiteam/source/browse/trunk/wikipediadownloader.py wikipediadownloader.py] and [http://code.google.com/p/wikiteam/source/browse/trunk/wikiadownloader.py wikiadownloader.py].
+
+If a project publishes dumps, you don't have to use our tools. Just download the dumps they offer.
