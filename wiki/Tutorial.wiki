@@ -32,6 +32,10 @@ If you have no shell access, then use our dump generator. If the wiki you want t
 If API is not available, then use this:
   * _python dumpgenerator.py --index=http://wikidomain.com/path/to/index.php --xml_
 
+*What if I only want the last version of every page, not the full history?*
+
+_--xml_ option retrieves the full history, if you only want the last revision for every page, you have to use _--xml --curonly_
+
 *How can I make an images backup?*
 
 If you have shell access, copy the image directory (see your !LocalSettings.php for details).
