@@ -67,6 +67,10 @@ If you want the index.php URL, remove only from the '?' symbol.
 Of course, you can. Use the parameters _--resume_ and _--path_ to indicate where the incomplete dump is. The script will resume it.
   * _python dumpgenerator.py --api=http://wikidomain.com/path/to/api.php --xml --images --resume --path=dumpdirectory_
 
+*Can I add a delay between server requests?*
+
+Yes. Use _--delay_ to add any seconds you want. For example, a wait of 5 seconds between every request: _--delay:5_
+
 *I want to import a XML/image dump, how can I do it?*
 
 Read http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps and http://www.mediawiki.org/wiki/Manual:ImportImages.php.
