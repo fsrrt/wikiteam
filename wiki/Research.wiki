@@ -1,1 +1,6 @@
-Are you a researcher? If you have conducted any research about wikis using our software or the backups we made available, we would be glad to hear from your experience. Leave a comment below. Thanks.
+#labels Featured
+Are you a researcher? If you have conducted any research about wikis using our software or the backups we made available, we would be glad to hear from your experience.
+
+[http://meta.wikimedia.org/wiki/StatMediaWiki StatMediaWiki Interactive] is a tool (under development) for statistical analysis of wikis. We recommend it!
+
+Leave a comment below. Thanks.
