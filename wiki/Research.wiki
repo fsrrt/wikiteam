@@ -1,9 +1,9 @@
 #labels Featured
 *Are you a researcher?* If you have conducted any research about wikis using [http://code.google.com/p/wikiteam/source/browse/ our software] or the [http://code.google.com/p/wikiteam/downloads/list backups we made available], we would be glad to hear from your experience.
 
-[http://meta.wikimedia.org/wiki/StatMediaWiki StatMediaWiki Interactive] is a tool (under development) for statistical analysis of wikis. We recommend it!
+[http://meta.wikimedia.org/wiki/StatMediaWiki StatMediaWiki _Interactive_] is a tool (under development) for statistical analysis of wikis. We recommend it!
 
-Publications which cite WikiTeam:
+Publications that cite WikiTeam:
   * None by now
 
 Leave a comment below. Thanks.
