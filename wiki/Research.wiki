@@ -3,4 +3,7 @@
 
 [http://meta.wikimedia.org/wiki/StatMediaWiki StatMediaWiki Interactive] is a tool (under development) for statistical analysis of wikis. We recommend it!
 
+Publications which cite WikiTeam:
+  * None by now
+
 Leave a comment below. Thanks.
