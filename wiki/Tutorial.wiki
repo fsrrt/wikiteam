@@ -84,4 +84,4 @@ Read http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps and http://www.med
 
 You can try to import it into a MediaWiki (using the method above), or writing this on your command line (GNU/Linux) to count _`<page>`__`</page>`__`<title>`_ and _`<revision>`__`</revision>`_ XML tags.
 
-  * _grep "`<title>`" *.xml -c;grep "`<page>`" *.xml -c;grep "`</page>`" *.xml -c;grep "`<revision>`" *.xml -c;grep "`</revision>`" *.xml -c_
+  * _grep "`<title>`" `*`.xml -c;grep "`<page>`" `*`.xml -c;grep "`</page>`" `*`.xml -c;grep "`<revision>`" `*`.xml -c;grep "`</revision>`" `*`.xml -c___
