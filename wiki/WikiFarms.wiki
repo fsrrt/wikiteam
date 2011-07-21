@@ -8,7 +8,7 @@ For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/sourc
   * elwiki.com (offline)
   * Referata (Semantic MediaWiki): http://www.referata.com
   * ScribbleWiki (offline)
-  * ShoutWiki: http://www.shoutwiki.com
+  * ShoutWiki: http://www.shoutwiki.com 400+ wikis
   * TropicalWikis: http://tropicalwikis.com
   * Wikia: http://www.wikia.com +100,000 wikis
   * Wiki-site.com: http://wiki-site.com
