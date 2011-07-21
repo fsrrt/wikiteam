@@ -1,5 +1,7 @@
 #labels Featured
 == List of wikifarms ==
+
+=== MediaWiki ===
   * EditThis.info: http://editthis.info
   * elwiki.com (offline)
   * Referata (Semantic MediaWiki): http://www.referata.com
