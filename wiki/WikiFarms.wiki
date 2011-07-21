@@ -12,7 +12,7 @@ For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/sourc
   * TropicalWikis: http://tropicalwikis.com
   * Wikia: http://www.wikia.com +100,000 wikis
   * Wiki-site.com: http://wiki-site.com
-  * Wikkii: http://wikkii.com
+  * Wikkii: http://wikkii.com 3,000+ wikis
 
 === Not MediaWiki ===
   * Wik.is (offline)
