@@ -1,6 +1,8 @@
 #labels Featured
 == List of wikifarms ==
 
+For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk%2Flistsofwikis look here]. If you now about a wiki which is missing in the lists, please, leave a comment.
+
 === MediaWiki ===
   * EditThis.info: http://editthis.info
   * elwiki.com (offline)
@@ -14,8 +16,6 @@
 
 === Not MediaWiki ===
   * Wik.is (offline)
-
-For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk%2Flistsofwikis look here]. If you now about a wiki which is missing in the lists, please, leave a comment.
 
 == Lists of wikis by subject ==
   * http://wikiindex.org 5,000+ wikis
