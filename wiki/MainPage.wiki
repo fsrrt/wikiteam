@@ -4,7 +4,7 @@
 
 == Current events ==
 The last *news*!
-  * 2011-07-26: We are glad to announce our 100th wiki dump: [http://code.google.com/p/wikiteam/downloads/detail?name=wikitravelorg_wiki_en-20110605-current.xml.7z English WikiTravel]. Thanks your work preserving wikis!
+  * 2011-07-26: We are glad to announce our 100th wiki dump: [http://code.google.com/p/wikiteam/downloads/detail?name=wikitravelorg_wiki_en-20110605-current.xml.7z English WikiTravel]. Thanks for your work preserving wikis!
   * 2011-07-22: Google Code [http://code.google.com/p/support/issues/detail?id=5553 rejects our request] to increase our quota. We accept suggestions.
   * 2011-07-12: Thanks to people who are [http://code.google.com/p/wikiteam/issues/list posting issues], that's how projects grow!
   * 2011-07-07: Today is a great day. Nemo_bis sent us several dumps, one of them is [http://code.google.com/p/wikiteam/downloads/detail?name=usemod.com-20100707.7z UseModWiki]. Yay!
