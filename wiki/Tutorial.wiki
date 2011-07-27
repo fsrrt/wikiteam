@@ -93,4 +93,4 @@ You have to see something similar to this (not the numbers but the equality betw
   * 5677
   * 5677
 
-If your first 3 numbers or your last 2 numbers are different, then, your XML dump is corrupt (it contains one or more unfinished `</page>` or `</revision>`). This is not common in small wikis, but large or very large wikis may fail at this due to truncated XML pages while exporting and merging. The solution is remove the XML dump and resume (re-download, a bit boring right, and it can fail again...), or if you don't care to lose the corrupt pages, exclude them with this script (TO DO).
+If your first 3 numbers or your last 2 numbers are different, then, your XML dump is corrupt (it contains one or more unfinished `</page>` or `</revision>`). This is not common in small wikis, but large or very large wikis may fail at this due to truncated XML pages while exporting and merging. The solution is to remove the XML dump and resume (re-download, a bit boring, and it can fail again...), or if you don't care to lose the corrupt pages, exclude them with this script (TO DO).
