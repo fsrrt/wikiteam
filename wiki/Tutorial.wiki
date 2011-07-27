@@ -80,7 +80,7 @@ Yes. Use _--delay_ to add any seconds you want. For example, a wait of 5 seconds
 
 Read http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps and http://www.mediawiki.org/wiki/Manual:ImportImages.php.
 
-*How can I check if XML dump is OK?*
+*How can I check the XML dump integrity?*
 
 You can try to import it into a MediaWiki (using the method above, which may be slow if wiki is large), or writing this into your command line (GNU/Linux) to count _`<page>`__`</page>`__`<title>`_ and _`<revision>`__`</revision>`_ XML tags.
 
