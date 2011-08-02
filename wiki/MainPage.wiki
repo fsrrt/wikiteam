@@ -1,10 +1,14 @@
 == We archive wikis, from Wikipedia to tiniest wikis ==
 
+<table align="right" border="1">
+<tr><td><p align="center">Problems using WikiTeam tools?</p><p align="center">Don't you know how to backup your wiki?</p><p align="center"><font size="big">*Read our [Tutorial] and [FAQ]*</font></p><p align="center">For further questions use our [http://groups.google.com/group/wikiteam-discuss Google Group]</p></td></tr>
+</table>
+
 *There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/en of] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/multilingual wikis] in the Internet.* Everyday some of them are no longer publicly available and, due to lack of [http://code.google.com/p/wikiteam/downloads/list?can=1 backups], lost. Many people download tons of media files (music, books, etc) from the Internet, implementing a kind of distributed backup. Wikis, most of them under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame that we would like to solve.
 
 == Current events ==
 The last *news*!
-  * 2011-07-26: We are glad to announce our 100th wiki dump: [http://code.google.com/p/wikiteam/downloads/detail?name=wikitravelorg_wiki_en-20110605-current.xml.7z English WikiTravel]. Thanks for your work preserving wikis!
+  * 2011-07-26: *We are glad to announce our 100th wiki dump: [http://code.google.com/p/wikiteam/downloads/detail?name=wikitravelorg_wiki_en-20110605-current.xml.7z English WikiTravel]. Thanks for your work preserving wikis!*
   * 2011-07-22: Google Code [http://code.google.com/p/support/issues/detail?id=5553 rejects our request] to increase our quota. We accept suggestions.
   * 2011-07-12: Thanks to people who are [http://code.google.com/p/wikiteam/issues/list posting issues], that's how projects grow!
   * 2011-07-07: Today is a great day. Nemo_bis sent us several dumps, one of them is [http://code.google.com/p/wikiteam/downloads/detail?name=usemod.com-20100707.7z UseModWiki]. Yay!
@@ -49,7 +53,7 @@ If you want to *contact with the WikiTeam community*, you can do it:
   * For bug reports, new features requests, notices about new wikis to backup: http://code.google.com/p/wikiteam/issues/list
   * General discussion about WikiTeam tools and help for new users: http://groups.google.com/group/wikiteam-discuss
   * Developers discussion about bugs, patches, features: http://groups.google.com/group/wikiteam-developers
-  * There is a social IRC channel in Efnet: irc://efnet/wikiteam
+  * There is a social IRC channel in Efnet: irc://efnet/wikiteam ([http://chat.efnet.org:9090/?nick=&channels=%23wikiteam&Login=Login webchat access])
 
 Also, [http://code.google.com/p/wikiteam/w/list every wiki page] allows to send comments.
 
