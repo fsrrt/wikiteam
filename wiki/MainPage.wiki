@@ -8,6 +8,7 @@
 
 == Current events ==
 The last *news*!
+  * 2011-08-08: [http://www.archive.org Internet Archive] offers a person and a machine for WikiTeam backups. [http://groups.google.com/group/wikiteam-discuss/browse_thread/thread/adcde1968800ada9 See details]. Thanks!!!
   * 2011-08-03: We have [http://www.archive.org/details/wikiteam a section] at Internet Archive for our wiki backups. Yay! \o/
   * 2011-07-26: *We are glad to announce our 100th wiki dump: [http://code.google.com/p/wikiteam/downloads/detail?name=wikitravelorg_wiki_en-20110605-current.xml.7z English WikiTravel]. Thanks for your work preserving wikis!*
   * 2011-07-22: Google Code [http://code.google.com/p/support/issues/detail?id=5553 rejects our request] to increase our quota. We accept suggestions.
