@@ -8,6 +8,9 @@
 
 == Current events ==
 The last *news*!
+  * 2011-09-06: Greg Varnum sent us a copy of [http://www.wikiqueer.org WikiQueer] in August, but we have [http://code.google.com/p/wikiteam/downloads/detail?name=wikiqueerorg-20110808-history.xml.7z uploaded it] today. Sorry for the delay. Thanks Greg!
+  * 2011-09-06: Yann Forget [http://code.google.com/p/wikiteam/downloads/detail?name=wikilivres-20110906-history.xml.7z sends us a copy] of the site [http://www.wikilivres.info/ Wikilivres]. Thanks!
+  * 2011-08-16: Nemo has recently saved all the wikis in [http://www.archive.org/details/shoutwiki.com shoutwiki.com] farm. A great work!
   * 2011-08-08: [http://www.archive.org Internet Archive] offers a person and a machine for WikiTeam backups. [http://groups.google.com/group/wikiteam-discuss/browse_thread/thread/adcde1968800ada9 See details]. Thanks!!!
   * 2011-08-03: We have [http://www.archive.org/details/wikiteam a section] at Internet Archive for our wiki backups. Yay! \o/
   * 2011-07-26: *We are glad to announce our 100th wiki dump: [http://code.google.com/p/wikiteam/downloads/detail?name=wikitravelorg_wiki_en-20110605-current.xml.7z English WikiTravel]. Thanks for your work preserving wikis!*
