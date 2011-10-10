@@ -17,7 +17,7 @@ There are XML dumps (current and history) and image dumps.
 
 A XML dump contains the metadata of the edits (author, date, comment) and the text (wikitext).
 
-A XML dump may be "current" or "history". First one contains only the last edit for every page. Second one contains the full history.
+A XML dump may be "current" or "history". First one contains only the last edit for every page. Second one contains the full history (which is better for historical and research purposes).
 
 *What does an image dump contain?*
 
