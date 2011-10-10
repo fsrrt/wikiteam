@@ -1,10 +1,10 @@
 Stuff to do, soon or later.
 
 dumpgenerator.py:
-* GUI in a separate script (TKinter, very simple and cross-platform)
-* i18n
-* Improve the inline help
+ * GUI in a separate script (TKinter, very simple and cross-platform)
+ * i18n
+ * Improve the inline help
 
 Other:
-* New scripts for other wiki engines
-* Wikimedia Commons download manager (in progress...)
+ * New scripts for other wiki engines
+ * Wikimedia Commons download manager (in progress...)
