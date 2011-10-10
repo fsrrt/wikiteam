@@ -49,7 +49,7 @@ If the wiki you want to backup has API, use this:
 If API is not available, then use this:
   * _python dumpgenerator.py --index=http://wikidomain.com/path/to/index.php --images_
 
-*How can I back up XML and images?*
+*How can I back up both XML and images?*
 
 Just use _--xml_ and _--images_ at the same time:
 
