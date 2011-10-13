@@ -28,7 +28,7 @@ Now edit the URL: remove everything after_/w/_, and replace it with _api.php_ (I
 
 If there is no api.php, then you'll need to use index.php. For the correct URL, in the example above, remove everything after the '?' and copy the URL to the clipboard. (In the example above the correct URL would be: _http://en.wikipedia.org/w/index.php_)
 
-Note: *DO NOT* try to dump the Wikipedia site! It would result in a file that would quite likely be in the terabyte range. We are just using the the Wikipedia URL as an example.
+Note: *DO NOT* try to dump the Wikipedia site! It would result in a file that would quite likely be in the terabyte range. We are just using the Wikipedia URL as an example.
 
 At a DOS prompt or GNU/Linux command line, type the following:
 
