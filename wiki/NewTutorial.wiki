@@ -87,7 +87,7 @@ It is suggested that you use the following file-naming convention: domainorg-201
 
 Read http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps and http://www.mediawiki.org/wiki/Manual:ImportImages.php.
 
-==Finally==
+==Finally...==
 Remember you always can see the inline help with _--help_ parameter.
 
 If you have further questions, you can send a message to our [http://groups.google.com/group/wikiteam-discuss mailing list]. If you detect any error, [http://code.google.com/p/wikiteam/issues/list report an issue]. *Be bold!*
