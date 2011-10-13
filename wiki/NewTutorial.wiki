@@ -1,23 +1,25 @@
 Want to know how to use the dump generator? Here we explain it.
 
+==First of all==
 We use [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py] ([http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py download]), available at the [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk repository].
 
-First off, you will need *Python*: http://www.python.org/download/
+==Requirements==
+
+You will need *Python*: http://www.python.org/download/
 The dump generator will need to be run from a DOS or GNU/Linux command-line. (A DOS window or one of the various terminal programs available in GNU/Linux.)
 
-----
-
+==Dump types==
 There are two types of backups that can be made: *XML dumps* (current and history) and *image dumps*. (But you can do both in one dump - see below.)
 
 An *XML dump* contains the meta-data of the edits (author, date, comment) and the text (wikitext). An XML dump may be "*current*" or "*history*". A "history" dump contains the complete history of every page, which is better for historical and research purposes and is the default. A "current" dump contains only the last edit for every page. 
 
 An *image dump* contains all the images available in a wiki, plus their descriptions.
 
-----
+==I have shell access to server==
 
 If you have shell access on the Web server, follow the instructions on this page: http://www.mediawiki.org/wiki/Manual:DumpBackup.php for an XML backup. For an image backup, copy the image directory (see your !LocalSettings.php for details).
 
-----
+==I have no shell access to server==
 
 If you have no shell access, then use our dump generator. Here's how:
 
@@ -51,7 +53,7 @@ To resume an interrupted dump, use the parameters _--resume_ and _--path_ to ind
 
 When you start a new dump, the script will create a directory (or folder) in the form of: domainorg-20110520-wikidump . Sometimes there will be a sub-directory in the name, or "wiki" added in - that's OK. 
 
-----
+==Check dump integrity==
 
 If you want to check the XML dump integrity (optional), there are two possible methods:
 
@@ -72,8 +74,7 @@ You should see something similar to this (not the actual numbers - the first thr
 
 If your first three numbers or your last two numbers are different, then, your XML dump is corrupt (it contains one or more unfinished `</page>` or `</revision>`). This is not common in small wikis, but large or very large wikis may fail at this due to truncated XML pages while exporting and merging. The solution is to remove the XML dump and resume (re-download, a bit boring, and it can fail again...), or if you don't care to lose the corrupt pages, exclude them with this script (TO DO).
 
-----
-
+==Further steps: compression==
 After the wiki dump is complete, you will need to archive the files in the wikidump directory. The WikiTeam project uses the *7-Zip* file archiver. 7z is a compressed archive file format. We use it because it is free (the GNU LGPL license) and it has a high compression ratio. [http://en.wikipedia.org/wiki/7z Read about it] in Wikipedia. There is  software for [http://www.7-zip.org Windows] and [http://p7zip.sourceforge.net GNU/Linux] (_sudo apt-get install p7zip_). There are also graphical front-ends for archiving programs for both Windows and GNU/Linux. 
 
 You can use a graphical front-end to compress and archive the files, or run one of these commands:
@@ -82,12 +83,11 @@ or * 7z a  domainorg-20110520-complete.7z domainorg-20110520-wikidump/* -- for x
 
 It is suggested that you use the following file-naming convention: domainorg-20110520-history.xml.7z - where "domainorg" is the domain name, "20110520" is the date the dump was started. (You can use the domain name and date from the directory that was created when the dump was started.)
 
-*I want to import an XML/image dump, how can I do it?*
+==I want to import an XML/image dump, how can I do it?==
 
 Read http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps and http://www.mediawiki.org/wiki/Manual:ImportImages.php.
 
-----
-
+==Finally==
 Remember you always can see the inline help with _--help_ parameter.
 
 If you have further questions, you can send a message to our [http://groups.google.com/group/wikiteam-discuss mailing list]. If you detect any error, [http://code.google.com/p/wikiteam/issues/list report an issue]. *Be bold!*
