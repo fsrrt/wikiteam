@@ -9,4 +9,4 @@ dumpgenerator.py:
 Other:
  * New scripts for other wiki engines
  * Wikimedia Commons download manager (in progress...)
- * Search for tools which can read XML dums and show the article content: WikiTaxi (only for Windows)
+ * Search for tools which can read XML dumps and show the article content: WikiTaxi (only for Windows)
