@@ -8,6 +8,7 @@
 
 == Current events ==
 The last *news*!
+  * 2011-10-13: More than 10 years after Wikipedia was started, [http://lists.wikimedia.org/pipermail/xmldatadumps-l/2011-October/000331.html the first Wikimedia projects official mirror] is created. Thanks to Centro de Computação Científica e Software Livre (C3SL), at the Universidade Federal do Paraná in Brazil!!!
   * 2011-10-13: Scottdb56 has written a [NewTutorial]. Enjoy!
   * 2011-10-10: We open a [http://code.google.com/p/wikiteam/wiki/ToDo ToDo] page where you can add all your wishes for new wiki archiving tools. For bugs, remember you can use [http://code.google.com/p/wikiteam/issues/list the issues section].
   * 2011-09-28: Rob Nugen sends us a dump of http://thunderrabbit.com Thanks!
