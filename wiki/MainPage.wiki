@@ -7,7 +7,7 @@
 *There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/en of] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/multilingual wikis] in the Internet.* Everyday some of them are no longer publicly available and, due to lack of [http://code.google.com/p/wikiteam/downloads/list?can=1 backups], lost forever. Many people download tons of media files (movies, music, books, etc) from the Internet, implementing a kind of distributed backup. Wikis, most of them under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame that we would like to solve.
 
 == Current events ==
-The last *news*!
+The last *news* (follow us on [http://twitter.com/#!/WikiTeamProject Twitter] too!):
   * 2011-10-27: [http://mirrors.sdboyd56.com/WikiTeam/index.html ScottDB wikibackups site] reaches 100 archived wikis milestone. Keep up the good work!
   * 2011-10-24: Ian McEwen sent us a dump of https://hampedia.org Thanks!
   * 2011-10-13: More than 10 years after Wikipedia was started, [http://lists.wikimedia.org/pipermail/xmldatadumps-l/2011-October/000331.html the first Wikimedia projects official mirror] is created. Thanks to Centro de Computação Científica e Software Livre (C3SL), at the Universidade Federal do Paraná in Brazil!!!
