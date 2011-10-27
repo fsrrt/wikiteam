@@ -8,8 +8,10 @@
 
 == Current events ==
 The last *news*!
+  * 2011-10-27: [http://mirrors.sdboyd56.com/WikiTeam/index.html ScottDB wikibackups site] reaches 100 archived wikis milestone. Keep up the good work!
+  * 2011-10-24: Ian McEwen sent us a dump of https://hampedia.org Thanks!
   * 2011-10-13: More than 10 years after Wikipedia was started, [http://lists.wikimedia.org/pipermail/xmldatadumps-l/2011-October/000331.html the first Wikimedia projects official mirror] is created. Thanks to Centro de Computação Científica e Software Livre (C3SL), at the Universidade Federal do Paraná in Brazil!!!
-  * 2011-10-13: Scottdb56 has written a [NewTutorial]. Enjoy!
+  * 2011-10-13: ScottDB has written a [NewTutorial]. Enjoy!
   * 2011-10-10: We open a [http://code.google.com/p/wikiteam/wiki/ToDo ToDo] page where you can add all your wishes for new wiki archiving tools. For bugs, remember you can use [http://code.google.com/p/wikiteam/issues/list the issues section].
   * 2011-09-28: Rob Nugen sends us a dump of http://thunderrabbit.com Thanks!
   * 2011-09-07: Jason Scott talked a bit (OK, [http://www.youtube.com/watch?v=-2ZTmuX3cog only a few seconds], from 40:23) about WikiTeam at [https://www.defcon.org/html/defcon-19/dc-19-index.html DEF CON 19]. Man, DEF CON!!! : D
@@ -67,7 +69,7 @@ If you want to *contact with the WikiTeam community*, you can do it:
 
 Also, [http://code.google.com/p/wikiteam/w/list every wiki page] allows to send comments.
 
-If you need an e-mail, you can send your messages to emijrp@gmail.com
+If you need an e-mail address, you can send your messages to emijrp@gmail.com
 
 == External links ==
   * http://archiveteam.org/index.php?title=Wikiteam
