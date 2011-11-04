@@ -10,3 +10,4 @@ Other:
  * New scripts for other wiki engines
  * Wikimedia Commons download manager (in progress...)
  * Search for tools which can read XML dumps and show the article content: WikiTaxi (only for Windows)
+ * Get more mirrors set up so that our backups are available throughout the internet (and the globe)
