@@ -8,9 +8,6 @@ This is the list of mirrors that hosts Wikiteam's backups.
 == How to join ==
 If you are interested in hosting a mirror of Wikiteam's backups, follow one of the following methods of downloading our files (about 1.9GB):
  # Download all the files from both this website and [http://mirrors.sdboyd56.com/WikiTeam/ ScottDB wikibackups site].
- # If you have wget installed on your server, use the following command:
- {{{
- wget http://netcologne.dl.sourceforge.net/project/wikiteam/mirror.tar.gz wikiteam
- }}}
+ # Download all the files from the Sourceforge mirror, which already has a mirror network to allow you to choose a mirror closest to you.
 
 Send us the link to your mirror so that we could add it to this list. Thank you for your participation!
