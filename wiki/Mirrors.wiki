@@ -4,6 +4,7 @@ This is the list of mirrors that hosts Wikiteam's backups.
 == List of mirrors ==
  # Master server ([http://code.google.com/p/wikiteam/downloads/list Google Code] and [http://mirrors.sdboyd56.com/WikiTeam/ ScottDB wikibackups site])
  # [https://sourceforge.net/projects/wikiteam/files/ Sourceforge] (which is also mirrored to another 26 mirrors)
+ # [http://www.archive.org/details/WikiTeamMirror Internet Archive] ([http://ia600705.us.archive.org/16/items/WikiTeamMirror/ direct link] to directory)
 
 == How to join ==
 If you are interested in hosting a mirror of Wikiteam's backups, follow one of the following methods of downloading our files (about 1.9GB):
