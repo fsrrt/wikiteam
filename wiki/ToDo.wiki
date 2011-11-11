@@ -7,6 +7,7 @@ dumpgenerator.py:
  * Improve the inline help
 
 Other:
+ * WikiCrawler to find all wikis on the Internet
  * New scripts for other wiki engines
  * Wikimedia Commons download manager (in progress...)
  * Search for tools which can read XML dumps and show the article content: WikiTaxi (only for Windows)
