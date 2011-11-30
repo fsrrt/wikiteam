@@ -50,6 +50,11 @@ Are you a *researcher*? If you have conducted any [Research research] about wiki
 If you use WikiTeam tools to back up wikis and you host the files, contact us, we will be glad to add a link here:
   * http://mirrors.sdboyd56.com/WikiTeam/index.html
 
+== Mirrors ==
+Is the download speed too slow for you when you download from the downloads section in this website? No worries! Now, you can download them from our list of [Mirrors mirrors]! The best ones are listed below:
+ # [https://sourceforge.net/projects/wikiteam/files/ Sourceforge]
+ # The [http://www.archive.org/details/WikiTeamMirror Internet Archive] ([http://ia600705.us.archive.org/16/items/WikiTeamMirror/ directory link])
+
 == WikiTeam in the news, blogs, etc ==
   * [http://softlibre.barrapunto.com/article.pl?sid=11/05/10/070201 WikiTeam: un repositorio de wikis] (Barrapunto, 2011-05-10) ([http://www.webcitation.org/5zBcLaGm4 webcite])
   * [http://siondream.com/blog/proyectos/pfc/iberogre-wiki/backups-de-wikis-con-wikiteam/ Backups de wikis con WikiTeam] (IberOgre, 2011-06-04) ([http://www.webcitation.org/5zBcEMuCG webcite])
