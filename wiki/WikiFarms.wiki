@@ -22,6 +22,7 @@ For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/sourc
   * [http://maps.google.com/maps/ms?ie=UTF8&t=h&msa=0&msid=115570622864617231547.00044e461c185a89b6d71&ll=49.095452,14.677734&spn=39.93254,79.013672&z=4 Regiowikis] on Google Maps 100+ wikis
   * [http://en.wikipedia.org/wiki/User:Emijrp/Regiowikis User:Emijrp/Regiowikis]
   * [http://www.cs.brown.edu/~pavlo/mediawiki/ 20,000+ wikis]
+  * [http://semantic-mediawiki.org/wiki/Sites_using_Semantic_MediaWiki Hundreds of Semantic Mediawikis]
 ----
 
 Do you know more wikifarms or wiki lists? Please, leave a comment.
