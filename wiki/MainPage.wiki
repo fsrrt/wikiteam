@@ -8,6 +8,8 @@
 
 == Current events ==
 The last *news* (follow us on [http://twitter.com/#!/WikiTeamProject Twitter] too!):
+  * 2011-11-30: New backups of OpenSUSE and WikiIndex wikis sent by Hydriz are uploaded. Thanks!
+  * 2011-11-10: Archive Team uploads to Internet Archive [http://www.archive.org/details/wikimedia-image-dump-2005-11 one of the last image dumps] published by Wikimedia Foundation. It contains 296,000 images in 77GB. What a great work.
   * 2011-10-27: [http://mirrors.sdboyd56.com/WikiTeam/index.html ScottDB wikibackups site] reaches 100 archived wikis milestone. Keep up the good work!
   * 2011-10-24: Ian McEwen sent us a dump of https://hampedia.org Thanks!
   * 2011-10-13: More than 10 years after Wikipedia was started, [http://lists.wikimedia.org/pipermail/xmldatadumps-l/2011-October/000331.html the first Wikimedia projects official mirror] is created. Thanks to Centro de Computação Científica e Software Livre (C3SL), at the Universidade Federal do Paraná in Brazil!!!
@@ -47,11 +49,6 @@ Are you a *researcher*? If you have conducted any [Research research] about wiki
 == People using WikiTeam tools ==
 If you use WikiTeam tools to back up wikis and you host the files, contact us, we will be glad to add a link here:
   * http://mirrors.sdboyd56.com/WikiTeam/index.html
-
-== Mirrors ==
-Is the download speed too slow for you when you download from the downloads section in this website? No worries! Now, you can download them from our list of [Mirrors mirrors]! The best ones are listed below:
- # [https://sourceforge.net/projects/wikiteam/files/ Sourceforge]
- # The [http://www.archive.org/details/WikiTeamMirror Internet Archive] ([http://ia600705.us.archive.org/16/items/WikiTeamMirror/ directory link])
 
 == WikiTeam in the news, blogs, etc ==
   * [http://softlibre.barrapunto.com/article.pl?sid=11/05/10/070201 WikiTeam: un repositorio de wikis] (Barrapunto, 2011-05-10) ([http://www.webcitation.org/5zBcLaGm4 webcite])
