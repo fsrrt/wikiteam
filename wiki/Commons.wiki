@@ -1,0 +1,19 @@
+#summary Coordination page for downloading Wikimedia Commons, the largest free media repository.
+
+= Introduction =
+
+[http://commons.wikimedia.org Wikimedia Commons] is a project by the Wikimedia Foundation, and is currently the world's largest free media repository, boasting with more than 12 million images in its repository. WikiTeam is currently involved in discussion regarding the download of this entire repository to aid in future forks of the project, or in case of server failures which might result in images being lost.
+
+The Wikimedia Foundation last provided an image dump in November 2005, and the size of images has deterred them from doing anymore image dumps of that size. Other than the pictures featured in Picture of the day images being provided in a dump, all other pictures aren't dumped, and they deserve to be.
+
+= Wikimedia's role =
+
+For more than 6 years, Wikimedia has been providing only textual dumps of their projects, even if they actually dumped the image descriptions without the image itself.
+
+While the public thinks that there would no longer be any more image dumps in the future, I was interviewing Ariel regarding the image dumps and he gave some hints about the possibility of having image dumps again in the future, earliest in this year. Its a secret for now, but he plans to reveal them when he really starts the project.
+
+= WikiTeam's role =
+
+WikiTeam is currently involved in this project of downloading Wikimedia Commons as Wikimedia Commons is a wiki, just that it hosts images used by millions of people around the world. Since WikiTeam is formed to archive wikis, we are also involved in archiving images in these wikis, and thus we are involved in this project.
+
+Emijrp is currently making a downloading script to grab Wikimedia Commons, although given its size we would need a different tool to grab that site. We hope to utilise ArchiveTeam's tracker software in this project so that we can have better coordination about the images we are downloading. All these plans are currently in development, so there isn't really any fixed plans yet...
