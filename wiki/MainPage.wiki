@@ -8,6 +8,7 @@
 
 == Current events ==
 The last *news* (follow us on [http://twitter.com/#!/WikiTeamProject Twitter] too!):
+  * 2012-02-27: We start to [http://www.archiveteam.org/index.php?title=Wikimedia_Commons archive Wikimedia Commons]. [http://code.google.com/p/wikiteam/source/browse/trunk/commonsdownloader.py Source code] and [http://toolserver.org/~emijrp/commonsarchive/ file lists] available. We are doing some tests.
   * 2011-12-16: Using WikiIndex semantic properties to generate a dynamic [http://wikiindex.org/index.php?title=List_of_wikibackups&action=purge List of wikibackups] with many work to do! We are recruiting, [http://groups.google.com/group/wikiteam-discuss/browse_thread/thread/2de4428e60fc64f5 we need a lot of help]!
   * 2011-12-02: http://15demayo.info/wiki/ went offline in an undefined moment in the past. It was about the 2011 Spanish Revolution protests. We [https://code.google.com/p/wikiteam/downloads/detail?name=15demayoinfo_wiki-20110723-history.xml.7z grabbed a copy] in July. Dude, our mission is an important one.
   * 2011-11-30: New backups of OpenSUSE and WikiIndex wikis sent by Hydriz are uploaded. Thanks!
