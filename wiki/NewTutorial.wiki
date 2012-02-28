@@ -1,28 +1,29 @@
 #labels Featured
-Want to know how to use the dump generator? Here we explain it.
-
-==First of all==
-We use [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py] ([http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py download]), available at the [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk repository].
-
-==Requirements==
-
-You will need *Python*: http://www.python.org/download/
-The dump generator will need to be run from a DOS or GNU/Linux command-line. (A DOS window or one of the various terminal programs available in GNU/Linux.)
-
-==Dump types==
-There are two types of backups that can be made: *XML dumps* (current and history) and *image dumps*. (But you can do both in one dump - see below.)
-
-An *XML dump* contains the meta-data of the edits (author, date, comment) and the text (wikitext). An XML dump may be "*current*" or "*history*". A "history" dump contains the complete history of every page, which is better for historical and research purposes and is the default. A "current" dump contains only the last edit for every page. 
-
-An *image dump* contains all the images available in a wiki, plus their descriptions.
-
 ==I have shell access to server==
 
 If you have shell access on the Web server, follow the instructions on this page: http://www.mediawiki.org/wiki/Manual:DumpBackup.php for an XML backup. For an image backup, copy the image directory (see your !LocalSettings.php for details).
 
 ==I have no shell access to server==
 
-If you have no shell access, then use our dump generator. Here's how:
+If you have no shell access, then use our dump generator.
+
+
+===First of all===
+We use [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py] ([http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py download]), available at the [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk repository].
+
+===Requirements===
+
+You will need *Python*: http://www.python.org/download/
+The dump generator will need to be run from a DOS or GNU/Linux command-line. (A DOS window or one of the various terminal programs available in GNU/Linux.)
+
+===Dump types===
+There are two types of backups that can be made: *XML dumps* (current and history) and *image dumps*. (But you can do both in one dump - see below.)
+
+An *XML dump* contains the meta-data of the edits (author, date, comment) and the text (wikitext). An XML dump may be "*current*" or "*history*". A "history" dump contains the complete history of every page, which is better for historical and research purposes and is the default. A "current" dump contains only the last edit for every page. 
+
+An *image dump* contains all the images available in a wiki, plus their descriptions.
+
+===Running the script===
 
 There are two ways to start a backup - *API* (api.php) or *index.php* . API is the better method to use, but index.php can be used when the API is not available. (Not all mediawiki wikis have api.php.)
 To find out if the wiki you want to back up has api.php or not, open a browser window and go to the wiki's Main Page.
