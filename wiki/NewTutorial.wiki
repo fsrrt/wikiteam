@@ -55,7 +55,7 @@ To resume an interrupted dump, use the parameters _--resume_ and _--path_ to ind
 
 When you start a new dump, the script will create a directory (or folder) in the form of: domainorg-20110520-wikidump . Sometimes there will be a sub-directory in the name, or "wiki" added in - that's OK. 
 
-==Check dump integrity==
+===Check dump integrity===
 
 If you want to check the XML dump integrity (optional), there are two possible methods:
 
@@ -76,7 +76,7 @@ You should see something similar to this (not the actual numbers - the first thr
 
 If your first three numbers or your last two numbers are different, then, your XML dump is corrupt (it contains one or more unfinished `</page>` or `</revision>`). This is not common in small wikis, but large or very large wikis may fail at this due to truncated XML pages while exporting and merging. The solution is to remove the XML dump and resume (re-download, a bit boring, and it can fail again...), or if you don't care to lose the corrupt pages, exclude them with this script (TO DO).
 
-==Further steps: compression==
+===Further steps: compression===
 After the wiki dump is complete, you will need to archive the files in the wikidump directory. The WikiTeam project uses the *7-Zip* file archiver. 7z is a compressed archive file format. We use it because it is free (the GNU LGPL license) and it has a high compression ratio. [http://en.wikipedia.org/wiki/7z Read about it] in Wikipedia. There is  software for [http://www.7-zip.org Windows] and [http://p7zip.sourceforge.net GNU/Linux] (_sudo apt-get install p7zip_). There are also graphical front-ends for archiving programs for both Windows and GNU/Linux. 
 
 You can use a graphical front-end to compress and archive the files, or run one of these commands:
