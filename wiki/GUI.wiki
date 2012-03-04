@@ -1,0 +1,4 @@
+I want to create a GUI for dumpgenerator.py:
+
+  * Download manager (simple API url, or feed list)
+  * Upload
