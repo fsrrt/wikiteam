@@ -1,4 +1,4 @@
-I want to create a GUI for dumpgenerator.py:
+I want to create a GUI for dumpgenerator.py using Tkinter:
 
   * Download manager (simple API url, or feed list)
-  * Upload
+  * Upload tab
