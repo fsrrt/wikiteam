@@ -16,4 +16,4 @@ While the public thinks that there would no longer be any more image dumps in th
 
 WikiTeam is currently involved in this project of downloading Wikimedia Commons as Wikimedia Commons is a wiki, just that it hosts images used by millions of people around the world. Since WikiTeam is formed to archive wikis, we are also involved in archiving images in these wikis, and thus we are involved in this project.
 
-Emijrp is currently making a downloading script to grab Wikimedia Commons, although given its size we would need a different tool to grab that site. We hope to utilise ArchiveTeam's tracker software in this project so that we can have better coordination about the images we are downloading. All these plans are currently in development, so there isn't really any fixed plans yet...
+WikiTeam has a script in the code repository that downloads Wikimedia Commons images in order of date, and there are some coordination on the ArchiveTeam [http://archiveteam.org/index.php?title=Wikimedia_Commons wiki].
