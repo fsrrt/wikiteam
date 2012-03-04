@@ -2,7 +2,7 @@
 Stuff to do, soon or later, or in the near future.
 
 dumpgenerator.py:
- * GUI in a separate script (TKinter, very simple and cross-platform)
+ * [GUI] in a separate script (TKinter, very simple and cross-platform)
  * i18n
  * Improve the inline help
 
