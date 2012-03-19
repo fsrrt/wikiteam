@@ -1,15 +1,16 @@
 == We archive wikis, from Wikipedia to tiniest wikis ==
 
+*WikiTeam tools* is a set of tools for preserving wikis. They work on MediaWiki wikis, but we want to expand to other wiki engines.
 <table align="right" border="1">
 <tr><td><p align="center"><font size="big">1) *[NewTutorial Documentation]*</font></p><p align="center"><font size="big">2) *[http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py Source code]*</font></p><p align="center"><font size="big">3) *[http://groups.google.com/group/wikiteam-discuss Community]*</font></p></td></tr>
 </table>
-
-*There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/en of] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/multilingual wikis] in the Internet.* Everyday some of them are no longer publicly available and, due to lack of [http://code.google.com/p/wikiteam/downloads/list?can=1 backups], lost forever. Many people download tons of media files (movies, music, books, etc) from the Internet, implementing a kind of distributed backup. Wikis, most of them under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame that we would like to solve.
+There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/en of] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/multilingual wikis] in the Internet. Everyday some of them are no longer publicly available and, due to lack of [http://code.google.com/p/wikiteam/downloads/list?can=1 backups], lost forever. Many people download tons of media files (movies, music, books, etc) from the Internet, implementing a kind of distributed backup. Wikis, most of them under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame that we would like to solve.
 
 WikiTeam was founded and originally developed by [https://sites.google.com/site/emijrp/ emijrp], a Wikipedia veteran editor and wiki enthusiast. Many people have help sending suggestions, [http://code.google.com/p/wikiteam/issues/list reporting bugs], writing [http://code.google.com/p/wikiteam/w/list documentation], providing help in the [http://groups.google.com/group/wikiteam-discuss mailing list] and making [http://code.google.com/p/wikiteam/downloads/list wiki backups]. Thanks to all.
 
 == Current events ==
 The last *news* (follow us on [http://twitter.com/#!/WikiTeamProject Twitter] too!):
+  * 2012-03-03: WikiTeam tools need a Graphical User Interface ([GUI]) to reach a greater community. We start to work on this.
   * 2012-02-27: We start to [http://www.archiveteam.org/index.php?title=Wikimedia_Commons archive Wikimedia Commons]. [http://code.google.com/p/wikiteam/source/browse/trunk/commonsdownloader.py Source code] and [http://toolserver.org/~emijrp/commonsarchive/ file lists] available. We are doing some tests.
   * 2011-12-16: Using WikiIndex semantic properties to generate a dynamic [http://wikiindex.org/index.php?title=List_of_wikibackups&action=purge List of wikibackups] with many work to do! We are recruiting, [http://groups.google.com/group/wikiteam-discuss/browse_thread/thread/2de4428e60fc64f5 we need a lot of help]!
   * 2011-12-02: http://15demayo.info/wiki/ went offline in an undefined moment in the past. It was about the 2011 Spanish Revolution protests. We [https://code.google.com/p/wikiteam/downloads/detail?name=15demayoinfo_wiki-20110723-history.xml.7z grabbed a copy] in July. Dude, our mission is an important one.
@@ -74,5 +75,5 @@ If you need an e-mail address, you can send your messages to emijrp@gmail.com
 
 <table width=99%>
 <tr><td align=center>
-|| << [http://statmediawiki.forja.rediris.es/ StatMediaWiki] || *!WikiRing* || [http://code.google.com/p/avbot/ AVBOT] >> ||
+|| << [http://code.google.com/p/wikistats-mediawiki-extension/ WikiStats Extension] || *!WikiRing* || [http://code.google.com/p/avbot/ AVBOT] >> ||
 </td></tr></table>
