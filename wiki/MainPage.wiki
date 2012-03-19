@@ -1,12 +1,12 @@
 == We archive wikis, from Wikipedia to tiniest wikis ==
 
-*WikiTeam tools* is a set of tools for preserving wikis. They work on MediaWiki wikis, but we want to expand to other wiki engines.
+*!WikiTeam tools* is a set of tools for preserving wikis. They work on !MediaWiki wikis, but we want to expand to other wiki engines.
 <table align="right" border="1">
 <tr><td><p align="center"><font size="big">1) *[NewTutorial Documentation]*</font></p><p align="center"><font size="big">2) *[http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py Source code]*</font></p><p align="center"><font size="big">3) *[http://groups.google.com/group/wikiteam-discuss Community]*</font></p></td></tr>
 </table>
 There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/en of] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/multilingual wikis] in the Internet. Everyday some of them are no longer publicly available and, due to lack of [http://code.google.com/p/wikiteam/downloads/list?can=1 backups], lost forever. Many people download tons of media files (movies, music, books, etc) from the Internet, implementing a kind of distributed backup. Wikis, most of them under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame that we would like to solve.
 
-WikiTeam was founded and originally developed by [https://sites.google.com/site/emijrp/ emijrp], a Wikipedia veteran editor and wiki enthusiast. Many people have help sending suggestions, [http://code.google.com/p/wikiteam/issues/list reporting bugs], writing [http://code.google.com/p/wikiteam/w/list documentation], providing help in the [http://groups.google.com/group/wikiteam-discuss mailing list] and making [http://code.google.com/p/wikiteam/downloads/list wiki backups]. Thanks to all.
+!WikiTeam was founded and originally developed by [https://sites.google.com/site/emijrp/ emijrp], a Wikipedia veteran editor and wiki enthusiast. Many people have help sending suggestions, [http://code.google.com/p/wikiteam/issues/list reporting bugs], writing [http://code.google.com/p/wikiteam/w/list documentation], providing help in the [http://groups.google.com/group/wikiteam-discuss mailing list] and making [http://code.google.com/p/wikiteam/downloads/list wiki backups]. Thanks to all.
 
 == Current events ==
 The last *news* (follow us on [http://twitter.com/#!/WikiTeamProject Twitter] too!):
