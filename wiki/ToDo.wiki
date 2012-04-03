@@ -8,7 +8,7 @@ dumpgenerator.py:
 
 Other:
  * WikiCrawler to find all wikis on the Internet
-  * "special pages" + "permanent link" + "what links here" -site:wikipedia.org -site:wikimedia.org -site:mediawiki.org -site:wikiquote.org -site:wiktionary.org -site:wikia.com
+  * Google query: "special pages" + "permanent link" + "what links here" -site:wikipedia.org -site:wikimedia.org -site:mediawiki.org -site:wikiquote.org -site:wiktionary.org -site:wikia.com
  * New scripts for other wiki engines
  * Wikimedia Commons download manager (in progress...)
  * Search for tools which can read XML dumps and show the article content: WikiTaxi (only for Windows)
