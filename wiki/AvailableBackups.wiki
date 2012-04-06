@@ -6,6 +6,6 @@
   * *[http://archive.org/details/shoutwiki.com ShoutWiki August 2011]* backup (397 wikis)
   * *[http://archive.org/details/referata.com-20111204 Referata December 2011]* backup (37 wikis)
 
-Most backups include the XML with the full page histories and images. You need a MediaWiki to import all the data.
+Most backups include the XML with the full page histories and images. You need a MediaWiki to import all the data. Read [http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps this] and [http://www.mediawiki.org/wiki/Manual:ImportImages.php this] to know how to import a backup.
 
 Have you made any wiki backup? Leave a comment and a link below. Thanks!
