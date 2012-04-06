@@ -17,7 +17,7 @@ The dump generator will need to be run from a DOS or GNU/Linux command-line.
 ===Dump types===
 There are two types of backups that can be made: *XML dumps* (current and history) and *image dumps*. (But you can do both in one dump - see below.)
 
-An *XML dump* contains the meta-data of the edits (author, date, comment) and the text (wikitext). An XML dump may be "*current*" or "*history*". A "history" dump contains the complete history of every page, which is better for historical and research purposes and is the default. A "current" dump contains only the last edit for every page. 
+A *XML dump* contains the meta-data of the edits (author, date, comment) and the text (wikitext). An XML dump may be "*current*" or "*history*". A "history" dump contains the complete history of every page, which is better for historical and research purposes and is the default. A "current" dump contains only the last edit for every page. 
 
 An *image dump* contains all the images available in a wiki, plus their descriptions.
 
