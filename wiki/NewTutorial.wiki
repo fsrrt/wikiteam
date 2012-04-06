@@ -57,11 +57,11 @@ When you start a new dump, the script will create a directory (or folder) in the
 
 If you want to check the XML dump integrity (optional), there are two possible methods:
 
-1. You can try to import it into a MediaWiki (using the method above, which may be slow if wiki is large).
+1. You can try to import it into a MediaWiki (using [http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps this method], which may be slow if wiki is large).
 
 or
 
-2. Type this into your command line (GNU/Linux) to count _`<page>`__`</page>`__`<title>`_ and _`<revision>`__`</revision>`_ XML tags:
+2. Type this into your command line (GNU/Linux) to count _`<title>`__`<page>`__`</page>`_ and _`<revision>`__`</revision>`_ XML tags:
 
   * _grep "`<title>`" `*`.xml -c;grep "`<page>`" `*`.xml -c;grep "`</page>`" `*`.xml -c;grep "`<revision>`" `*`.xml -c;grep "`</revision>`" `*`.xml -c___
 
