@@ -78,8 +78,11 @@ If your first three numbers or your last two numbers are different, then, your X
 After the wiki dump is complete, you will need to archive the files in the wikidump directory. The WikiTeam project uses the *7-Zip* file archiver. 7z is a compressed archive file format. We use it because it is free (the GNU LGPL license) and it has a high compression ratio. [http://en.wikipedia.org/wiki/7z Read about it] in Wikipedia. There is  software for [http://www.7-zip.org Windows] and [http://p7zip.sourceforge.net GNU/Linux] (_sudo apt-get install p7zip_). There are also graphical front-ends for archiving programs for both Windows and GNU/Linux. 
 
 You can use a graphical front-end to compress and archive the files, or run one of these commands:
-    * 7z a  domainorg-20110520-history.xml.7z domainorg-20110520-wikidump/*  -- for xml only
-or * 7z a  domainorg-20110520-complete.7z domainorg-20110520-wikidump/* -- for xml & images
+  * 7z a  domainorg-20110520-history.xml.7z domainorg-20110520-wikidump/*  -- for xml only
+
+or
+
+  * 7z a  domainorg-20110520-complete.7z domainorg-20110520-wikidump/* -- for xml & images
 
 It is suggested that you use the following file-naming convention: domainorg-20110520-history.xml.7z - where "domainorg" is the domain name, "20110520" is the date the dump was started. (You can use the domain name and date from the directory that was created when the dump was started.)
 
