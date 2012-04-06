@@ -7,11 +7,7 @@ If you have shell access on the web server, follow the instructions on this page
 
 ==I have no shell access to server==
 
-If you have no shell access, then use our dump generator.
-
-
-===First of all===
-We use [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py] ([http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py download]), available at the [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk repository].
+If you have no shell access, then use the WikiTeam [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py] ([http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py download]), available at the [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk repository].
 
 ===Requirements===
 
