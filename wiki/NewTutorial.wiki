@@ -26,7 +26,7 @@ An *image dump* contains all the images available in a wiki, plus their descript
 There are two ways to start a backup - *API* (api.php) or *index.php* . API is the better method to use, but index.php can be used when the API is not available. (Not all mediawiki wikis have api.php.)
 To find out if the wiki you want to back up has api.php or not, open a browser window and go to the wiki's Main Page.
 Click on the "View history" tab. You will see a URL such as this: _http://en.wikipedia.org/w/index.php?title=Main_Page&action=history_
-Now edit the URL: remove everything after_/w/_, and replace it with _api.php_ (In the example it would be: _http://en.wikipedia.org/w/api.php_). If you see a webpage with the API documentation, copy the URL to the clipboard. If not,  the API is probably not being used in the wiki or check the URL and try again (or use index.php).
+Now edit the URL: remove everything after _/w/_, and replace it with _api.php_ (In the example, the result would be: _http://en.wikipedia.org/w/api.php_). If you see a webpage with the API documentation, copy the URL to the clipboard. If not,  the API is probably not being used in the wiki or check the URL and try again (or use index.php).
 
 If there is no api.php, then you'll need to use index.php. For the correct URL, in the example above, remove everything after the '?' and copy the URL to the clipboard. (In the example above the correct URL would be: _http://en.wikipedia.org/w/index.php_)
 
