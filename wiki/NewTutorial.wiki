@@ -28,7 +28,7 @@ To find out if the wiki you want to back up has api.php or not, open a browser w
 Click on the "View history" tab. You will see a URL such as this: _http://en.wikipedia.org/w/index.php?title=Main_Page&action=history_
 Now edit the URL: remove everything after _/w/_, and replace it with _api.php_ (In the example, the result would be: _http://en.wikipedia.org/w/api.php_). If you see a webpage with the API documentation, copy the URL to the clipboard. If not,  the API is probably not being used in the wiki or check the URL and try again (or use index.php).
 
-If there is no api.php, then you'll need to use index.php. For the correct URL, in the example above, remove everything after the _/?/_ and copy the URL to the clipboard. (In the example above the correct URL would be: _http://en.wikipedia.org/w/index.php_)
+If there is no api.php, then you'll need to use index.php. For the correct URL, in the example above, remove everything after the '_?_' and copy the URL to the clipboard. (In the example above the correct URL would be: _http://en.wikipedia.org/w/index.php_)
 
 Note: *DO NOT* try to dump the Wikipedia site! It would result in a file that would quite likely be in the terabyte range. We are just using the Wikipedia URL as an example.
 
