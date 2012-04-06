@@ -12,7 +12,7 @@ If you have no shell access, then use the WikiTeam [http://code.google.com/p/wik
 ===Requirements===
 
 You will need *Python*: http://www.python.org/download/
-The dump generator will need to be run from a DOS or GNU/Linux command-line. (A DOS window or one of the various terminal programs available in GNU/Linux.)
+The dump generator will need to be run from a DOS or GNU/Linux command-line.
 
 ===Dump types===
 There are two types of backups that can be made: *XML dumps* (current and history) and *image dumps*. (But you can do both in one dump - see below.)
