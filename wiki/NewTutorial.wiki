@@ -3,7 +3,7 @@ This is a tutorial to learn how to backup a wiki using WikiTeam tools. You can *
 
 ==I have shell access to server==
 
-If you have shell access on the Web server, follow the instructions on this page: http://www.mediawiki.org/wiki/Manual:DumpBackup.php for an XML backup. For an image backup, copy the image directory (see your !LocalSettings.php for details).
+If you have shell access on the web server, follow the instructions on this page: http://www.mediawiki.org/wiki/Manual:DumpBackup.php for an XML backup. For an image backup, copy the image directory (see your !LocalSettings.php for details).
 
 ==I have no shell access to server==
 
