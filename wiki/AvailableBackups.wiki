@@ -4,8 +4,8 @@
 
   * *[http://code.google.com/p/wikiteam/downloads/list?num=5000 Downloads section]* at Google Code (+150 wikis)
   * *[http://archive.org/search.php?query=collection%3Awikiteam&sort=-publicdate WikiTeam Collection]* at Internet Archive (+100 wikis)
-  * *[http://archive.org/details/shoutwiki.com ShoutWiki August 2011]* backup (397 wikis)
-  * *[http://archive.org/details/referata.com-20111204 Referata December 2011]* backup (37 wikis)
+  * *[http://archive.org/details/shoutwiki.com ShoutWiki wikifarm August 2011]* backup (397 wikis)
+  * *[http://archive.org/details/referata.com-20111204 Referata wikifarm December 2011]* backup (37 wikis)
   * *[http://wikiindex.org/List_of_wikibackups List of wikibackups]* at WikiIndex
   * We are working on many more. Do you want to help? [http://groups.google.com/group/wikiteam-discuss Talk with us].
 
