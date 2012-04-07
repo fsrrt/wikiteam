@@ -1,3 +1,4 @@
+#summary List of wikifarms and their statuses
 #labels Featured
 == List of wikifarms ==
 
