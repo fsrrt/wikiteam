@@ -4,7 +4,7 @@
 
 There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/en of] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/multilingual wikis] in the Internet. Everyday some of them are no longer publicly available and, due to lack of [http://code.google.com/p/wikiteam/downloads/list?can=1 backups], lost forever. Many people download tons of media files (movies, music, books, etc) from the Internet, implementing a kind of distributed backup. Wikis, most of them under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame that we would like to solve.
 
-!WikiTeam was founded and originally developed by [https://sites.google.com/site/emijrp/ emijrp], a Wikipedia veteran editor and amateur archivist. Many people have help sending suggestions, [http://code.google.com/p/wikiteam/issues/list reporting bugs], writing [http://code.google.com/p/wikiteam/w/list documentation], providing help in the [http://groups.google.com/group/wikiteam-discuss mailing list] and making [http://code.google.com/p/wikiteam/downloads/list wiki backups]. Thanks to all.
+*!WikiTeam* is the [http://www.archiveteam.org Archive Team] subcommittee on wikis. It was founded and originally developed by [https://sites.google.com/site/emijrp/ emijrp], a Wikipedia veteran editor and amateur archivist. Many people have help sending suggestions, [http://code.google.com/p/wikiteam/issues/list reporting bugs], writing [http://code.google.com/p/wikiteam/w/list documentation], providing help in the [http://groups.google.com/group/wikiteam-discuss mailing list] and making [http://code.google.com/p/wikiteam/downloads/list wiki backups]. Thanks to all, especially to: [http://meta.wikimedia.org/wiki/User:Nemo_bis Federico Leva], Alex Buie, Scott Boyd, [http://meta.wikimedia.org/wiki/User:Hydriz Hydriz] and Platonides.
 
 <table border=0 cellpadding=5px>
 <tr><td>
@@ -22,6 +22,7 @@ There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_
 
 == Current events ==
 The last *news* (follow us on [http://twitter.com/#!/WikiTeamProject Twitter] too!):
+  * 2012-04-07: We start a TaskForce to archive 7,000+ wikis from a list by Andrew Pavlo (2009).
   * 2012-04-05: WikiTeam 1st Birthday! \o/
   * 2012-03-03: WikiTeam tools need a Graphical User Interface ([GUI]) to reach a greater community. We start to work on this.
   * 2012-02-27: We start to [http://www.archiveteam.org/index.php?title=Wikimedia_Commons archive Wikimedia Commons]. [http://code.google.com/p/wikiteam/source/browse/trunk/commonsdownloader.py Source code] and [http://toolserver.org/~emijrp/commonsarchive/ file lists] available. We are doing some tests.
