@@ -8,4 +8,4 @@ Download a list (every list has 100 wikis) and use the following scripts to back
   # launcher.py 
   # [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py]
 
-Download the list, and the both scripts in the same directory. Now, you can do: *python launcher.py mylist.txt*
+Download the list, and both scripts in the same directory. Now, you can do: *python launcher.py mylist.txt*
