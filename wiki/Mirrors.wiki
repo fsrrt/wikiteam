@@ -12,3 +12,8 @@ If you are interested in hosting a mirror of Wikiteam's backups, follow one of t
  # Download all the files from the Sourceforge mirror, which already has a mirror network to allow you to choose a mirror closest to you.
 
 Send us the link to your mirror so that we could add it to this list. Thank you for your participation!
+
+== Wikipedia mirrors ==
+Recently, there is an effort to mirror Wikipedia dumps around the world.
+
+This one is the first official Wikipedia mirror: http://wikipedia.c3sl.ufpr.br/
