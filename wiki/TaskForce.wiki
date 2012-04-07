@@ -1,6 +1,7 @@
+#summary Help us archiving a gallizion of wikis
 Here, we coordinate us to download all *non WikiFarms* wikis.
 
-We start with a [http://www.cs.brown.edu/~pavlo/mediawiki/ list from Andrew Pavlo], which is [http://code.google.com/p/wikiteam/source/browse/trunk/listsofwikis/mediawikis_pavlo.csv mirrored here]. After discarding dead wikis, we have about ~7,000 alive wikis.
+We start with a [http://www.cs.brown.edu/~pavlo/mediawiki/ list from Andrew Pavlo], which is [http://code.google.com/p/wikiteam/source/browse/trunk/listsofwikis/mediawikis_pavlo.csv mirrored here]. After discarding dead wikis, we have about 7,000+ alive wikis.
 
 == Requirements ==
 You need GNU/Linux, Python and p7zip-full (sudo apt-get install p7zip-full).
