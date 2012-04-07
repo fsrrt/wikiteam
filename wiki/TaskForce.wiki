@@ -7,7 +7,7 @@ We start with a [http://www.cs.brown.edu/~pavlo/mediawiki/ list from Andrew Pavl
 == Requirements ==
 You need GNU/Linux, Python and p7zip-full (sudo apt-get install p7zip-full).
 
-== How to join the effort ==
+== How to join the effort? ==
 
 Download a list (every list has 100 wikis):
 
