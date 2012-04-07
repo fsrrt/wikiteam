@@ -5,6 +5,7 @@
   * *[http://archive.org/search.php?query=collection%3Awikiteam&sort=-publicdate WikiTeam Collection]* at Internet Archive (+100 wikis)
   * *[http://archive.org/details/shoutwiki.com ShoutWiki August 2011]* backup (397 wikis)
   * *[http://archive.org/details/referata.com-20111204 Referata December 2011]* backup (37 wikis)
+  * *[http://wikiindex.org/List_of_wikibackups List of wikibackups]* at WikiIndex
   * We are working on many more. Do you want to help? [http://groups.google.com/group/wikiteam-discuss Talk with us].
 
 Most backups include the XML with the full page histories and images. You need a MediaWiki to import all the data. Read [http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps this] and [http://www.mediawiki.org/wiki/Manual:ImportImages.php this] to know how to import a backup.
