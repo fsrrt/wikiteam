@@ -15,7 +15,7 @@ And use the following scripts to backup the wikis:
 
 After downloading a list and both scripts in the same directory, you can do: *python launcher.py mylist.txt*
 
-It will backup every wiki and generate two 7z files: _-history.xml.7z_ (just wikitext) and _-wikidump.7z_ (wikitext and images/ directory).
+It will backup every wiki and generate two 7z files for each one: _-history.xml.7z_ (just wikitext) and _-wikidump.7z_ (wikitext and images/ directory).
 
 == Where/How to upload the dumps? ==
 
