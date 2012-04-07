@@ -4,14 +4,14 @@
 For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk%2Flistsofwikis look here]. If you know about a wiki which is missing in the lists, please, leave a comment.
 
 === MediaWiki ===
-  * [http://editthis.info EditThis.info]
-  * elwiki.com (offline)
-  * [http://www.referata.com Referata] (Semantic MediaWiki) (archived, pending upload)
-  * ScribbleWiki (offline)
+  * [http://editthis.info EditThis.info] (online, pending archive)
+  * elwiki.com (offline and lost)
+  * [http://www.referata.com Referata] (Semantic MediaWiki) ([http://archive.org/details/referata.com-20111204 archived])
+  * ScribbleWiki (offline and lost)
   * [http://www.shoutwiki.com ShoutWiki] 400+ wikis ([http://www.archive.org/details/shoutwiki.com archived])
-  * [http://tropicalwikis.com TropicalWikis]
-  * [http://www.wikia.com Wikia] 100,000+ wikis
-  * [http://wiki-site.com Wiki-site.com]
+  * [http://tropicalwikis.com TropicalWikis] (online but reset?)
+  * [http://www.wikia.com Wikia] 100,000+ wikis (online, pending archive)
+  * [http://wiki-site.com Wiki-site.com] (online, pending archive)
   * [http://wikkii.com Wikkii] 3,000+ wikis (archived, pending upload)
 
 === Not MediaWiki ===
