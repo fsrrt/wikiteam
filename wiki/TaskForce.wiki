@@ -1,8 +1,11 @@
-Here, we coordinate us to download all non-[WikiFarms|wikifarm] wikis.
+Here, we coordinate us to download all *non WikiFarms* wikis.
 
-We start with a [http://www.cs.brown.edu/~pavlo/mediawiki/ list from Andrew Pavlo], which is [http://code.google.com/p/wikiteam/source/browse/trunk/listsofwikis/mediawikis_pavlo.csv mirrored here]. After discarding dead wikis, we have about ~XXXX wikis.
+We start with a [http://www.cs.brown.edu/~pavlo/mediawiki/ list from Andrew Pavlo], which is [http://code.google.com/p/wikiteam/source/browse/trunk/listsofwikis/mediawikis_pavlo.csv mirrored here]. After discarding dead wikis, we have about ~XXXX alive wikis.
 
-Download a list and use the following scripts to backup the wikis:
+== How to join the effort ==
+Download a list (every list has 100 wikis) and use the following scripts to backup the wikis:
 
   # launcher.py 
-  # dumpgenerator.py
+  # [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py]
+
+Download the list, and the both scripts in the same directory. Now, you can do: _/python launcher.py mylist.txt/_
