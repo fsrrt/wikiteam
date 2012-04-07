@@ -9,7 +9,7 @@ You need GNU/Linux, Python and p7zip-full (sudo apt-get install p7zip-full).
 
 Download a list (every list has 100 wikis):
 
-  * wait some minutes, we are generating them...
+  * Choose one from [http://code.google.com/p/wikiteam/source/browse/trunk#trunk%2Fbatchdownload%2Flists 000 to 073]
 
 And use the following scripts to backup the wikis:
 
