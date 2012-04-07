@@ -5,7 +5,7 @@ We start with a [http://www.cs.brown.edu/~pavlo/mediawiki/ list from Andrew Pavl
 == How to join the effort ==
 Download a list (every list has 100 wikis) and use the following scripts to backup the wikis:
 
-  # launcher.py 
+  # [http://code.google.com/p/wikiteam/source/browse/trunk/batchdownload/launcher.py launcher.py]
   # [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py]
 
-Download the list, and both scripts in the same directory. Now, you can do: *python launcher.py mylist.txt*
+Download a list and both scripts in the same directory. Now, you can do: *python launcher.py mylist.txt*
