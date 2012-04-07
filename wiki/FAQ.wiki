@@ -1,3 +1,4 @@
+#summary Frequently Asked Questions
 #labels Featured
 == Frequently Asked Questions ==
 *What is the purpose of this project?*
