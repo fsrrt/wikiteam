@@ -28,7 +28,7 @@ Lists claimed by users.
 
 || 000 || emijrp ||
 || 001 || ScottDB ||
-|| 002 || ... ||
+|| 002 || underscor ||
 || 003 || ... ||
 || 004 || ... ||
 || 005 || ... ||
