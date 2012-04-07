@@ -20,6 +20,12 @@ After downloading a list and both scripts in the same directory, you can do: *py
 
 It will backup every wiki and generate two 7z files for each one: _-history.xml.7z_ (just wikitext) and _-wikidump.7z_ (wikitext and images/ directory).
 
+=== Volunteers table ===
+
+|| 000 || emijrp ||
+|| 001 || ... ||
+|| 002 || ... ||
+
 == Where/How to upload the dumps? ==
 
 We will upload the dumps to the [http://archive.org/details/wikiteam WikiTeam Collection] at Internet Archive. Please, wait further instructions.
