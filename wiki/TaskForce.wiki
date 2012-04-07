@@ -13,8 +13,8 @@ Download a list (every list has 100 wikis):
 
 And use the following scripts to backup the wikis:
 
-  * [http://code.google.com/p/wikiteam/source/browse/trunk/batchdownload/launcher.py launcher.py]
-  * [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py]
+  * [http://wikiteam.googlecode.com/svn/trunk/batchdownload/launcher.py launcher.py]
+  * [http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py dumpgenerator.py]
 
 After downloading a list and both scripts in the same directory, you can do: *python launcher.py mylist.txt*
 
