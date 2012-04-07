@@ -1,4 +1,5 @@
 #labels Featured
+<img src="http://upload.wikimedia.org/wikipedia/commons/3/37/Nuvola_devices_3floppy_mount.png" width=100px alt="Download available backups" title="Download available backups" align=right />
 *!WikiTeam* has made a lot of wiki backups. Here you have a list:
 
   * *[http://code.google.com/p/wikiteam/downloads/list?num=5000 Downloads section]* at Google Code (+150 wikis)
