@@ -8,4 +8,6 @@ Download a list (every list has 100 wikis) and use the following scripts to back
   * [http://code.google.com/p/wikiteam/source/browse/trunk/batchdownload/launcher.py launcher.py]
   * [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py]
 
-Download a list and both scripts in the same directory. Now, you can do: *python launcher.py mylist.txt*
+After downloading a list and both scripts in the same directory, you can do: *python launcher.py mylist.txt*
+
+It will backup every wiki and generate a _-history.xml.7z_ (just wikitext) and _-wikidump.7z_ (wikitext and images/ directory).
