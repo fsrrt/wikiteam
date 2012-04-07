@@ -1,3 +1,4 @@
+#summary Some mirrors of our wiki dumps
 #labels Featured
 This is the list of mirrors that hosts Wikiteam's backups.
 
