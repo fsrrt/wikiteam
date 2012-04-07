@@ -1,4 +1,4 @@
-Here, we coordinate us to download all non-[wikifarm] wikis.
+Here, we coordinate us to download all non-[WikiFarms|wikifarm] wikis.
 
 We start with a [http://www.cs.brown.edu/~pavlo/mediawiki/ list from Andrew Pavlo], which is [http://code.google.com/p/wikiteam/source/browse/trunk/listsofwikis/mediawikis_pavlo.csv mirrored here]. After discarding dead wikis, we have about ~XXXX wikis.
 
