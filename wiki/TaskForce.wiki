@@ -22,6 +22,8 @@ It will backup every wiki and generate two 7z files for each one: _-history.xml.
 
 === Volunteers table ===
 
+Lists claimed by users.
+
 || 000 || emijrp ||
 || 001 || ... ||
 || 002 || ... ||
