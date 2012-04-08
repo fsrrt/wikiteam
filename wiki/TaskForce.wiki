@@ -1,5 +1,6 @@
 #summary Help us to archive a gallizion of wikis
 #labels Featured
+#sidebar Sidebar
 Here, we coordinate us to download all *non WikiFarms* wikis.
 
 We start with a [http://www.cs.brown.edu/~pavlo/mediawiki/ list from Andrew Pavlo], which is [http://code.google.com/p/wikiteam/source/browse/trunk/listsofwikis/mediawikis_pavlo.csv mirrored here]. After discarding dead wikis, we have about 7,400+ alive wikis.
