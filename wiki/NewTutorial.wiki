@@ -4,7 +4,7 @@
 <img src="http://upload.wikimedia.org/wikipedia/commons/f/f3/Nuvola_apps_Wild.png" width=100px alt="Documentation" title="Documentation" align=right/>
 This is a tutorial to learn how to backup a wiki using WikiTeam tools. You can *backup your wiki or any public wiki*.
 
-Table of contents:
+*Table of contents:*
 <wiki:toc />
 
 = Generating a wiki backup =
