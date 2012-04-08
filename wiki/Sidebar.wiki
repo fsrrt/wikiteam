@@ -1,3 +1,7 @@
 #summary The wiki sidebar
 
-  * NewTutorial
+  * Documentation
+    * NewTutorial
+    * FAQ
+  * AvailableBackups
+  * Mirrors
