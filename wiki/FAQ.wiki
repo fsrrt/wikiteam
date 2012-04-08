@@ -9,7 +9,7 @@
 
 There are [http://wikiindex.org thousands of wikis] in the Internet. Everyday a few of them are lost, due to lack of backups. People download tons of films and music. Wikis, most of them published under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame.
 
-=== What do [http://code.google.com/p/wikiteam/downloads/list?can=1 all these backups] contain? ===
+=== What do [AvailableBackups all these backups] contain? ===
 
 These backups contain the text of the wikis and/or their images. Passwords or user accounts related information are *NOT* included. Read about the license of these materials below.
 
