@@ -1,6 +1,19 @@
 #summary Archive of WikiTeam news
 #sidebar Sidebar
 
+  * 2012-04-07: We start a TaskForce to archive 7,000+ wikis from a list by Andrew Pavlo (2009).
+  * 2012-04-05: WikiTeam 1st Birthday! \o/
+  * 2012-03-03: WikiTeam tools need a Graphical User Interface ([GUI]) to reach a greater community. We start to work on this.
+  * 2012-02-27: We start to [http://www.archiveteam.org/index.php?title=Wikimedia_Commons archive Wikimedia Commons]. [http://code.google.com/p/wikiteam/source/browse/trunk/commonsdownloader.py Source code] and [http://toolserver.org/~emijrp/commonsarchive/ file lists] available. We are doing some tests.
+  * 2011-12-16: Using WikiIndex semantic properties to generate a dynamic [http://wikiindex.org/index.php?title=List_of_wikibackups&action=purge List of wikibackups] with many work to do! We are recruiting, [http://groups.google.com/group/wikiteam-discuss/browse_thread/thread/2de4428e60fc64f5 we need a lot of help]!
+  * 2011-12-02: http://15demayo.info/wiki/ went offline in an undefined moment in the past. It was about the 2011 Spanish Revolution protests. We [https://code.google.com/p/wikiteam/downloads/detail?name=15demayoinfo_wiki-20110723-history.xml.7z grabbed a copy] in July. Dude, our mission is an important one.
+  * 2011-11-30: New backups of OpenSUSE and WikiIndex wikis sent by Hydriz are uploaded. Thanks!
+  * 2011-11-10: Archive Team uploads to Internet Archive [http://www.archive.org/details/wikimedia-image-dump-2005-11 one of the last image dumps] published by Wikimedia Foundation. It contains 296,000 images in 77GB. What a great work.
+  * 2011-10-27: [http://mirrors.sdboyd56.com/WikiTeam/index.html ScottDB wikibackups site] reaches 100 archived wikis milestone. Keep up the good work!
+  * 2011-10-24: Ian McEwen sent us a dump of https://hampedia.org Thanks!
+  * 2011-10-13: More than 10 years after Wikipedia was started, [http://lists.wikimedia.org/pipermail/xmldatadumps-l/2011-October/000331.html the first Wikimedia projects official mirror] is created. Thanks to Centro de Computação Científica e Software Livre (C3SL), at the Universidade Federal do Paraná in Brazil!!!
+  * 2011-10-13: ScottDB has written a [NewTutorial]. Enjoy!
+  * 2011-10-10: We open a [http://code.google.com/p/wikiteam/wiki/ToDo ToDo] page where you can add all your wishes for new wiki archiving tools. For bugs, remember you can use [http://code.google.com/p/wikiteam/issues/list the issues section].
   * 2011-09-28: Rob Nugen sends us a dump of http://thunderrabbit.com Thanks!
   * 2011-09-07: Jason Scott talked a bit (OK, [http://www.youtube.com/watch?v=-2ZTmuX3cog only a few seconds], from 40:23) about WikiTeam at [https://www.defcon.org/html/defcon-19/dc-19-index.html DEF CON 19]. Man, DEF CON!!! : D
   * 2011-09-06: Greg Varnum sent us a copy of [http://www.wikiqueer.org WikiQueer] in August, but we have [http://code.google.com/p/wikiteam/downloads/detail?name=wikiqueerorg-20110808-history.xml.7z uploaded it] today. Sorry for the delay. Thanks Greg!
