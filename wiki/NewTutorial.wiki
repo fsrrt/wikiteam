@@ -60,7 +60,7 @@ To resume an interrupted dump, use the parameters _--resume_ and _--path_ to ind
 
 When you start a new dump, the script will create a directory (or folder) in the form of: domainorg-20110520-wikidump . Sometimes there will be a sub-directory in the name, or "wiki" added in - that's OK. 
 
-===Check dump integrity===
+===Checking dump integrity===
 
 If you want to check the XML dump integrity (optional), there are two possible methods:
 
