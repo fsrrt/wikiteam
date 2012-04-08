@@ -26,12 +26,13 @@ It will backup every wiki and generate two 7z files for each one: _domain-date-h
 
 Lists claimed by users.
 
-|| 000 || emijrp ||
-|| 001 || ScottDB ||
-|| 002 || underscor ||
-|| 003 || Nemo ||
-|| 004 || ianmcorvidae ||
-|| 005 || Hydriz ||
+|| *List* || *Member* || *Status*
+|| 000 || emijrp || Downloading
+|| 001 || ScottDB || Downloading
+|| 002 || underscor || Downloading
+|| 003 || Nemo || Downloading
+|| 004 || ianmcorvidae || Downloading
+|| 005 || Hydriz || Downloading
 || 006 || ... ||
 || 007 || ... ||
 || 008 || ... ||
