@@ -1,3 +1,0 @@
-#summary The wiki sidebar
-
-  * NewTutorial
