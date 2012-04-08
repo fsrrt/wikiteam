@@ -18,7 +18,7 @@ Have you made any wiki backup? Leave a comment and a link below. You also can jo
 
 == Wiki projects offering backups ==
 
-Some wiki communities offer backups of their content:
+Some wiki communities offer backups of their content (usually only wikitext, not images):
   * [http://dumps.wikimedia.org Wikipedia dumps]
   * [http://wiki-stats.wikia.com Wikia dumps]
   * [http://en.citizendium.org/wiki/CZ:Downloads Citizendium dumps]
