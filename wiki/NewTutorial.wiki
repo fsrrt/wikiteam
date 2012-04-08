@@ -92,7 +92,7 @@ or
 
 It is suggested that you use the following file-naming convention: domainorg-20110520-history.xml.7z - where "domainorg" is the domain name, "20110520" is the date the dump was started. (You can use the domain name and date from the directory that was created when the dump was started.)
 
-==Publish the dump==
+=Publishing the dump=
 And of course, you then have to release your dumps! You can easily do so on the [http://www.archive.org Internet Archive], as with [http://www.archive.org/details/wiki-artandpopularculture.com this example]. 
   # [http://www.archive.org/account/login.php Login] and [http://www.archive.org/create/ create a new item] for each wiki. 
   # Use wiki-DOMAIN as identifier and "Wiki - NAME" as title. 
