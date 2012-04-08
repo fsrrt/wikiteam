@@ -6,7 +6,7 @@
     * [FAQ FAQ]
   * Downloads
     * [http://code.google.com/p/wikiteam/source/checkout Source code]
-      *[http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py dumpgenerator.py]
+      * [http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py dumpgenerator.py]
     * [AvailableBackups Available backups]
     * [Mirrors Mirrors]
   * Community
