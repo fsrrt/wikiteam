@@ -3,9 +3,6 @@
 
 The log with all the news related to WikiTeam.
 
-*Table of contents:*
-<wiki:toc max_depth="2" />
-
 == 2012 ==
   * 2012-04-07: We start a TaskForce to archive 7,000+ wikis from a list by Andrew Pavlo (2009).
   * 2012-04-05: WikiTeam 1st Birthday! \o/
