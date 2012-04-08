@@ -2,11 +2,14 @@
 
   * [News News]
   * Documentation
-    * [NewTutorial NewTutorial]
+    * [NewTutorial New tutorial]
     * [FAQ FAQ]
-  * [AvailableBackups AvailableBackups]
-  * [Mirrors Mirrors]
-  * [TaskForce TaskForce]
+  * Downloads
+    * [http://code.google.com/p/wikiteam/source/checkout Source code]
+    * [AvailableBackups Available backups]
+    * [Mirrors Mirrors]
+  * Community
+    * [TaskForce Task force]
+    * [ToDo ToDo]
   * [Research Research]
-  * [ToDo ToDo]
   * [WikiFarms WikiFarms]
