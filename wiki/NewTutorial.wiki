@@ -6,6 +6,7 @@ This is a tutorial to learn how to backup a wiki using WikiTeam tools. You can *
 Table of contents:
 <wiki:toc />
 
+= Generating a wiki backup =
 ==I have shell access to server==
 
 If you have shell access on the web server, follow the instructions on this page: http://www.mediawiki.org/wiki/Manual:DumpBackup.php for an XML backup. For an image backup, just copy the image directory (see your !LocalSettings.php for details).
@@ -105,11 +106,11 @@ Advanced tips:
   # If you use such command line tools, choose "web" as media type: it's more correct, doesn't need authorisation and will make the items appear in the [http://www.archive.org/details/web web crawls collection].
   # Beware that if you specify a non-Creative Commons license in the licenseurl parameter, due to a bug, you won't be able to edit the item metadata via the graphical interface any longer, so put all the details from the start.
 
-==I want to import an XML/image dump, how can I do it?==
+=I want to import an XML/image dump, how can I do it?=
 
 Read http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps and http://www.mediawiki.org/wiki/Manual:ImportImages.php.
 
-==Finally...==
+=Further help=
 Remember you always can see the inline help with _--help_ parameter.
 
 If you have further questions, you can send a message to our [http://groups.google.com/group/wikiteam-discuss mailing list]. If you detect any error, [http://code.google.com/p/wikiteam/issues/list report an issue]. *Be bold!*
