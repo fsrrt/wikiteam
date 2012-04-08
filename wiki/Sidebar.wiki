@@ -1,7 +1,12 @@
 #summary The wiki sidebar
 
+  * [News News]
   * Documentation
-    * NewTutorial
-    * FAQ
-  * AvailableBackups
+    * [NewTutorial NewTutorial]
+    * [FAQ FAQ]
+  * [AvailableBackups AvailableBackups]
   * [Mirrors Mirrors]
+  * [TaskForce TaskForce]
+  * [Research Research]
+  * [ToDo ToDo]
+  * [WikiFarms WikiFarms]
