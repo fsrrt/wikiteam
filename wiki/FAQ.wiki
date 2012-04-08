@@ -29,7 +29,7 @@ You can use [http://www.mediawiki.org/wiki/Manual:DumpBackup.php dumpBackup.php]
 
 You can use [http://meta.wikimedia.org/wiki/Help:Export Special:Export]. There is an [http://www.mediawiki.org/wiki/Manual:Parameters_to_Special:Export advanced guide] too.
 
-=== I am a wiki user. How can I backup the entire wiki?*
+=== I am a wiki user. How can I backup the entire wiki? ===
 
 You can use [http://meta.wikimedia.org/wiki/Help:Export Special:Export] over all the pages. Or use a [http://code.google.com/p/wikiteam/source/checkout WikiTeam] tool (dumpgenerator.py). *Read the NewTutorial.*
 
