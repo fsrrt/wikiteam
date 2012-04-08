@@ -26,5 +26,5 @@ Some wiki communities offer backups of their content:
   * [http://www.omegawiki.org/Development OmegaWiki dumps]
   * [http://wiki.osdev.org/OSDev_Wiki:About OSDev dumps]
   * [http://dumps.wikifur.com Wikifur dumps]
-  * [http://rationalwiki.org/wiki/RationalWiki:Content_dumps Wikivoyage dumps]
-  * [RationalWiki dumps]
+  * [http://www.wikivoyage.org/general/Wikivoyage_General:XML_dumps Wikivoyage dumps]
+  * [http://rationalwiki.org/wiki/RationalWiki:Content_dumps RationalWiki dumps]
