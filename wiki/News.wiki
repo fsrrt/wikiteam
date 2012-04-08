@@ -1,4 +1,5 @@
 #summary Archive of WikiTeam news
+#sidebar Sidebar
 
   * 2011-09-28: Rob Nugen sends us a dump of http://thunderrabbit.com Thanks!
   * 2011-09-07: Jason Scott talked a bit (OK, [http://www.youtube.com/watch?v=-2ZTmuX3cog only a few seconds], from 40:23) about WikiTeam at [https://www.defcon.org/html/defcon-19/dc-19-index.html DEF CON 19]. Man, DEF CON!!! : D
