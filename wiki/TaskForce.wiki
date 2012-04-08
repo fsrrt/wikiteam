@@ -34,7 +34,7 @@ Lists claimed by users.
 || 003 || Nemo || Downloading ||
 || 004 || ianmcorvidae || Downloading ||
 || 005 || Hydriz || Downloading ||
-|| 006 || ... || ||
+|| 006 || Nemo || Downloading ||
 || 007 || ... || ||
 || 008 || ... || ||
 || 009 || ... || ||
