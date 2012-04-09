@@ -114,7 +114,7 @@ Just run it like this: *python launcher.py mylist.txt*. The list must contain UR
 
 The script will try to dump both pages and images of all those wikis, to verify the integrity of the XML dump and to create archives ready for upload to the Internet Archive. It doesn't handle upload yet, but it will soon.
 
-Skimming the output of the script is not very handy, but you can just rerun after completion to ensure that it actually did everything and not terminate some download due to an error: the script checks if the XML is complete (closed by </mediawiki>) and all images have been downloaded (the last one on the list has been downloaded) and if not resumes the dump; creates the compressed archive if not produced yet; downloads the missing wikis.
+Skimming the output of the script is not very handy, but you can just rerun after completion to ensure that it actually did everything and not terminate some download due to an error: the script checks if the XML is complete (closed by `</mediawiki>`) and all images have been downloaded (the last one on the list has been downloaded) and if not resumes the dump; creates the compressed archive if not produced yet; downloads the missing wikis.
 
 =I want to import an XML/image dump, how can I do it?=
 
