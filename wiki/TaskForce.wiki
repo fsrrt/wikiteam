@@ -40,10 +40,10 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 007 || Nemo || Downloading ||
 || 008 || Nemo || Downloading ||
 || 009 || Nemo || Downloading ||
-|| 010 || ... || ||
+|| 010 || Nemo || Downloading ||
 || 011 || mutoso || Downloading ||
-|| 012 || ... || ||
-|| 013 || ... || ||
+|| 012 || Nemo || Downloading ||
+|| 013 || Nemo || Downloading ||
 || 014 || ... || ||
 || 015 || ... || ||
 || 016 || ... || ||
