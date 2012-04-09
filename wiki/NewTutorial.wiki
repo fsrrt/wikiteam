@@ -107,6 +107,15 @@ Advanced tips:
   # If you use such command line tools, choose "web" as media type: it's more correct, doesn't need authorisation and will make the items appear in the [http://www.archive.org/details/web web crawls collection].
   # Beware that if you specify a non-Creative Commons license in the licenseurl parameter, due to a bug, you won't be able to edit the item metadata via the graphical interface any longer, so put all the details from the start.
 
+=Download a list of wikis==
+A script has been created to mass download lists of wikis, initially for the TaskForce: [http://wikiteam.googlecode.com/svn/trunk/batchdownload/launcher.py launcher.py]. 
+
+Just run it like this: *python launcher.py mylist.txt*. The list must contain URLs to the [https://www.mediawiki.org/wiki/API:Main_page#The_endpoint api.php] of each wiki you have to download, one per line.
+
+The script will try to dump both pages and images of all those wikis, to verify the integrity of the XML dump and to create archives ready for upload to the Internet Archive. It doesn't handle upload yet, but it will soon.
+
+Skimming the output of the script is not very handy, but you can just rerun after completion to ensure that it actually did everything and not terminate some download due to an error: the script checks if the XML is complete (closed by </mediawiki>) and all images have been downloaded (the last one on the list has been downloaded) and if not resumes the dump; creates the compressed archive if not produced yet; downloads the missing wikis.
+
 =I want to import an XML/image dump, how can I do it?=
 
 Read http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps and http://www.mediawiki.org/wiki/Manual:ImportImages.php.
