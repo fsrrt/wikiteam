@@ -23,6 +23,8 @@ After downloading a list and both scripts in the same directory, you can do: *py
 
 It will backup every wiki and generate two 7z files for each one: _domain-date-history.xml.7z_ (just wikitext) and _domain-date-wikidump.7z_ (wikitext and images/ directory).
 
+See also the NewTutorial page for details on how the scripts work.
+
 === Volunteers table ===
 
 Lists claimed by users.
