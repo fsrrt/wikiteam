@@ -18,4 +18,9 @@ Send us the link to your mirror so that we could add it to this list. Thank you 
 == Wikipedia mirrors ==
 Recently, there is an effort to mirror Wikipedia dumps around the world.
 
-This one is the first official Wikipedia mirror: http://wikipedia.c3sl.ufpr.br/
+=== Official existing mirrors ===
+# http://wikipedia.c3sl.ufpr.br/
+
+=== Unofficial mirrors ===
+# http://dumps.wikimedia.your.org (images are at http://ftpmirror.your.org/pub/wikimedia/images)
+# Possibly http://dataset1001.wikimedia.org, a mirror that they host themselves.
