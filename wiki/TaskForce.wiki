@@ -32,7 +32,7 @@ See also the NewTutorial page for details on how the scripts work.
 Lists claimed by users. Notify us when you start downloading a list of wikis. If you can't edit this page, email us in [https://groups.google.com/group/wikiteam-discuss our mailing list] (you have to join).
 
 || *List* || *Member* || *Status* || *Notes * ||
-|| 000 || emijrp || Downloading || ... ||
+|| 000 || emijrp || Downloading || Downloaded: X. Incomplete: X. Errors: X. ||
 || 001 || ScottDB || Downloading || ... ||
 || 002 || underscor || Downloading || ... ||
 || 003 || Nemo || Downloading || ... ||
