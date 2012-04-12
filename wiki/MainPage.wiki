@@ -1,4 +1,4 @@
-== We archive wikis, from Wikipedia to tiniest wikis ==
+= We archive wikis, from Wikipedia to tiniest wikis =
 
 *!WikiTeam software is a set of tools for archiving wikis.* They work on !MediaWiki wikis, but we want to expand to other wiki engines.
 
@@ -20,7 +20,7 @@ There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_
 </td></tr>
 </table>
 
-== Current events ==
+= Current events =
 The last *news* (follow us on [http://twitter.com/#!/WikiTeamProject Twitter] too!):
   * 2012-04-07: We start a TaskForce to archive 7,000+ wikis from a list by Andrew Pavlo (2009).
   * 2012-04-05: WikiTeam 1st Birthday! \o/
@@ -35,43 +35,36 @@ The last *news* (follow us on [http://twitter.com/#!/WikiTeamProject Twitter] to
   * 2011-10-13: More than 10 years after Wikipedia was started, [http://lists.wikimedia.org/pipermail/xmldatadumps-l/2011-October/000331.html the first Wikimedia projects official mirror] is created. Thanks to Centro de Computação Científica e Software Livre (C3SL), at the Universidade Federal do Paraná in Brazil!!!
   * 2011-10-13: ScottDB has written a [NewTutorial]. Enjoy!
   * 2011-10-10: We open a [http://code.google.com/p/wikiteam/wiki/ToDo ToDo] page where you can add all your wishes for new wiki archiving tools. For bugs, remember you can use [http://code.google.com/p/wikiteam/issues/list the issues section].
+
 Read [News older news]. For a more detailed action log, see http://code.google.com/p/wikiteam/updates/list
 
-== What can you do? ==
+= What can you do? =
 You can do *a lot of* things:
   * Read our [FAQ]
-  * Download our [http://code.google.com/p/wikiteam/source/checkout scripts and software], read our [Tutorial] and backup [WikiFarms your favorite wiki]. Send us a copy of the backup if you want!
+  * Download our [http://code.google.com/p/wikiteam/source/checkout scripts and software], read our [NewTutorial Tutorial] and backup your favorite wiki. Send us a copy of the backup if you want!
   * Download some [http://code.google.com/p/wikiteam/downloads/list?can=1 backups] of wikis. Additionally, there are more backups at [http://www.archive.org/search.php?query=subject%3A%22wikiteam%22 Internet Archive].
   * [http://code.google.com/p/wikiteam/issues/list Report a bug or request a feature]
   * Use the backups to [Research research] how wiki communities evolve
   * Subscribe to the mailing lists: [http://groups.google.com/group/wikiteam-discuss general discussion] and [http://groups.google.com/group/wikiteam-developers developer discussion]
   * Follow us on Twitter! [http://twitter.com/#!/wikiteamproject @WikiTeamProject]
 
-== Research ==
+= Research =
 Are you a *researcher*? If you have conducted any [Research research] about wikis using our software or the backups we made available, we would be glad to hear from your experience. [Research Contact us].
 
-== People using WikiTeam tools ==
-If you use WikiTeam tools to back up wikis and you host the files, contact us, we will be glad to add a link here:
-  * http://mirrors.sdboyd56.com/WikiTeam/index.html
-
-== Mirrors ==
-Is the download speed too slow for you when you download from the downloads section in this website? No worries! Now, you can download them from our list of [Mirrors mirrors]! The best ones are listed below:
- # [https://sourceforge.net/projects/wikiteam/files/ Sourceforge]
- # The [http://www.archive.org/details/WikiTeamMirror Internet Archive] ([http://ia600705.us.archive.org/16/items/WikiTeamMirror/ directory link])
-
-== WikiTeam in the news, blogs, etc ==
-  * [http://softlibre.barrapunto.com/article.pl?sid=11/05/10/070201 WikiTeam: un repositorio de wikis] (Barrapunto, 2011-05-10) ([http://www.webcitation.org/5zBcLaGm4 webcite])
+= WikiTeam in the news, blogs, etc =
+  * [http://www.youtube.com/watch?v=-2ZTmuX3cog ARCHIVE TEAM: A Distributed Preservation of Service Attack] (Jason Scott at DEFCON 19)
   * [http://siondream.com/blog/proyectos/pfc/iberogre-wiki/backups-de-wikis-con-wikiteam/ Backups de wikis con WikiTeam] (IberOgre, 2011-06-04) ([http://www.webcitation.org/5zBcEMuCG webcite])
+  * [http://softlibre.barrapunto.com/article.pl?sid=11/05/10/070201 WikiTeam: un repositorio de wikis] (Barrapunto, 2011-05-10) ([http://www.webcitation.org/5zBcLaGm4 webcite])
 
-== Licenses ==
-This project contain a lot of material. *Be careful with the licenses*.
+= License =
+This project contains a lot of material. *Be careful with the licenses*.
   * The [http://code.google.com/p/wikiteam/source/checkout source code] is GPL v3
   * Every [http://code.google.com/p/wikiteam/downloads/list?can=1 backup] of every wiki has its own license. Visit the wiki and search for the license of texts and images. Read more in our [FAQ]
 
-== Note ==
+= Note =
 Due to lack of space, we do not offer image dumps in Google Code. *The dumps only include the texts of the wikis (usually full histories).* Although you can run the script and generate your own backup which would contain all the texts and images (if you use _--xml_ _--images_ options).
 
-== Contact ==
+= Contact =
 If you want to *contact with the WikiTeam community*, you can do it:
   * For bug reports, new features requests, notices about new wikis to backup: http://code.google.com/p/wikiteam/issues/list
   * General discussion about WikiTeam tools and help for new users: http://groups.google.com/group/wikiteam-discuss
@@ -81,11 +74,6 @@ If you want to *contact with the WikiTeam community*, you can do it:
 Also, [http://code.google.com/p/wikiteam/w/list every wiki page] allows to send comments.
 
 If you need an e-mail address, you can send your messages to emijrp@gmail.com
-
-== External links ==
-  * http://archiveteam.org/index.php?title=Wikiteam
-  * http://meta.wikimedia.org/wiki/WikiTeam
-
 
 <table width=99%>
 <tr><td align=center>
