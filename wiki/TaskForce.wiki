@@ -35,7 +35,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 000 || emijrp || Downloading || Downloaded: X. Incomplete: X. Errors: X. ||
 || 001 || ScottDB || Downloading || ... ||
 || 002 || underscor || Downloading || ... ||
-|| 003 || Nemo || Downloading || ... ||
+|| 003 || Nemo || Downloading || Several big wikis here. Of the other lists, 3/4 are complete on average.  ||
 || 004 || ianmcorvidae || Downloading || ... ||
 || 005 || Hydriz || Downloading || ... ||
 || 006 || Nemo || Downloading || ... ||
@@ -44,11 +44,11 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 009 || Nemo || Downloading || ... ||
 || 010 || Nemo || Downloading || ... ||
 || 011 || mutoso || Downloading || ... ||
-|| 012 || Nemo || Downloading || ... ||
+|| 012 || Nemo || _Downloaded_ || ... ||
 || 013 || Nemo || Downloading || ... ||
 || 014 || Nemo || Downloading || ... ||
 || 015 || Nemo || Downloading || ... ||
-|| 016 || ... || || ... ||
+|| 016 || Nemo || Downloading || ... ||
 || 017 || ... || || ... ||
 || 018 || ... || || ... ||
 || 019 || ... || || ... ||
