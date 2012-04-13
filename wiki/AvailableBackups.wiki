@@ -16,6 +16,8 @@
 
 Most backups include the XML with the full page histories and images. You need a MediaWiki to import all the data. Read [http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps this] and [http://www.mediawiki.org/wiki/Manual:ImportImages.php this] to know how to import a backup.
 
+Learn to make backups using !WikiTeam tools reading our NewTutorial.
+
 Have you made any wiki backup? Leave a comment and a link below. You also can join to our *[Mirrors Mirrors]* volunteers. Thanks!
 
 == Wiki projects offering backups ==
