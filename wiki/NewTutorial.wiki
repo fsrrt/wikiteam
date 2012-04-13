@@ -105,6 +105,7 @@ And of course, you then have to release your dumps! You can easily do so on the 
 Advanced tips: 
   # For particularly big archives you might want to use [http://www.archive.org/help/abouts3.txt S3] (you may need to request authorisation to info at archive dot org), or [https://wiki.archive.org/twiki/bin/view/Main/IAS3BulkUploader this tool] if you have many items. 
   # If you use such command line tools, choose "web" as media type: it's more correct, doesn't need authorisation and will make the items appear in the [http://www.archive.org/details/web web crawls collection].
+  # To facilitate future dumps and further metadata fixes, please add the api.php URL of the wiki to the `originalurl` field.
   # Beware that if you specify a non-Creative Commons license in the licenseurl parameter, due to a bug, you won't be able to edit the item metadata via the graphical interface any longer, so put all the details from the start.
 
 =Download a list of wikis==
