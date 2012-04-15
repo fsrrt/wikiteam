@@ -49,7 +49,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 014 || Nemo || Downloading || ... ||
 || 015 || Nemo || Downloading || ... ||
 || 016 || Nemo || Downloading || ... ||
-|| 017 || ... || || ... ||
+|| 017 || Nemo || Downloading || ... ||
 || 018 || ... || || ... ||
 || 019 || ... || || ... ||
 
