@@ -37,7 +37,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 002 || underscor || Downloading || ... ||
 || 003 || Nemo || Downloading || Several big wikis here. Of the other lists, 3/4 are complete on average.  ||
 || 004 || ianmcorvidae || Downloading || ... ||
-|| 005 || Hydriz || Downloading || Initial run was done, but caused a huge amount of headache, so re-downloading and changing the process on how I download the wikis ||
+|| 005 || ... || || ... ||
 || 006 || Nemo || Downloading || ... ||
 || 007 || Nemo || Downloading || ... ||
 || 008 || Nemo || Downloading || ... ||
