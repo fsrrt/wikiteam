@@ -1,4 +1,5 @@
 #summary The old tutorial, there is a newer one in NewTutorial page
+#sidebar Sidebar
 
 How to use the dump generator? Here we explain it.
 
