@@ -1,9 +1,8 @@
 #summary The wiki sidebar
 
   * [News News]
-  * Documentation
-    * [NewTutorial New tutorial]
-    * [FAQ FAQ]
+  * [NewTutorial New tutorial]
+  * [FAQ FAQ]
   * Downloads
     * Source code
       * [http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py dumpgenerator.py]
