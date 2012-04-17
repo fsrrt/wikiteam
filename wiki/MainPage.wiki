@@ -4,7 +4,7 @@
 
 There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/en of] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/multilingual wikis] in the Internet. Everyday some of them are no longer publicly available and, due to lack of [http://code.google.com/p/wikiteam/downloads/list?can=1 backups], lost forever. Millions of people download tons of media files (movies, music, books, etc) from the Internet, implementing a kind of distributed backup. Wikis, most of them under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame that we would like to solve.
 
-*!WikiTeam* is the [http://www.archiveteam.org Archive Team] subcommittee on wikis. It was founded and originally developed by [https://sites.google.com/site/emijrp/ Emilio J. Rodríguez-Posada], a Wikipedia veteran editor and amateur archivist. Many people have help sending suggestions, [http://code.google.com/p/wikiteam/issues/list reporting bugs], writing [http://code.google.com/p/wikiteam/w/list documentation], providing help in the [http://groups.google.com/group/wikiteam-discuss mailing list] and making [http://code.google.com/p/wikiteam/downloads/list wiki backups]. Thanks to all, especially to: [http://meta.wikimedia.org/wiki/User:Nemo_bis Federico Leva], Alex Buie, [http://www.sdboyd56.com Scott Boyd], [http://meta.wikimedia.org/wiki/User:Hydriz Hydriz], Platonides and Ian McEwen.
+*!WikiTeam* is the [http://www.archiveteam.org Archive Team] subcommittee on wikis. It was founded and originally developed by [https://sites.google.com/site/emijrp/ Emilio J. Rodríguez-Posada], a Wikipedia veteran editor and amateur archivist. Many people have help sending suggestions, [http://code.google.com/p/wikiteam/issues/list reporting bugs], writing [http://code.google.com/p/wikiteam/w/list documentation], providing help in the [http://groups.google.com/group/wikiteam-discuss mailing list] and making [http://code.google.com/p/wikiteam/downloads/list wiki backups]. Thanks to all, especially to: [http://meta.wikimedia.org/wiki/User:Nemo_bis Federico Leva], Alex Buie, [http://www.sdboyd56.com Scott Boyd], [http://meta.wikimedia.org/wiki/User:Hydriz Hydriz], Platonides and Ian !McEwen.
 
 <table border=0 cellpadding=5px>
 <tr><td>
@@ -58,7 +58,8 @@ Are you a *researcher*? If you have conducted any [Research research] about wiki
 
 = License =
 This project contains a lot of material. *Be careful with the licenses*.
-  * The [http://code.google.com/p/wikiteam/source/checkout source code] is GPL v3
+  * The [http://code.google.com/p/wikiteam/source/checkout source code] is [http://www.gnu.org/licenses/gpl-3.0.html GPLv3]
+  * The [http://code.google.com/p/wikiteam/w/list documentation] in this site is [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons 3.0 BY-SA]
   * Every [http://code.google.com/p/wikiteam/downloads/list?can=1 backup] of every wiki has its own license. Visit the wiki and search for the license of texts and images. Read more in our [FAQ]
 
 = Note =
