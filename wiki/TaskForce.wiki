@@ -33,7 +33,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 
 || *List* || *Member* || *Status* || *Notes * ||
 || 000 || emijrp || Downloading || Downloaded: X. Incomplete: X. Errors: X. ||
-|| 001 || ScottDB || Downloading || ... ||
+|| 001 || ScottDB || Downloading || Working on a VERY large wiki in this list (376K page titles). This is gonna take awhile... ||
 || 002 || underscor || Downloading || ... ||
 || 003 || Nemo || Downloading || Several big wikis here. Of the other lists, 3/4 are complete on average.  ||
 || 004 || ianmcorvidae || Downloading || ... ||
