@@ -35,7 +35,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 000 || emijrp || Downloading || Downloaded: X. Incomplete: X. Errors: X. ||
 || 001 || ScottDB || Downloading || Working on a VERY large wiki in this list (376K page titles).<-- It's done. ... ||
 || 002 || underscor || Downloading || ... ||
-|| 003 || Nemo || Downloading || Several big wikis here. Of the other lists, 3/4 are complete on average.  ||
+|| 003 || Nemo || Downloading || Several big wikis here, including citywiki.ugr.es which seems to have about 100 GB of images. ||
 || 004 || ianmcorvidae || Downloading || ... ||
 || 005 || Nemo || _Downloaded_ || [http://p.defau.lt/?b_5gXJxVTPPzppgd7jxfrg Final check] ||
 || 006 || Nemo || Downloading || ... ||
