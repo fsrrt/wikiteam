@@ -42,7 +42,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 007 || Nemo || _Downloaded_ || [http://p.defau.lt/?3qpqOZdAwinhcBFqCAg4vg Final check] ||
 || 008 || Nemo || _Downloaded_ || [http://p.defau.lt/?mS38BbpNQteTQZa8AI3mWQ Final check] ||
 || 009 || Nemo || _Downloaded_ || [http://p.defau.lt/?N4iuP5BFsmNjxf1wJ6GLDw Final check] ||
-|| 010 || Nemo || Downloading || ... ||
+|| 010 || Nemo || Downloading || katlas.math.toronto.edu has 1.6 million pages, end expected for mid May. ||
 || 011 || mutoso || Downloading || ... ||
 || 012 || Nemo || _Downloaded_ || [http://p.defau.lt/?c_BiYqgcaqw3WHpIsYiZYg Final check] ||
 || 013 || Nemo || Downloading || ... ||
