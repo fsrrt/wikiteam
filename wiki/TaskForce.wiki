@@ -47,7 +47,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 012 || Nemo || _Downloaded_ || [http://p.defau.lt/?c_BiYqgcaqw3WHpIsYiZYg Final check] ||
 || 013 || Nemo || Downloading || ... ||
 || 014 || Nemo || _Downloaded_ || [http://p.defau.lt/?_23I5WxxA1Nl420d7e2w6g Final check] ||
-|| 015 || Nemo || Downloading || ... ||
+|| 015 || Nemo || _Downloaded_ || [http://p.defau.lt/?KwIjaL3YnDFaLZAxguSz5g Final check] ||
 || 016 || Nemo || Downloading || ... ||
 || 017 || Nemo || Downloading || ... ||
 || 018 || ... || || ... ||
