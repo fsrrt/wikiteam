@@ -74,7 +74,7 @@ If you want to *contact with the WikiTeam community*, you can do it:
 
 Also, [http://code.google.com/p/wikiteam/w/list every wiki page] allows to send comments.
 
-If you need an e-mail address, you can send your messages to [mailto:emijrp@gmail.com emijrp@gmail.com].
+If you have an e-mail address, you can send your messages regarding WikiTeam to [mailto:emijrp@gmail.com emijrp@gmail.com].
 
 <table width=99%>
 <tr><td align=center>
