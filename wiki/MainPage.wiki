@@ -51,9 +51,9 @@ You can do *a lot of* things:
 = Research =
 Are you a *researcher*? If you have conducted any [Research research] about wikis using our software or the backups we made available, we would be glad to hear from your experience. [Research Contact us].
 
-= WikiTeam in the news, blogs, etc =
+= !WikiTeam in the news, blogs, etc =
   * [http://www.youtube.com/watch?v=-2ZTmuX3cog ARCHIVE TEAM: A Distributed Preservation of Service Attack] (Jason Scott at DEFCON 19)
-  * [http://siondream.com/blog/proyectos/pfc/iberogre-wiki/backups-de-wikis-con-wikiteam/ Backups de wikis con WikiTeam] (IberOgre, 2011-06-04) ([http://www.webcitation.org/5zBcEMuCG webcite])
+  * [http://siondream.com/blog/proyectos/pfc/iberogre-wiki/backups-de-wikis-con-wikiteam/ Backups de wikis con WikiTeam] (!IberOgre, 2011-06-04) ([http://www.webcitation.org/5zBcEMuCG webcite])
   * [http://softlibre.barrapunto.com/article.pl?sid=11/05/10/070201 WikiTeam: un repositorio de wikis] (Barrapunto, 2011-05-10) ([http://www.webcitation.org/5zBcLaGm4 webcite])
 
 = License =
@@ -66,15 +66,15 @@ This project contains a lot of material. *Be careful with the licenses*.
 Due to lack of space, we do not offer image dumps in Google Code. *The dumps only include the texts of the wikis (usually full histories).* Although you can run the script and generate your own backup which would contain all the texts and images (if you use _--xml_ _--images_ options).
 
 = Contact =
-If you want to *contact with the WikiTeam community*, you can do it:
+If you want to *contact with the !WikiTeam community*, you can do it:
   * For bug reports, new features requests, notices about new wikis to backup: http://code.google.com/p/wikiteam/issues/list
-  * General discussion about WikiTeam tools and help for new users: http://groups.google.com/group/wikiteam-discuss
+  * General discussion about !WikiTeam tools and help for new users: http://groups.google.com/group/wikiteam-discuss
   * Developers discussion about bugs, patches, features: http://groups.google.com/group/wikiteam-developers
   * There is a social IRC channel in Efnet: irc://efnet/wikiteam ([http://chat.efnet.org:9090/?nick=&channels=%23wikiteam&Login=Login webchat access])
 
 Also, [http://code.google.com/p/wikiteam/w/list every wiki page] allows to send comments.
 
-If you want to contact using e-mail, you can send your messages regarding WikiTeam to [mailto:emijrp@gmail.com emijrp@gmail.com].
+If you want to contact using e-mail, you can send your messages regarding !WikiTeam to [mailto:emijrp@gmail.com emijrp@gmail.com].
 
 <table width=99%>
 <tr><td align=center>
