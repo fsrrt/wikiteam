@@ -43,15 +43,25 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 008 || Nemo || _Downloaded_ || [http://p.defau.lt/?mS38BbpNQteTQZa8AI3mWQ Final check] ||
 || 009 || Nemo || _Downloaded_ || [http://p.defau.lt/?N4iuP5BFsmNjxf1wJ6GLDw Final check] ||
 || 010 || Nemo || Downloading || katlas.math.toronto.edu has 1.6 million pages, end expected for mid May. ||
-|| 011 || mutoso || Downloading || ... ||
+|| 011 || mutoso || _Downloaded_ || ... ||
 || 012 || Nemo || _Downloaded_ || [http://p.defau.lt/?c_BiYqgcaqw3WHpIsYiZYg Final check] ||
 || 013 || Nemo || Downloading || ... ||
 || 014 || Nemo || _Downloaded_ || [http://p.defau.lt/?_23I5WxxA1Nl420d7e2w6g Final check] ||
 || 015 || Nemo || _Downloaded_ || [http://p.defau.lt/?KwIjaL3YnDFaLZAxguSz5g Final check] ||
 || 016 || Nemo || Downloading || ... ||
-|| 017 || Nemo || _Downloaded_ || [http://p.defau.lt/?pacTBWaiBfOGWW00Qdzaew FInal check] ||
+|| 017 || Nemo || _Downloaded_ || [http://p.defau.lt/?pacTBWaiBfOGWW00Qdzaew Final check] ||
 || 018 || ... || || ... ||
 || 019 || ... || || ... ||
+|| 020 || mutoso || || ... ||
+|| 021 || ... || || ... ||
+|| 022 || ... || || ... ||
+|| 023 || ... || || ... ||
+|| 024 || ... || || ... ||
+|| 025 || ... || || ... ||
+|| 026 || ... || || ... ||
+|| 027 || ... || || ... ||
+|| 028 || ... || || ... ||
+|| 029 || ... || || ... ||
 
 == Where/How to upload the dumps? ==
 
