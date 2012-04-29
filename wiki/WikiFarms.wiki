@@ -11,7 +11,7 @@ For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/sourc
   * [http://www.referata.com Referata] (Semantic MediaWiki) ([http://archive.org/details/referata.com-20111204 archived])
   * ScribbleWiki (offline and lost)
   * Sourceforge: subdomains and sourceforge.net/apps/mediawiki/`*` (online, pending archive)
-  * [http://www.shoutwiki.com ShoutWiki] 400+ wikis ([http://www.archive.org/details/shoutwiki.com archived])
+  * [http://www.shoutwiki.com ShoutWiki] 400+ wikis (offline, [http://www.archive.org/details/shoutwiki.com archived])
   * [http://tropicalwikis.com TropicalWikis] (online but reset?)
   * [http://www.wikia.com Wikia] 100,000+ wikis (online, pending archive)
   * [http://wiki-site.com Wiki-site.com] (online, pending archive)
