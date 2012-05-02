@@ -94,17 +94,17 @@ or
 It is suggested that you use the following file-naming convention: domainorg-20110520-history.xml.7z - where "domainorg" is the domain name, "20110520" is the date the dump was started. (You can use the domain name and date from the directory that was created when the dump was started.)
 
 =Publishing the dump=
-And of course, you then have to release your dumps! You can easily do so on the [http://www.archive.org Internet Archive], as with [http://www.archive.org/details/wiki-artandpopularculture.com this example]. 
-  # [http://www.archive.org/account/login.php Login] and [http://www.archive.org/create/ create a new item] for each wiki. 
+And of course, you then have to release your dumps! You can easily do so on the [http://archive.org Internet Archive], as with [http://archive.org/details/wiki-artandpopularculture.com this example]. 
+  # [http://archive.org/account/login.php Login] and [http://archive.org/create/ create a new item] for each wiki. 
   # Use wiki-DOMAIN as identifier and "Wiki - NAME" as title. 
   # Add "MediaWiki; wiki; wikiteam" as subject/keywords so that it's possible to find the item. 
   # If possible, enter more info in the relevant fields, like the license of the wiki. 
   # Follow the instructions to upload the archives. 
-  # In the last step, put the item in texts/opensource (community texts); it will then moved to the WikiTeam collection (until then, it should be listed with this [http://www.archive.org/search.php?query=subject%3A%22wikiteam%22%20AND%20collection%3Aopensource search].
+  # In the last step, put the item in texts/opensource (community texts); it will then moved to the WikiTeam collection (until then, it should be listed with this [http://archive.org/search.php?query=subject%3A%22wikiteam%22%20AND%20collection%3Aopensource search].
 
 Advanced tips: 
-  # For particularly big archives you might want to use [http://www.archive.org/help/abouts3.txt S3] (you may need to request authorisation to info at archive dot org), or [https://wiki.archive.org/twiki/bin/view/Main/IAS3BulkUploader this tool] if you have many items. 
-  # If you use such command line tools, choose "web" as media type: it's more correct, doesn't need authorisation and will make the items appear in the [http://www.archive.org/details/web web crawls collection].
+  # For particularly big archives you might want to use [http://archive.org/help/abouts3.txt S3] (for API keys, see [http://archive.org/account/s3.php this page]), or [https://wiki.archive.org/twiki/bin/view/Main/IAS3BulkUploader this tool] if you have many items. 
+  # If you use such command line tools, choose "web" as media type: it's more correct, doesn't need authorisation and will make the items appear in the [http://archive.org/details/web web crawls collection].
   # To facilitate future dumps and further metadata fixes, please add the api.php URL of the wiki to the `originalurl` field.
   # Beware that if you specify a non-Creative Commons license in the licenseurl parameter, due to a bug, you won't be able to edit the item metadata via the graphical interface any longer, so put all the details from the start.
 
