@@ -1,4 +1,4 @@
-#summary Help us to archive a gallizion of wikis
+#summary Help us to archive a gazillion of wikis
 #labels Featured
 #sidebar Sidebar
 Here, we coordinate us to download all *non WikiFarms* wikis.
@@ -64,14 +64,24 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 029 || Nemo || Downloading || ||
 || 030 || Nemo || Downloading || ||
 || 031 || Nemo || Downloading || ||
-|| 032 || ... || || ... ||
-|| 033 || ... || || ... ||
-|| 034 || ... || || ... ||
-|| 035 || ... || || ... ||
-|| 036 || ... || || ... ||
-|| 037 || ... || || ... ||
+|| 032 || Nemo || Downloading || ||
+|| 033 || Nemo || Downloading || ||
+|| 034 || Nemo || Downloading || ||
+|| 035 || Nemo || Downloading || ||
+|| 036 || Nemo || Downloading || ||
+|| 037 || Nemo || Downloading || ||
 || 038 || ... || || ... ||
 || 039 || ... || || ... ||
+|| 040 || ... || || ... ||
+|| 041 || ... || || ... ||
+|| 042 || ... || || ... ||
+|| 043 || ... || || ... ||
+|| 044 || ... || || ... ||
+|| 045 || ... || || ... ||
+|| 046 || ... || || ... ||
+|| 047 || ... || || ... ||
+|| 048 || ... || || ... ||
+|| 049 || ... || || ... ||
 
 == Where/How to upload the dumps? ==
 
