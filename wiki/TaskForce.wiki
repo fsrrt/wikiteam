@@ -61,9 +61,9 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 026 || Nemo || Downloading || ||
 || 027 || Nemo || Downloading || ||
 || 028 || Nemo || Downloading || ||
-|| 029 || ... || || ... ||
-|| 030 || ... || || ... ||
-|| 031 || ... || || ... ||
+|| 029 || Nemo || Downloading || ||
+|| 030 || Nemo || Downloading || ||
+|| 031 || Nemo || Downloading || ||
 || 032 || ... || || ... ||
 || 033 || ... || || ... ||
 || 034 || ... || || ... ||
