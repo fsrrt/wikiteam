@@ -35,7 +35,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 000 || emijrp || Downloading || Downloaded: X. Incomplete: X. Errors: X. ||
 || 001 || ScottDB || Downloading ||... ||
 || 002 || underscor || Downloading || ... ||
-|| 003 || Nemo || Downloading || Several big wikis here, including citywiki.ugr.es which seems to have about 100 GB of images (underscor will download the images). ||
+|| 003 || Nemo || _Downloaded_ || [http://p.defau.lt/?xs2m67fsd6WvOqsgMssN_g Final check]. citywiki.ugr.es seems to have about 100 GB of images (underscor will download it). ||
 || 004 || ianmcorvidae || Downloading || ... ||
 || 005 || Nemo || _Downloaded_ || [http://p.defau.lt/?b_5gXJxVTPPzppgd7jxfrg Final check] ||
 || 006 || Nemo || Downloading || [http://p.defau.lt/?xFZdHVoVpJBhI5fA5icN3g Final check] ||
@@ -50,7 +50,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 015 || Nemo || _Downloaded_ || [http://p.defau.lt/?KwIjaL3YnDFaLZAxguSz5g Final check] ||
 || 016 || Nemo || _Downloaded_ || [http://p.defau.lt/?pivzqD3LC9vLC0v1nIhm9w Final check] ||
 || 017 || Nemo || _Downloaded_ || [http://p.defau.lt/?pacTBWaiBfOGWW00Qdzaew Final check] ||
-|| 018 || Nemo || _Downloaded_ || To be checked ||
+|| 018 || Nemo || _Downloaded_ || [http://p.defau.lt/?KKDffMa_VX02rRGU91qY5g Final check] ||
 || 019 || Nemo || _Downloaded_ || To be checked ||
 || 020 || mutoso || || ... ||
 || 021 || Nemo || _Downloaded_ || [http://p.defau.lt/?nu9Pm6nZ5viT6JXNaHcKBQ Final check] ||
