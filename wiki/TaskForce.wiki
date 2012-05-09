@@ -33,7 +33,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 
 || *List* || *Member* || *Status* || *Notes * ||
 || 000 || emijrp || Downloading || Downloaded: X. Incomplete: X. Errors: X. ||
-|| 001 || ScottDB || Downloading ||... ||
+|| 001 || ScottDB || Downloaded ||... ||
 || 002 || underscor || Downloading || ... ||
 || 003 || Nemo || _Downloaded_ || [http://p.defau.lt/?xs2m67fsd6WvOqsgMssN_g Final check]. citywiki.ugr.es seems to have about 100 GB of images (underscor will download it). ||
 || 004 || ianmcorvidae || Downloading || ... ||
