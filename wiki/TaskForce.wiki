@@ -42,10 +42,10 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 007 || Nemo || _Downloaded_ || [http://p.defau.lt/?3qpqOZdAwinhcBFqCAg4vg Final check] ||
 || 008 || Nemo || _Downloaded_ || [http://p.defau.lt/?mS38BbpNQteTQZa8AI3mWQ Final check] ||
 || 009 || Nemo || _Downloaded_ || [http://p.defau.lt/?N4iuP5BFsmNjxf1wJ6GLDw Final check] ||
-|| 010 || Nemo || _Downloaded_ || [http://p.defau.lt/?cuYNGuhwREQeDJZV0wlu4A Final check] (katlas.math.toronto.edu has 1.6 million pages, doing separately: end expected for mid May) ||
+|| 010 || Nemo || _Downloaded_ || [http://p.defau.lt/?cuYNGuhwREQeDJZV0wlu4A Final check] (katlas.math.toronto.edu has 1.6 million pages, finished as well) ||
 || 011 || mutoso || _Downloaded_ || [http://p.defau.lt/?1_xFsDt6XdQMf_b0Ln9Kpg Final check] ||
 || 012 || Nemo || _Downloaded_ || [http://p.defau.lt/?c_BiYqgcaqw3WHpIsYiZYg Final check] ||
-|| 013 || Nemo || Downloading || ... ||
+|| 013 || Nemo || _Downloaded_ || Except a single wiki still being downloaded ||
 || 014 || Nemo || _Downloaded_ || [http://p.defau.lt/?_23I5WxxA1Nl420d7e2w6g Final check] ||
 || 015 || Nemo || _Downloaded_ || [http://p.defau.lt/?KwIjaL3YnDFaLZAxguSz5g Final check] ||
 || 016 || Nemo || _Downloaded_ || [http://p.defau.lt/?pivzqD3LC9vLC0v1nIhm9w Final check] ||
@@ -55,33 +55,43 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 020 || mutoso || || ... ||
 || 021 || Nemo || _Downloaded_ || [http://p.defau.lt/?nu9Pm6nZ5viT6JXNaHcKBQ Final check] ||
 || 022 || Nemo || _Downloaded_ || [http://p.defau.lt/?_ftjeMHPvKfSLYaq7RbvOQ Final check] ||
-|| 023 || Nemo || Downloading || ||
+|| 023 || Nemo || _Downloaded_ || Except a single wiki still being downloaded ||
 || 024 || Nemo || _Downloaded_ || [http://p.defau.lt/?_IPvyVEBJa2UuoVzUM2Yag Final check] ||
-|| 025 || Nemo || Downloading || ||
-|| 026 || Nemo || Downloading || ||
-|| 027 || Nemo || Downloading || ||
-|| 028 || Nemo || Downloading || ||
-|| 029 || Nemo || Downloading || ||
-|| 030 || Nemo || Downloading || ||
-|| 031 || Nemo || Downloading || ||
-|| 032 || Nemo || Downloading || ||
-|| 033 || Nemo || Downloading || ||
-|| 034 || Nemo || Downloading || ||
-|| 035 || Nemo || Downloading || ||
-|| 036 || Nemo || Downloading || ||
-|| 037 || Nemo || Downloading || ||
-|| 038 || ... || || ... ||
-|| 039 || ... || || ... ||
-|| 040 || ... || || ... ||
-|| 041 || ... || || ... ||
-|| 042 || ... || || ... ||
-|| 043 || ... || || ... ||
-|| 044 || ... || || ... ||
-|| 045 || ... || || ... ||
+|| 025 || Nemo || _Downloaded_ || ||
+|| 026 || Nemo || _Downloaded_ || ||
+|| 027 || Nemo || _Downloaded_ || ||
+|| 028 || Nemo || _Downloaded_ || ||
+|| 029 || Nemo || _Downloaded_ || ||
+|| 030 || Nemo || _Downloaded_ || ||
+|| 031 || Nemo || _Downloaded_ || Several wikis with broken export in these chunks, script loops so no check. ||
+|| 032 || Nemo || _Downloaded_ || Except a single wiki still being downloaded ||
+|| 033 || Nemo || _Downloaded_ || ||
+|| 034 || Nemo || _Downloaded_ || ||
+|| 035 || Nemo || _Downloaded_ || ||
+|| 036 || Nemo || _Downloaded_ || Except a single wiki still being downloaded ||
+|| 037 || Nemo || _Downloaded_ || ||
+|| 038 || Nemo || || ... ||
+|| 039 || Nemo || || ... ||
+|| 040 || Nemo || || ... ||
+|| 041 || Nemo || || ... ||
+|| 042 || Nemo || || ... ||
+|| 043 || Nemo || || ... ||
+|| 044 || Nemo || || ... ||
+|| 045 || Nemo || || ... ||
 || 046 || ... || || ... ||
 || 047 || ... || || ... ||
 || 048 || ... || || ... ||
 || 049 || ... || || ... ||
+|| 050 || ... || || ... ||
+|| 051 || ... || || ... ||
+|| 052 || ... || || ... ||
+|| 053 || ... || || ... ||
+|| 054 || ... || || ... ||
+|| 055 || ... || || ... ||
+|| 056 || ... || || ... ||
+|| 057 || ... || || ... ||
+|| 058 || ... || || ... ||
+|| 059 || ... || || ... ||
 
 == Where/How to upload the dumps? ==
 
