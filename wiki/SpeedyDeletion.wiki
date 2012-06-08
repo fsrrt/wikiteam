@@ -1,5 +1,6 @@
 #summary speedydeletion capture project
 #labels archive.org,wiki,delete
+#sidebar sidebar
 
 = Introduction =
 
