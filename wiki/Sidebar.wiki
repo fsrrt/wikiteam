@@ -11,6 +11,7 @@
     * [TaskForce Task force]
     * [ToDo ToDo]
   * [Research Research]
+  * [SpeedyDeletion SpeedyDeletion]
   * [WikiFarms WikiFarms]
 
 _History is our future_
