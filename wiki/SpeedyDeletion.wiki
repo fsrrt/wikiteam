@@ -15,7 +15,8 @@ Many thanks to Mike Dupont, he merged the code from the pywikipedia bot framewor
 https://github.com/h4ck3rm1k3/wikiteam
 
 == S3 buckets == 
-It uses boto/s3 to upload the buckets, they are currently created by hand, but use the month name. 
+It uses boto/s3 to upload the buckets, they are currently created by hand, but use the month name.
+
 For May 2012 : 
 http://archive.org/details/wikipedia-delete-2012-05
 
@@ -33,7 +34,7 @@ The runexport.sh script is this:
 {{{
 export PYTHONPATH=/home/mdupont/experiments/wikipedia/wikiteamgit/
 cd /home/mdupont/experiments/wikipedia/wikiteamgit/data
-python /home/mdupont/experiments/wikipedia/wikiteamgit/dumpgenerator.py   --api=http://en.wikipedia.org/w/api.php --xml
+python /home/mdupont/experiments/wikipedia/wikiteamgit/dumpgenerator.py --api=http://en.wikipedia.org/w/api.php --xml
 }}}
 
 
