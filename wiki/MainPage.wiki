@@ -22,7 +22,7 @@ There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_
 
 = Current events =
 The last *news* (follow us on [http://twitter.com/#!/WikiTeamProject Twitter] too!):
-  * 2012-06-07: The SpeedyDeletion tool has been running for some weeks collecting English Wikipedia articles to be deleted every 30 minutes.
+  * 2012-06-07: The SpeedyDeletion tool has been running for some weeks collecting English Wikipedia articles to be deleted every 30 minutes. The articles are being saved at [http://archive.org/details/wikipedia-delete-2012-06 Internet Archive] and [http://speedydeletion.wikia.com speedydeletion.wikia.com].
   * 2012-05-17: Wikimedia projects dumps are now mirrored in [http://dumps.wikimedia.org/mirrors.html three different locations] around the globe. Very good news.
   * 2012-04-25: Steven Leeman archives [http://wiki.fon.com Fon wiki] ([http://www.webcitation.org/67BNif6yE WebCite]) and uploads it to [http://archive.org/details/wiki-wikifoncom_563 Internet Archive]. Thanks!
   * 2012-04-07: We start a TaskForce to archive 7,000+ wikis from a list by Andrew Pavlo (2009).
