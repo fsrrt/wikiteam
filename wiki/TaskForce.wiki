@@ -38,7 +38,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 003 || Nemo || _Downloaded_ || [http://p.defau.lt/?xs2m67fsd6WvOqsgMssN_g Final check]. citywiki.ugr.es seems to have about 100 GB of images (underscor will download it). ||
 || 004 || ianmcorvidae || Downloading || ... ||
 || 005 || Nemo || _Downloaded_ || [http://p.defau.lt/?b_5gXJxVTPPzppgd7jxfrg Final check] ||
-|| 006 || Nemo || Downloading || [http://p.defau.lt/?xFZdHVoVpJBhI5fA5icN3g Final check] ||
+|| 006 || Nemo || _Downloaded_ || [http://p.defau.lt/?xFZdHVoVpJBhI5fA5icN3g Final check] ||
 || 007 || Nemo || _Downloaded_ || [http://p.defau.lt/?3qpqOZdAwinhcBFqCAg4vg Final check] ||
 || 008 || Nemo || _Downloaded_ || [http://p.defau.lt/?mS38BbpNQteTQZa8AI3mWQ Final check] ||
 || 009 || Nemo || _Downloaded_ || [http://p.defau.lt/?N4iuP5BFsmNjxf1wJ6GLDw Final check] ||
