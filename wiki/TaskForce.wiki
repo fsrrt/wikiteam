@@ -64,40 +64,40 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 029 || Nemo || _Downloaded_ || ||
 || 030 || Nemo || _Downloaded_ || ||
 || 031 || Nemo || _Downloaded_ || Several wikis with broken export in these chunks, script loops so no check. ||
-|| 032 || Nemo || _Downloaded_ || Except a single wiki still being downloaded ||
+|| 032 || Nemo || _Downloaded_ || ||
 || 033 || Nemo || _Downloaded_ || ||
 || 034 || Nemo || _Downloaded_ || ||
 || 035 || Nemo || _Downloaded_ || ||
 || 036 || Nemo || _Downloaded_ || Except a single wiki still being downloaded ||
 || 037 || Nemo || _Downloaded_ || ||
-|| 038 || Nemo || || ... ||
-|| 039 || Nemo || || ... ||
-|| 040 || Nemo || || ... ||
-|| 041 || Nemo || || ... ||
-|| 042 || Nemo || || ... ||
-|| 043 || Nemo || || ... ||
-|| 044 || Nemo || || ... ||
-|| 045 || Nemo || || ... ||
-|| 046 || Nemo || || ... ||
-|| 047 || Nemo || || ... ||
-|| 048 || Nemo || || ... ||
-|| 049 || Nemo || || ... ||
-|| 050 || Nemo || || ... ||
-|| 051 || Nemo || || ... ||
-|| 052 || Nemo || || ... ||
-|| 053 || Nemo || || ... ||
-|| 054 || Nemo || || ... ||
-|| 055 || Nemo || || ... ||
-|| 056 || ... || || ... ||
-|| 057 || ... || || ... ||
-|| 058 || ... || || ... ||
-|| 059 || ... || || ... ||
-|| 060 || ... || || ... ||
-|| 061 || ... || || ... ||
-|| 062 || ... || || ... ||
-|| 063 || ... || || ... ||
-|| 064 || ... || || ... ||
-|| 065 || ... || || ... ||
+|| 038 || Nemo || Downloading || ... ||
+|| 039 || Nemo || Downloading || ... ||
+|| 040 || Nemo || Downloading || ... ||
+|| 041 || Nemo || Downloading || ... ||
+|| 042 || Nemo || Downloading || ... ||
+|| 043 || Nemo || Downloading || ... ||
+|| 044 || Nemo || Downloading || ... ||
+|| 045 || Nemo || Downloading || ... ||
+|| 046 || Nemo || Downloading || ... ||
+|| 047 || Nemo || Downloading || ... ||
+|| 048 || Nemo || Downloading || ... ||
+|| 049 || Nemo || Downloading || ... ||
+|| 050 || Nemo || Downloading || ... ||
+|| 051 || Nemo || Downloading || ... ||
+|| 052 || Nemo || Downloading || ... ||
+|| 053 || Nemo || Downloading || ... ||
+|| 054 || Nemo || Downloading || ... ||
+|| 055 || Nemo || Downloading || ... ||
+|| 056 || Nemo || Downloading || ... ||
+|| 057 || Nemo || Downloading || ... ||
+|| 058 || Nemo || Downloading || ... ||
+|| 059 || Nemo || Downloading || ... ||
+|| 060 || Nemo || Downloading || ... ||
+|| 061 || Nemo || Downloading || ... ||
+|| 062 || Nemo || Downloading || ... ||
+|| 063 || Nemo || Downloading || ... ||
+|| 064 || Nemo || Downloading || ... ||
+|| 065 || Nemo || Downloading || ... ||
 || 066 || ... || || ... ||
 || 067 || ... || || ... ||
 || 068 || ... || || ... ||
