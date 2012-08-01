@@ -12,7 +12,10 @@
   * *Wikkii wikifarm December 2011* backup (pending upload)
   * *[http://archive.org/details/referata.com-20111204 Referata wikifarm December 2011]* backup (37 wikis)
   * *[http://wikiindex.org/List_of_wikibackups List of wikibackups]* at WikiIndex
-  * Some wikis preserve pages deleted by Wikipedia community: *[http://archive.org/details/wiki-deletionpedia.dbatley.com DeletionPedia]*, *[http://code.google.com/p/wikiteam/downloads/list?can=2&q=pluspedia PlusPedia]*, *[http://speedydeletion.wikia.com Speedy deletion Wiki]*, ...
+  * Some wikis preserve pages deleted by Wikip/media community:
+    * *[http://deletionpedia.dbatley.com DeletionPedia]* ([http://archive.org/details/wiki-deletionpedia.dbatley.com backup])
+    * *[http://de.pluspedia.org PlusPedia]* ([http://code.google.com/p/wikiteam/downloads/list?can=2&q=pluspedia backup])
+    * *[http://speedydeletion.wikia.com Speedy deletion Wiki]* ([http://wikistats.wikia.com/s/sp/speedydeletion/pages_full.xml.gz backup])
   * We are working on many more. Do you want to help? [http://groups.google.com/group/wikiteam-discuss Talk with us] and join to the *TaskForce*.
 
 Most backups include the XML with the full page histories and images. You need a MediaWiki to import all the data. Read [http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps this] and [http://www.mediawiki.org/wiki/Manual:ImportImages.php this] to know how to import a backup.
