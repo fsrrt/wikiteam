@@ -7,8 +7,9 @@
 
   * *[http://code.google.com/p/wikiteam/downloads/list?num=5000 Downloads section]* at Google Code (+150 wikis)
   * *[http://archive.org/search.php?query=collection%3Awikiteam&sort=-publicdate WikiTeam Collection]* at Internet Archive (+100 wikis)
-  * *[http://mirrors.sdboyd56.com/WikiTeam/index.html Scott Boyd server]* (150 wikis)
+  * *[http://mirrors.sdboyd56.com/WikiTeam/index.html Scott Boyd server]* (150 wikis) (temporarily offline)
   * *[http://archive.org/details/shoutwiki.com ShoutWiki wikifarm August 2011]* backup (397 wikis)
+  * *Wikkii wikifarm December 2011* backup (pending upload)
   * *[http://archive.org/details/referata.com-20111204 Referata wikifarm December 2011]* backup (37 wikis)
   * *[http://wikiindex.org/List_of_wikibackups List of wikibackups]* at WikiIndex
   * Some wikis preserve pages deleted by Wikipedia community: *[http://archive.org/details/wiki-deletionpedia.dbatley.com DeletionPedia]*, *[http://code.google.com/p/wikiteam/downloads/list?can=2&q=pluspedia PlusPedia]*, ...
