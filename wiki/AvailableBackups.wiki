@@ -5,9 +5,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Nuvola_devices_3floppy_mount.png" width=100px alt="Download available backups" title="Download available backups" align=right />
 *!WikiTeam* has made a lot of wiki backups. Here you have a list:
 
-  * *[http://code.google.com/p/wikiteam/downloads/list?num=5000 Downloads section]* at Google Code (+150 wikis)
-  * *[http://archive.org/search.php?query=collection%3Awikiteam&sort=-publicdate WikiTeam Collection]* at Internet Archive (+100 wikis)
-  * *[http://mirrors.sdboyd56.com/WikiTeam/index.html Scott Boyd server]* (150 wikis) (temporarily offline)
+  * *[http://code.google.com/p/wikiteam/downloads/list?num=5000 Downloads section]* at Google Code (150+ wikis)
+  * *[http://archive.org/search.php?query=collection%3Awikiteam&sort=-publicdate WikiTeam Collection]* at Internet Archive (100+ wikis)
+  * *[http://mirrors.sdboyd56.com/WikiTeam/index.html Scott Boyd server]* (150+ wikis) (temporarily offline)
   * *[http://archive.org/details/shoutwiki.com ShoutWiki wikifarm August 2011]* backup (397 wikis)
   * *Wikkii wikifarm December 2011* backup (pending upload)
   * *[http://archive.org/details/referata.com-20111204 Referata wikifarm December 2011]* backup (37 wikis)
@@ -27,7 +27,7 @@ Have you made any wiki backup? Leave a comment and a link below. You also can jo
 == Wiki projects offering backups ==
 
 Some wiki communities offer backups of their content (usually only wikitext, not images):
-  * [http://dumps.wikimedia.org Wikipedia dumps]
+  * [http://dumps.wikimedia.org Wikipedia dumps] ([http://ftpmirror.your.org/pub/wikimedia/imagedumps/tarballs/ image dumps] finally too!)
   * [http://wiki-stats.wikia.com Wikia dumps]
   * [http://en.citizendium.org/wiki/CZ:Downloads Citizendium dumps]
   * [http://en.gentoo-wiki.com/wiki/Gentoo_Linux_Wiki:Backup Gentoo Linux Wiki dumps]
