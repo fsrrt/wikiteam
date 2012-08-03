@@ -1,6 +1,7 @@
 #summary All the wikis you can download from our collections
 #labels Featured
 #sidebar Sidebar
+_Learn to make backups using !WikiTeam tools reading our NewTutorial_
 == Available backups ==
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Nuvola_devices_3floppy_mount.png" width=100px alt="Download available backups" title="Download available backups" align=right />
 *!WikiTeam* has made a lot of wiki backups. Please, consider to download them and help to preserve all human knowledge. Here you have a list:
@@ -20,8 +21,6 @@
   * We are working on many more. Do you want to help? [http://groups.google.com/group/wikiteam-discuss Talk with us] and join to the *TaskForce*.
 
 Most backups include the XML with the full page histories and images. You need a MediaWiki to import all the data. Read [http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps this] and [http://www.mediawiki.org/wiki/Manual:ImportImages.php this] to know how to import a backup.
-
-Learn to make backups using !WikiTeam tools reading our NewTutorial.
 
 Have you made any wiki backup? Leave a comment and a link below. You also can join to our *[Mirrors Mirrors]* volunteers. Thanks!
 
