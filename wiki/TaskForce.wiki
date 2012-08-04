@@ -36,7 +36,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 001 || ScottDB || Downloaded ||... ||
 || 002 || underscor || Downloading || ... ||
 || 003 || Nemo || _Downloaded_ || [http://p.defau.lt/?xs2m67fsd6WvOqsgMssN_g Final check]. Including citywiki.ugr.es that is [http://archive.org/details/wiki-citywiki.ugr.es archived]. ||
-|| 004 || ianmcorvidae || Downloading || ... ||
+|| 004 || ianmcorvidae || Downloading || Downloaded: 61; variety of errors, mostly index.php missing ||
 || 005 || Nemo || _Downloaded_ || [http://p.defau.lt/?b_5gXJxVTPPzppgd7jxfrg Final check]; 1 wiki being redownloaded ||
 || 006 || Nemo || _Downloaded_ || [http://p.defau.lt/?xFZdHVoVpJBhI5fA5icN3g Final check] ||
 || 007 || Nemo || _Downloaded_ || [http://p.defau.lt/?3qpqOZdAwinhcBFqCAg4vg Final check] ||
