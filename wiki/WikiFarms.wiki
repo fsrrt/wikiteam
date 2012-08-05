@@ -12,8 +12,8 @@ For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/sourc
   * ScribbleWiki (offline and lost)
   * Sourceforge: subdomains and sourceforge.net/apps/mediawiki/`*` (online, pending archive)
   * [http://www.shoutwiki.com ShoutWiki] 400+ wikis (offline, [http://www.archive.org/details/shoutwiki.com archived])
-  * [http://tropicalwikis.com TropicalWikis] (online but reset?)
-  * [http://www.wikia.com Wikia] 100,000+ wikis (online, pending archive)
+  * [http://tropicalwikis.com TropicalWikis] [http://www.tropicalwikis.com/wiki/Special:Farmer/list 100+ wikis] (online but reset?)
+  * [http://www.wikia.com Wikia] 250,000+ wikis (online, pending archive)
   * [http://wiki-site.com Wiki-site.com] (online, pending archive)
   * [http://wikkii.com Wikkii] 3,000+ wikis (archived, pending upload)
 
