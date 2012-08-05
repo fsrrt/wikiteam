@@ -24,7 +24,7 @@ For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/sourc
   * http://c2.com/cgi/wiki?WikiFarms
 
 == Lists of wikis by subject ==
-  * http://wikiindex.org 5,000+ wikis
+  * http://wikiindex.org 15,000+ wikis
   * [http://maps.google.com/maps/ms?ie=UTF8&t=h&msa=0&msid=115570622864617231547.00044e461c185a89b6d71&ll=49.095452,14.677734&spn=39.93254,79.013672&z=4 Regiowikis] on Google Maps 100+ wikis
   * [http://en.wikipedia.org/wiki/User:Emijrp/Regiowikis User:Emijrp/Regiowikis]
   * [http://www.cs.brown.edu/~pavlo/mediawiki/ 20,000+ wikis]
