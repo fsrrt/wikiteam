@@ -16,7 +16,7 @@ _Learn to make backups using !WikiTeam tools reading our NewTutorial_
   * Some wikis preserve pages deleted by Wikip/media community:
     * *[http://deletionpedia.dbatley.com DeletionPedia]* saved [http://deletionpedia.dbatley.com/w/index.php?title=Special:Statistics 62,000+ deleted pages] from English Wikipedia ([http://archive.org/details/wiki-deletionpedia.dbatley.com backup])
     * *[http://de.pluspedia.org PlusPedia]* saved [http://de.pluspedia.org/wiki/Kategorie:WikiPedia_Deleted 13,000+ deleted pages] from German Wikipedia ([http://code.google.com/p/wikiteam/downloads/list?can=2&q=pluspedia backup])
-    * *[http://speedydeletion.wikia.com Speedy deletion Wiki]* preserves [http://speedydeletion.wikia.com/wiki/Special:Statistics 54,000+ deleted pages] from several wikis ([http://wikistats.wikia.com/s/sp/speedydeletion/pages_full.xml.gz backup])
+    * *[http://speedydeletion.wikia.com Speedy deletion Wiki]* preserves [http://speedydeletion.wikia.com/wiki/Special:Statistics 60,000+ deleted pages] from several wikis ([http://wikistats.wikia.com/s/sp/speedydeletion/pages_full.xml.gz backup])
   * *[http://archive.org/search.php?query=%22wikimedia%20commons%20grab%22 Wikimedia Commons Grab]* (2004, 2005 and 2006 years)
   * We are working on many more. Do you want to help? [http://groups.google.com/group/wikiteam-discuss Talk with us] and join to the *TaskForce*.
 
