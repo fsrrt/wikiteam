@@ -118,3 +118,5 @@ You need to download [http://code.google.com/p/wikiteam/source/browse/trunk/uplo
 You will need [http://archive.org/account/s3.php Internet Archive S3-keys] associated to your user account. Generate and save them both in a file named keys.txt (first line for access key, second line for secret key).
 
 To execute, do this: *python uploader.py mylist.txt*
+
+It generates a log file which you must to preserve to avoid reuploading the same dumps if you re-run the upload script.
