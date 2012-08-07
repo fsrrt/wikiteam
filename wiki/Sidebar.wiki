@@ -3,13 +3,18 @@
   * [News News]
   * [NewTutorial New tutorial]
   * [FAQ FAQ]
-  * Downloads
-    * [AvailableBackups Available backups]
+
+  * Software
     * [http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py dumpgenerator.py]
+
+  * Collections
+    * [AvailableBackups Available backups]
     * [Mirrors Mirrors]
+
   * Community
     * [TaskForce Task force]
     * [ToDo ToDo]
+
   * [Research Research]
   * [SpeedyDeletion SpeedyDeletion]
   * [WikiFarms WikiFarms]
