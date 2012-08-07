@@ -3,12 +3,12 @@
   * [News News]
   * [NewTutorial New tutorial]
   * [FAQ FAQ]
-  * Software
+  * *Software*
     * [http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py dumpgenerator.py]
-  * Collections
+  * *Collections*
     * [AvailableBackups Available backups]
     * [Mirrors Mirrors]
-  * Community
+  * *Community*
     * [TaskForce Task force]
     * [ToDo ToDo]
   * [Research Research]
