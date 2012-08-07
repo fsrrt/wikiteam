@@ -29,7 +29,7 @@ Have you made any wiki backup? Leave a comment and a link below. You also can jo
 Some wiki communities offer backups of their content (usually only wikitext, not images):
   * [http://dumps.wikimedia.org Wikipedia dumps] ([http://ftpmirror.your.org/pub/wikimedia/imagedumps/tarballs/ image dumps] finally too!)
   * [http://wiki-stats.wikia.com Wikia dumps]
-  * [http://en.citizendium.org/wiki/CZ:Downloads Citizendium dumps]
+  * [http://en.citizendium.org/wiki/CZ:Downloads Citizendium dumps] (only current revision, not full histories)
   * [http://en.gentoo-wiki.com/wiki/Gentoo_Linux_Wiki:Backup Gentoo Linux Wiki dumps]
   * [http://www.omegawiki.org/Development OmegaWiki dumps]
   * [http://wiki.osdev.org/OSDev_Wiki:About OSDev dumps]
