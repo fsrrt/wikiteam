@@ -18,7 +18,7 @@ _Learn to make backups using !WikiTeam tools reading our NewTutorial_
     * *[http://de.pluspedia.org PlusPedia]* saved [http://de.pluspedia.org/wiki/Kategorie:WikiPedia_Deleted 13,000+ deleted pages] from German Wikipedia ([http://code.google.com/p/wikiteam/downloads/list?can=2&q=pluspedia backup])
     * *[http://speedydeletion.wikia.com Speedy deletion Wiki]* preserves [http://speedydeletion.wikia.com/wiki/Special:Statistics 60,000+ deleted pages] from several wikis ([http://wikistats.wikia.com/s/sp/speedydeletion/pages_full.xml.gz backup])
   * *[http://archive.org/search.php?query=%22wikimedia%20commons%20grab%22 Wikimedia Commons Grab]* (2004, 2005 and 2006 years)
-  * *[http://archive.org/details/wiki-encitizendiumorg Citizendium 2012-04-15 dump]*
+  * *[http://archive.org/details/wiki-encitizendiumorg Citizendium 2012-04-15]* dump (full history)
   * We are working on many more. Do you want to help? [http://groups.google.com/group/wikiteam-discuss Talk with us] and join to the *TaskForce*.
 
 Most backups include the XML with the full page histories and images. You need a MediaWiki to import all the data. Read [http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps this] and [http://www.mediawiki.org/wiki/Manual:ImportImages.php this] to know how to import a backup.
