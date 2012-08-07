@@ -4,7 +4,8 @@
   * [NewTutorial New tutorial]
   * [FAQ FAQ]
   * *Software*
-    * [http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py dumpgenerator.py]
+    * [http://code.google.com/p/wikiteam/source/browse/trunk/wikipediadownloader.py wikipediadownloader.py] ([http://wikiteam.googlecode.com/svn/trunk/wikipediadownloader.py raw])
+    * [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py] ([http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py raw])
   * *Collections*
     * [AvailableBackups Available backups]
     * [Mirrors Mirrors]
