@@ -4,8 +4,8 @@
   * [NewTutorial New tutorial]
   * [FAQ FAQ]
   * Downloads
-    * [http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py dumpgenerator.py]
     * [AvailableBackups Available backups]
+    * [http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py dumpgenerator.py]
     * [Mirrors Mirrors]
   * Community
     * [TaskForce Task force]
