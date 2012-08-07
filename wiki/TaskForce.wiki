@@ -70,19 +70,19 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 035 || Nemo || _Downloaded_ || ||
 || 036 || Nemo || _Downloaded_ || Except a single wiki still being downloaded ||
 || 037 || Nemo || _Downloaded_ || ||
-|| 038 || Nemo || Downloading || A couple wikis still being downloaded ||
+|| 038 || Nemo || _Downloaded_ || ||
 || 039 || Nemo || _Downloaded_ || ... ||
 || 040 || Nemo || _Downloaded_ || ... ||
 || 041 || Nemo || _Downloaded_ || ... ||
-|| 042 || Nemo || Downloading || ... ||
+|| 042 || Nemo || Downloading || A huge wiki still being downloaded. ||
 || 043 || Nemo || _Downloaded_ || ... ||
-|| 044 || Nemo || Downloading || ... ||
+|| 044 || Nemo || _Downloaded_ || ... ||
 || 045 || Nemo || _Downloaded_ || ... ||
 || 046 || Nemo || _Downloaded_ || ... ||
 || 047 || Nemo || Downloading || ... ||
 || 048 || Nemo || Downloading || ... ||
 || 049 || Nemo || Downloading || ... ||
-|| 050 || Nemo || Downloading || ... ||
+|| 050 || Nemo || _Downloaded_ || ... ||
 || 051 || Nemo || _Downloaded_ || ... ||
 || 052 || Nemo || _Downloaded_ || ... ||
 || 053 || Nemo || Downloading || ... ||
