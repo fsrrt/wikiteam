@@ -7,7 +7,7 @@ _Learn to make backups using !WikiTeam tools reading our NewTutorial_
 *!WikiTeam* has made a lot of *wiki backups*. Please, consider to download them and help to preserve all human knowledge. Here you have a list:
 
   * *[http://code.google.com/p/wikiteam/downloads/list?num=5000 Downloads section]* at Google Code (150+ wikis)
-  * *[http://archive.org/details/wikiteam WikiTeam Collection]* at Internet Archive (700+ wikis) ← It is our central repository and may contain all the dumps
+  * *[http://archive.org/details/wikiteam WikiTeam Collection]* at Internet Archive (1600+ wikis) ← It is our central repository and may contain all the dumps
   * *[http://mirrors.sdboyd56.com/WikiTeam/index.html Scott Boyd server]* (150+ wikis) (temporarily offline)
   * *[http://archive.org/details/shoutwiki.com ShoutWiki wikifarm August 2011]* backup (397 wikis)
   * *Wikkii wikifarm December 2011* backup (pending upload)
