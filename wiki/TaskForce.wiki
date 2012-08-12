@@ -35,7 +35,7 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 000 || emijrp || Downloading || Downloaded: X. Incomplete: X. Errors: X. ||
 || 001 || ScottDB || Downloaded ||... ||
 || 002 || underscor || Downloading || ... ||
-|| 003 || Nemo || _Downloaded_ || [http://p.defau.lt/?xs2m67fsd6WvOqsgMssN_g Final check]. Including citywiki.ugr.es that is [http://archive.org/details/wiki-citywiki.ugr.es archived]. ||
+|| 003 || Nemo || _Downloaded_ || [http://p.defau.lt/?xs2m67fsd6WvOqsgMssN_g Final check]. Including citywiki.ugr.es that is [http://archive.org/details/wiki-citywiki.ugr.es archived]. *All wikis done* except [http://p.defau.lt/?YccPGmBR8qh9uf7FAiYnOA 6 wikis which can't finish download] and biosite still being downloaded. *[https://code.google.com/p/wikiteam/source/browse/trunk/listsofwikis/mediawikis_pavlo_launcherlogs-Nemo.7z See logs]*. ||
 || 004 || ianmcorvidae || Downloading || Downloaded: 61; variety of errors, mostly index.php missing ||
 || 005 || Nemo || _Downloaded_ || [http://p.defau.lt/?b_5gXJxVTPPzppgd7jxfrg Final check]; 1 wiki being redownloaded ||
 || 006 || Nemo || _Downloaded_ || [http://p.defau.lt/?xFZdHVoVpJBhI5fA5icN3g Final check] ||
@@ -45,59 +45,59 @@ Lists claimed by users. Notify us when you start downloading a list of wikis. If
 || 010 || Nemo || _Downloaded_ || [http://p.defau.lt/?cuYNGuhwREQeDJZV0wlu4A Final check] (katlas.math.toronto.edu has 1.6 million pages, finished as well) ||
 || 011 || mutoso || _Downloaded_ || [http://p.defau.lt/?1_xFsDt6XdQMf_b0Ln9Kpg Final check] ||
 || 012 || Nemo || _Downloaded_ || [http://p.defau.lt/?c_BiYqgcaqw3WHpIsYiZYg Final check] ||
-|| 013 || Nemo || _Downloaded_ || Except a single wiki still being downloaded ||
+|| 013 || Nemo || _Downloaded_ || See above. ||
 || 014 || Nemo || _Downloaded_ || [http://p.defau.lt/?_23I5WxxA1Nl420d7e2w6g Final check] ||
 || 015 || Nemo || _Downloaded_ || [http://p.defau.lt/?KwIjaL3YnDFaLZAxguSz5g Final check] ||
 || 016 || Nemo || _Downloaded_ || [http://p.defau.lt/?pivzqD3LC9vLC0v1nIhm9w Final check]; 1 wiki being redownloaded ||
 || 017 || Nemo || _Downloaded_ || [http://p.defau.lt/?pacTBWaiBfOGWW00Qdzaew Final check] ||
 || 018 || Nemo || _Downloaded_ || [http://p.defau.lt/?KKDffMa_VX02rRGU91qY5g Final check] ||
-|| 019 || Nemo || _Downloaded_ || 2 wikis being redownloaded ||
+|| 019 || Nemo || _Downloaded_ || See above. ||
 || 020 || mutoso || || ... ||
 || 021 || Nemo || _Downloaded_ || [http://p.defau.lt/?nu9Pm6nZ5viT6JXNaHcKBQ Final check] ||
 || 022 || Nemo || _Downloaded_ || [http://p.defau.lt/?_ftjeMHPvKfSLYaq7RbvOQ Final check]; 1 wiki being redownloaded ||
-|| 023 || Nemo || _Downloaded_ || Except a single wiki still being downloaded ||
+|| 023 || Nemo || _Downloaded_ || See above. ||
 || 024 || Nemo || _Downloaded_ || [http://p.defau.lt/?_IPvyVEBJa2UuoVzUM2Yag Final check] ||
-|| 025 || Nemo || _Downloaded_ || ||
-|| 026 || Nemo || _Downloaded_ || ||
-|| 027 || Nemo || _Downloaded_ || ||
-|| 028 || Nemo || _Downloaded_ || ||
-|| 029 || Nemo || _Downloaded_ || 1 wiki being redownloaded ||
-|| 030 || Nemo || _Downloaded_ || 1 wiki being redownloaded ||
-|| 031 || Nemo || _Downloaded_ || Several wikis with broken export in these chunks, script loops so no check. ||
-|| 032 || Nemo || _Downloaded_ || ||
-|| 033 || Nemo || _Downloaded_ || ||
-|| 034 || Nemo || _Downloaded_ || ||
-|| 035 || Nemo || _Downloaded_ || ||
+|| 025 || Nemo || _Downloaded_ || See above. ||
+|| 026 || Nemo || _Downloaded_ || See above. ||
+|| 027 || Nemo || _Downloaded_ || See above. ||
+|| 028 || Nemo || _Downloaded_ || See above. ||
+|| 029 || Nemo || _Downloaded_ || See above. ||
+|| 030 || Nemo || _Downloaded_ || See above. ||
+|| 031 || Nemo || _Downloaded_ || See above. ||
+|| 032 || Nemo || _Downloaded_ || See above. ||
+|| 033 || Nemo || _Downloaded_ || See above. ||
+|| 034 || Nemo || _Downloaded_ || See above. ||
+|| 035 || Nemo || _Downloaded_ || See above. ||
 || 036 || Nemo || _Downloaded_ || Except a single wiki still being downloaded ||
-|| 037 || Nemo || _Downloaded_ || ||
-|| 038 || Nemo || _Downloaded_ || ||
-|| 039 || Nemo || _Downloaded_ || ... ||
-|| 040 || Nemo || _Downloaded_ || ... ||
-|| 041 || Nemo || _Downloaded_ || ... ||
-|| 042 || Nemo || Downloading || A huge wiki still being downloaded. ||
-|| 043 || Nemo || _Downloaded_ || ... ||
-|| 044 || Nemo || _Downloaded_ || ... ||
-|| 045 || Nemo || _Downloaded_ || ... ||
-|| 046 || Nemo || _Downloaded_ || ... ||
-|| 047 || Nemo || Downloading || ... ||
-|| 048 || Nemo || Downloading || ... ||
-|| 049 || Nemo || Downloading || ... ||
-|| 050 || Nemo || _Downloaded_ || ... ||
-|| 051 || Nemo || _Downloaded_ || ... ||
-|| 052 || Nemo || _Downloaded_ || ... ||
-|| 053 || Nemo || Downloading || ... ||
-|| 054 || Nemo || Downloading || ... ||
-|| 055 || Nemo || Downloading || ... ||
-|| 056 || Nemo || Downloading || ... ||
-|| 057 || Nemo || Downloading || ... ||
-|| 058 || Nemo || Downloading || ... ||
-|| 059 || Nemo || Downloading || ... ||
-|| 060 || Nemo || Downloading || ... ||
-|| 061 || Nemo || Downloading || ... ||
-|| 062 || Nemo || Downloading || ... ||
-|| 063 || Nemo || Downloading || ... ||
-|| 064 || Nemo || Downloading || ... ||
-|| 065 || Nemo || Downloading || ... ||
+|| 037 || Nemo || _Downloaded_ || See above. ||
+|| 038 || Nemo || _Downloaded_ || See above. ||
+|| 039 || Nemo || _Downloaded_ || See above. ||
+|| 040 || Nemo || _Downloaded_ || See above. ||
+|| 041 || Nemo || _Downloaded_ || See above. ||
+|| 042 || Nemo || _Downloaded_ || See above. ||
+|| 043 || Nemo || _Downloaded_ || See above. ||
+|| 044 || Nemo || _Downloaded_ || See above. ||
+|| 045 || Nemo || _Downloaded_ || See above. ||
+|| 046 || Nemo || _Downloaded_ || See above. ||
+|| 047 || Nemo || _Downloaded_ || See above. ||
+|| 048 || Nemo || _Downloaded_ || See above. ||
+|| 049 || Nemo || _Downloaded_ || See above. ||
+|| 050 || Nemo || _Downloaded_ || See above. ||
+|| 051 || Nemo || _Downloaded_ || See above. ||
+|| 052 || Nemo || _Downloaded_ || See above. ||
+|| 053 || Nemo || _Downloaded_ || See above. ||
+|| 054 || Nemo || _Downloaded_ || See above. ||
+|| 055 || Nemo || _Downloaded_ || See above. ||
+|| 056 || Nemo || _Downloaded_ || See above. ||
+|| 057 || Nemo || _Downloaded_ || See above. ||
+|| 058 || Nemo || _Downloaded_ || See above. ||
+|| 059 || Nemo || _Downloaded_ || See above. ||
+|| 060 || Nemo || _Downloaded_ || See above. ||
+|| 061 || Nemo || _Downloaded_ || See above. ||
+|| 062 || Nemo || _Downloaded_ || See above. ||
+|| 063 || Nemo || _Downloaded_ || See above. ||
+|| 064 || Nemo || _Downloaded_ || See above. ||
+|| 065 || Nemo || _Downloaded_ || See above. ||
 || 066 || underscor || Downloading || ... ||
 || 067 || underscor || Downloading || ... ||
 || 068 || underscor || Downloading || ... ||
