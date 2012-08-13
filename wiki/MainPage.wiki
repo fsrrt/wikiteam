@@ -1,6 +1,6 @@
 = We archive wikis, from Wikipedia to tiniest wikis =
 
-*!WikiTeam software is a set of tools for archiving wikis.* They work on !MediaWiki wikis, but we want to expand to other wiki engines. As of August 2012, !WikiTeam has preserved [AvailableBackups more than 1600 wikis].
+*!WikiTeam software is a set of tools for archiving wikis.* They work on !MediaWiki wikis, but we want to expand to other wiki engines. As of August 2012, !WikiTeam has preserved [AvailableBackups more than 4,000 wikis].
 
 There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/en of] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/multilingual wikis] in the Internet. Everyday some of them are no longer publicly available and, due to lack of [AvailableBackups backups], lost forever. Millions of people download tons of media files (movies, music, books, etc) from the Internet, implementing a kind of distributed backup. Wikis, most of them under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame that we would like to solve.
 
