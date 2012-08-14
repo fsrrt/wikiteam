@@ -1,6 +1,6 @@
 = We archive wikis, from Wikipedia to tiniest wikis =
 
-*!WikiTeam software is a set of tools for archiving wikis.* They work on !MediaWiki wikis, but we want to expand to other wiki engines. As of August 2012, !WikiTeam has preserved [AvailableBackups more than 4,000 wikis].
+*!WikiTeam software is a set of tools for archiving wikis.* They work on !MediaWiki wikis, but we want to expand to other wiki engines. As of August 2012, !WikiTeam has preserved [AvailableBackups more than 4,500 wikis].
 
 There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/en of] [http://www.mediawiki.org/wiki/Sites_using_MediaWiki/multilingual wikis] in the Internet. Everyday some of them are no longer publicly available and, due to lack of [AvailableBackups backups], lost forever. Millions of people download tons of media files (movies, music, books, etc) from the Internet, implementing a kind of distributed backup. Wikis, most of them under free licenses, disappear from time to time because nobody grabbed a copy of them. That is a shame that we would like to solve.
 
@@ -64,7 +64,7 @@ Are you a *researcher*? If you have conducted any [Research research] about wiki
 This project contains a lot of material. *Be careful with the licenses*.
   * The [http://code.google.com/p/wikiteam/source/checkout source code] is [http://www.gnu.org/licenses/gpl-3.0.html GPLv3]
   * The [http://code.google.com/p/wikiteam/w/list documentation] in this site is [http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons 3.0 BY-SA]
-  * Every [http://code.google.com/p/wikiteam/downloads/list?can=1 backup] of every wiki has its own license. Visit the wiki and search for the license of texts and images. Read more in our [FAQ]
+  * Every [AvailableBackups backup] of every wiki has its own license. Visit the wiki and search for the license of texts and images. Read more in our [FAQ]
 
 = Note =
 Due to lack of space, we do not offer image dumps in Google Code. *The dumps only include the texts of the wikis (usually full histories).* Although you can run the script and generate your own backup which would contain all the texts and images (if you use _--xml_ _--images_ options).
