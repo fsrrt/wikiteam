@@ -16,7 +16,7 @@ There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_
 </td><td>
 <a href="http://groups.google.com/group/wikiteam-discuss"><img src="http://upload.wikimedia.org/wikipedia/commons/0/0f/Nuvola_apps_kuser.png" width=100px alt="Community" title="Community"/></a>
 </td><td>
-<a href="http://twitter.com/#!/WikiTeamProject"><img src="http://upload.wikimedia.org/wikipedia/commons/e/eb/Twitter_logo_initial.png" width=90px alt="Follow us on Twitter" title="Follow us on Twitter"/></a>
+<a href="http://twitter.com/#!/_WikiTeam"><img src="http://upload.wikimedia.org/wikipedia/commons/e/eb/Twitter_logo_initial.png" width=90px alt="Follow us on Twitter" title="Follow us on Twitter"/></a>
 </td></tr>
 </table>
 
