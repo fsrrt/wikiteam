@@ -19,6 +19,7 @@ _Learn to make backups using !WikiTeam tools reading our NewTutorial_
     * *[http://speedydeletion.wikia.com Speedy deletion Wiki]* preserves [http://speedydeletion.wikia.com/wiki/Special:Statistics 140,000+ deleted pages] from several wikis ([http://wikistats.wikia.com/s/sp/speedydeletion/pages_full.xml.gz backup], [http://archive.org/details/speedydeletionwiki dumps on Internet Archive])
   * *[http://archive.org/details/wikimediacommons Wikimedia Commons Grab]* (2004, 2005 and 2006 years)
   * *[http://archive.org/details/wiki-encitizendiumorg Citizendium 2012-04-15]* dump (full history)
+  * *[http://archive.org/details/wikia_dump_20121204 Wikia wikifarm January 2013]* backup (34,174 wikis)
   * We are working on many more. Do you want to help? [http://groups.google.com/group/wikiteam-discuss Talk with us] and join to the *TaskForce*.
 
 Most backups include the XML with the full page histories and images. You need a MediaWiki to import all the data. Read [http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps this] and [http://www.mediawiki.org/wiki/Manual:ImportImages.php this] to know how to import a backup.
