@@ -38,3 +38,4 @@ Some wiki communities offer backups of their content (usually only wikitext, not
   * [http://dumps.wikifur.com Wikifur dumps]
   * [http://www.wikivoyage.org/general/Wikivoyage:XML_dumps Wikivoyage dumps]
   * [http://rationalwiki.org/wiki/RationalWiki:Content_dumps RationalWiki dumps]
+  * [http://www.shoutwiki.com/dumps/ ShoutWiki dumps]
