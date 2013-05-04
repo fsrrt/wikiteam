@@ -119,4 +119,4 @@ You will need [http://archive.org/account/s3.php Internet Archive S3-keys] assoc
 
 To execute, do this: *python uploader.py mylist.txt*
 
-It generates a log file which you must to preserve to avoid reuploading the same dumps if you re-run the upload script.
+It generates a log file which you must preserve to avoid reuploading the same dumps if you re-run the upload script.
