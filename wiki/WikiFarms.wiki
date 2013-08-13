@@ -8,7 +8,7 @@ For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/sourc
 === MediaWiki ===
   * [http://editthis.info EditThis.info] (online, pending archive)
   * elwiki.com (offline and lost)
-  * [https://meta.orain.org Orain]
+  * [https://meta.orain.org Orain] (online, pending archive)
   * [http://www.referata.com Referata] (Semantic MediaWiki) ([http://archive.org/details/referata.com-20111204 archived])
   * ScribbleWiki (offline and lost)
   * Sourceforge: subdomains and sourceforge.net/apps/mediawiki/`*` (online, pending archive)
