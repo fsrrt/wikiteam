@@ -11,7 +11,7 @@ _Learn to make backups using !WikiTeam tools reading our NewTutorial_
   * *[http://mirrors.sdboyd56.com/WikiTeam/index.html Scott Boyd's server]* (200+ wikis)
   * *[http://archive.org/details/shoutwiki.com ShoutWiki wikifarm August 2011]* backup (397 wikis)
   * *Wikkii wikifarm December 2011* backup (pending upload)
-  * *[http://archive.org/details/referata.com-20111204 Referata wikifarm December 2011]* backup (37 wikis)
+  * *[http://archive.org/details/wikifarm-referata.com-20130824 Referata wikifarm (August 2013)]* backup (archiving)
   * *[http://wikiindex.org/List_of_wikibackups List of wikibackups]* at WikiIndex
   * Some wikis preserve pages deleted by Wikip/media community:
     * *[http://deletionpedia.dbatley.com DeletionPedia]* saved [http://deletionpedia.dbatley.com/w/index.php?title=Special:Statistics 62,000+ deleted pages] from English Wikipedia ([http://archive.org/details/wiki-deletionpedia.dbatley.com backup])
@@ -20,6 +20,7 @@ _Learn to make backups using !WikiTeam tools reading our NewTutorial_
   * *[http://archive.org/details/wikimediacommons Wikimedia Commons Grab]* (2004, 2005 and 2006 years)
   * *[http://archive.org/details/wiki-encitizendiumorg Citizendium 2012-04-15]* dump (full history)
   * *[http://archive.org/details/wikia_dump_20121204 Wikia wikifarm January 2013]* backup (34,174 wikis)
+  * *[http://archive.org/details/wikifarm-orain.org-20130824 Orain.org wikifarm (August 2013)]* backup (16 wikis)
   * We are working on many more. Do you want to help? [http://groups.google.com/group/wikiteam-discuss Talk with us] and join to the *TaskForce*.
 
 Most backups include the XML with the full page histories and images. You need a MediaWiki to import all the data. Read [http://www.mediawiki.org/wiki/Manual:Importing_XML_dumps this] and [http://www.mediawiki.org/wiki/Manual:ImportImages.php this] to know how to import a backup.
@@ -36,6 +37,5 @@ Some wiki communities offer backups of their content (usually only wikitext, not
   * [http://www.omegawiki.org/Development OmegaWiki dumps]
   * [http://wiki.osdev.org/OSDev_Wiki:About OSDev dumps]
   * [http://dumps.wikifur.com Wikifur dumps]
-  * [http://www.wikivoyage.org/general/Wikivoyage:XML_dumps Wikivoyage dumps]
   * [http://rationalwiki.org/wiki/RationalWiki:Content_dumps RationalWiki dumps]
   * [http://www.shoutwiki.com/dumps/ ShoutWiki dumps]
