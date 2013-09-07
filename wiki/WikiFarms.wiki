@@ -9,7 +9,7 @@ For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/sourc
   * [http://editthis.info EditThis.info] (online, pending archive)
   * elwiki.com (offline and lost)
   * [https://meta.orain.org Orain] (online, [https://archive.org/details/wikifarm-orain.org-20130824 archived])
-  * [http://www.referata.com Referata] (Semantic MediaWiki) ([http://archive.org/details/referata.com-20111204 archived])
+  * [http://www.referata.com Referata] (Semantic MediaWiki) (online, [http://archive.org/details/referata.com-20111204 archived], second archive pending upload)
   * ScribbleWiki (offline and lost)
   * Sourceforge: subdomains and sourceforge.net/apps/mediawiki/`*` (online, pending archive)
   * [http://www.shoutwiki.com ShoutWiki] 400+ wikis (online, [http://www.archive.org/details/shoutwiki.com archived])
