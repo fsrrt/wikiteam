@@ -22,6 +22,7 @@ There are [http://wikiindex.org thousands] [http://www.mediawiki.org/wiki/Sites_
 
 = Current events =
 The last *news* (follow us on [http://twitter.com/#!/WikiTeamProject Twitter] too!):
+  * 2013-10-14: WikiTeam has just finished archiving all [http://commons.wikimedia.org Wikimedia Commons] files up to 2012 on the [https://archive.org/details/wikimediacommons Internet Archive]. About 24 TB of content.
   * 2013-03-17: Niklas Laxström has kindly provided a [https://archive.org/details/wiki-translatewikinet_w dump of translatewiki.net] (13th biggest wiki by number of pages).
   * 2013-01-27: [https://archive.org/details/wikia_dump_20121204 Wikia wikis dumps archived]. About 34,000 wikis have dumps, one tenth of existing Wikia wikis. Wikia has now restricted dump requests to "autoconfirmed" users.
   * 2012-11-09: Specifications are written for a [https://meta.wikimedia.org/wiki/WikiTeam/Dumpgenerator_rewrite rewrite of dumpgenerator.py] to fully benefit of MediaWiki WebAPI (probably via pywikipediabot framework).
