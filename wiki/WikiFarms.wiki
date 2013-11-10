@@ -16,6 +16,7 @@ For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/sourc
   * [http://tropicalwikis.com TropicalWikis] [http://www.tropicalwikis.com/wiki/Special:Farmer/list 100+ wikis] (online but reset?, pending move to Orain)
   * [http://www.wikia.com Wikia] 250,000+ wikis (online, [https://archive.org/details/wikia_dump_20121109 partial archive] [http://archive.org/details/wikia_dump_20121204 2])
   * [http://wiki-site.com Wiki-site.com] (online, pending archive)
+  * [http://wikihub.ssu.lt WikiHub] (online, [https://archive.org/details/wikifarm-wikihub.ssu.lt-20131110 archived])
   * [http://wikkii.com Wikkii] 3,000+ wikis (archived, pending upload)
 
 === Not MediaWiki ===
