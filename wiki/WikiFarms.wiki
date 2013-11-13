@@ -14,7 +14,7 @@ For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/sourc
   * Sourceforge: subdomains and sourceforge.net/apps/mediawiki/`*` (online, pending archive)
   * [http://www.shoutwiki.com ShoutWiki] 400+ wikis (online, [http://www.archive.org/details/shoutwiki.com archived])
   * [http://tropicalwikis.com TropicalWikis] [http://www.tropicalwikis.com/wiki/Special:Farmer/list 100+ wikis] (online but reset?, pending move to Orain)
-  * [http://www.wikia.com Wikia] 250,000+ wikis (online, [https://archive.org/details/wikia_dump_20121109 partial archive] [http://archive.org/details/wikia_dump_20121204 2])
+  * [http://www.wikia.com Wikia] 340,000+ wikis (online, [https://archive.org/details/wikia_dump_20121109 partial archive 1], [http://archive.org/details/wikia_dump_20121204 2]) (see the [https://community.wikia.com/wiki/Help:Database_download database download help page] and the [https://github.com/Wikia/app/tree/dev/extensions/wikia/WikiFactory/Dumps dumping code they use])
   * [http://wiki-site.com Wiki-site.com] (online but flaky, pending archive)
   * [http://wikihub.ssu.lt WikiHub] (online, [https://archive.org/details/wikifarm-wikihub.ssu.lt-20131110 archived])
   * [http://wikkii.com Wikkii] 3,000+ wikis (online but flaky, pending upload)
