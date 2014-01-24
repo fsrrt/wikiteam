@@ -18,6 +18,8 @@ If you have shell access on the web server, follow the instructions on this page
 
 If you have no shell access, then use the WikiTeam [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py dumpgenerator.py] ([http://wikiteam.googlecode.com/svn/trunk/dumpgenerator.py download]), available at the [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk repository].
 
+There are *[https://wikiapiary.com/wiki/Category:Website_not_archived thousands wikis you can help archive]*, for which our wonderful friends of WikiApiary could not find a dump.
+
 ===Requirements===
 
 You will need *Python*: http://www.python.org/download/
