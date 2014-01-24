@@ -1,9 +1,9 @@
-#summary List of wikifarms and their statuses
 #labels Featured
+h#summary List of wikifarms and their statuses
 #sidebar Sidebar
 == List of wikifarms ==
 
-For a list of wikis in these wikifarms, [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk%2Flistsofwikis look here]. If you know about a wiki which is missing in the lists, please, leave a comment.
+We collect [http://code.google.com/p/wikiteam/source/browse/#svn%2Ftrunk%2Flistsofwikis lists of wikifarms wikis]. If you know about a wiki which is missing in the lists, please, leave a comment. See also the [https://wikiapiary.com/wiki/Farm:Main_Page Wikiapiary wikifarms list].
 
 === MediaWiki ===
   * [http://editthis.info EditThis.info] (online but flaky, pending archive)
