@@ -97,13 +97,26 @@ or
 
 It is suggested that you use the following file-naming convention: domainorg-20110520-history.xml.7z - where "domainorg" is the domain name, "20110520" is the date the dump was started. (You can use the domain name and date from the directory that was created when the dump was started.)
 
+=== Automatic ===
+
 [https://code.google.com/p/wikiteam/source/browse/trunk/batchdownload/launcher.py launcher.py] does all this automatically for you; especially useful for multiple wikis at once (it takes a text list of wikis as input).
 
 =Publishing the dump=
-And of course, you then have to release your dumps! You can easily do so on the [http://archive.org Internet Archive], as with [http://archive.org/details/wiki-artandpopularculture.com this example]. 
+And of course, you then have to release your dumps! You can easily do so on the [https://archive.org/details/wikiteam Internet Archive's wikiteam collection]. [http://archive.org/account/login.php Login] or register first.
 
-Normally, you can just use [https://code.google.com/p/wikiteam/source/browse/trunk/uploader.py uploader.py] (especially if you have multiple wikis); otherwise, follow the steps manually.
-  # [http://archive.org/account/login.php Login] and [http://archive.org/create/ create a new item] for each wiki. 
+== Automatic publishing ==
+
+Normally, you can just use [https://code.google.com/p/wikiteam/source/browse/trunk/uploader.py uploader.py] (especially if you have multiple wikis): the script takes the filename of a list of wikis as argument and uploads their dumps to archive.org.
+If you've used launcher.py or followed the instructions above closely, you only need to:
+  # [http://www.archive.org/account/s3.php take your s3 keys], save them one per line on a `keys.txt` file;
+  # edit the script `collection = 'wikiteam'` line, setting it to `opensource` instead;
+  # run the script like `python uploader.py mywikis`, where `mywikis` is a list of the api.php URL(s) of the wiki(s) to upload, one per line.
+
+If this doesn't work for you, check that dumps are in the same directory and follow the -wikidump.7z/-history.xml.7z format as produced by launcher.py (explained in the next section).
+
+== Manual publishing ==
+
+  # [http://archive.org/create/ Create a new item] for each wiki.
   # Use wiki-DOMAIN as identifier and "Wiki - NAME" as title. 
   # Add "MediaWiki; wiki; wikiteam" as subject/keywords so that it's possible to find the item. 
   # If possible, enter more info in the relevant fields, like the license of the wiki. 
