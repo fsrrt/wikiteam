@@ -109,7 +109,6 @@ And of course, you then have to release your dumps! You can easily do so on the 
 Normally, you can just use [https://code.google.com/p/wikiteam/source/browse/trunk/uploader.py uploader.py] (especially if you have multiple wikis): the script takes the filename of a list of wikis as argument and uploads their dumps to archive.org.
 If you've used launcher.py or followed the instructions above closely, you only need to:
   # [http://www.archive.org/account/s3.php take your s3 keys], save them one per line on a `keys.txt` file;
-  # edit the script `collection = 'wikiteam'` line, setting it to `opensource` instead;
   # run the script like `python uploader.py mywikis`, where `mywikis` is a list of the api.php URL(s) of the wiki(s) to upload, one per line.
 
 If this doesn't work for you, check that dumps are in the same directory and follow the -wikidump.7z/-history.xml.7z format as produced by launcher.py (explained in the next section).
