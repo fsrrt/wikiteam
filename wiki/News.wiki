@@ -4,6 +4,11 @@
 The log with all the news related to WikiTeam.
 
 == 2012 ==
+  * 2012-11-09: Specifications are written for a [https://meta.wikimedia.org/wiki/WikiTeam/Dumpgenerator_rewrite rewrite of dumpgenerator.py] to fully benefit of MediaWiki WebAPI (probably via pywikipediabot framework).
+  * 2012-08-06: [http://code.google.com/p/wikiteam/source/browse/trunk/uploader.py Uploader] script is finally coded and we start to make some test uploads before people launch it to upload the thousands TaskForce downloaded dumps.
+  * 2012-06-07: The SpeedyDeletion tool has been running for some weeks collecting English Wikipedia articles to be deleted every 30 minutes. The articles are being saved at [http://archive.org/details/wikipedia-delete-2012-06 Internet Archive] and [http://speedydeletion.wikia.com speedydeletion.wikia.com].
+  * 2012-05-17: Wikimedia projects dumps are now mirrored in [http://dumps.wikimedia.org/mirrors.html three different locations] around the globe. Very good news.
+  * 2012-04-25: Steven Leeman archives [http://wiki.fon.com Fon wiki] ([http://www.webcitation.org/67BNif6yE WebCite]) and uploads it to [http://archive.org/details/wiki-wikifoncom_563 Internet Archive]. Thanks!
   * 2012-04-07: We start a TaskForce to archive 7,000+ wikis from a list by Andrew Pavlo (2009).
   * 2012-04-05: WikiTeam 1st Birthday! \o/
   * 2012-03-03: WikiTeam tools need a Graphical User Interface ([GUI]) to reach a greater community. We start to work on this.
