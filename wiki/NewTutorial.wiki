@@ -99,7 +99,7 @@ It is suggested that you use the following file-naming convention: domainorg-201
 
 === Automatic ===
 
-[https://code.google.com/p/wikiteam/source/browse/trunk/batchdownload/launcher.py launcher.py] does all this automatically for you; especially useful for multiple wikis at once (it takes a text list of wikis as input).
+[https://code.google.com/p/wikiteam/source/browse/trunk/batchdownload/launcher.py launcher.py] does all this automatically for you; especially useful for multiple wikis at once (it takes a text list of wikis as input): see "Download a list of wikis" below.
 
 =Publishing the dump=
 And of course, you then have to release your dumps! You can easily do so on the [https://archive.org/details/wikiteam Internet Archive's wikiteam collection]. [http://archive.org/account/login.php Login] or register first.
@@ -131,7 +131,7 @@ Advanced tips:
 =Download a list of wikis==
 A script has been created to mass download lists of wikis, initially for the TaskForce: [http://wikiteam.googlecode.com/svn/trunk/batchdownload/launcher.py launcher.py]. 
 
-Just run it like this: *python launcher.py mylist.txt*. The list must contain URLs to the [https://www.mediawiki.org/wiki/API:Main_page#The_endpoint api.php] of each wiki you have to download, one per line.
+Just place it in the same directory as dumpgenerator.py and run it like this: *python launcher.py mylist.txt*. The list must contain URLs to the [https://www.mediawiki.org/wiki/API:Main_page#The_endpoint api.php] of each wiki you have to download, one per line.
 
 The script will try to dump both pages and images of all those wikis, to verify the integrity of the XML dump and to create archives ready for upload to the Internet Archive. It doesn't handle upload yet, but it will soon.
 
