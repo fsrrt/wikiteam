@@ -11,7 +11,7 @@ _Learn to make backups using !WikiTeam tools reading our NewTutorial_
   * *[http://mirrors.sdboyd56.com/WikiTeam/index.html Scott Boyd's server]* (300+ wikis)
   * *[http://archive.org/details/shoutwiki.com ShoutWiki wikifarm August 2011]* backup (397 wikis)
   * *Wikkii wikifarm December 2011* backup (pending upload)
-  * *[http://archive.org/details/wikifarm-referata.com-20130824 Referata wikifarm (August 2013)]* backup (archiving)
+  * *[http://archive.org/details/wikifarm-referata.com-20130824 Referata wikifarm (August 2013)]* backup
   * *[http://wikiindex.org/List_of_wikibackups List of wikibackups]* at WikiIndex
   * Some wikis preserve pages deleted by Wikip/media community:
     * *[http://deletionpedia.dbatley.com DeletionPedia]* saved [http://deletionpedia.dbatley.com/w/index.php?title=Special:Statistics 62,000+ deleted pages] from English Wikipedia ([http://archive.org/details/wiki-deletionpedia.dbatley.com backup])
